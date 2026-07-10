@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-10T13:22:45",
+ "generated_at": "2026-07-10T13:23:51",
  "city": "Torino",
  "sources": [
   {
@@ -46,6 +46,11 @@
    "id": "bunker",
    "name": "Bunker",
    "enabled": true
+  },
+  {
+   "id": "xceed",
+   "name": "XCEED",
+   "enabled": true
   }
  ],
  "events": [
@@ -59,13 +64,13 @@
    "address": "",
    "lat": null,
    "lon": null,
-   "start": "2026-07-10T13:22:44",
+   "start": "2026-07-10T13:23:48",
    "end": null,
    "all_day": false,
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-07-10T13:22:44",
+   "fetched_at": "2026-07-10T13:23:48",
    "id": "fbbc3b428b125b02"
   },
   {
@@ -84,7 +89,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-07-10T13:22:44",
+   "fetched_at": "2026-07-10T13:23:48",
    "id": "53336eadd63cd57a"
   },
   {
@@ -103,7 +108,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-07-10T13:22:44",
+   "fetched_at": "2026-07-10T13:23:48",
    "id": "cdf0a66211b0bf5b"
   },
   {
@@ -122,7 +127,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-07-10T13:22:44",
+   "fetched_at": "2026-07-10T13:23:48",
    "id": "967e66139494c734"
   },
   {
@@ -141,7 +146,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-07-10T13:22:44",
+   "fetched_at": "2026-07-10T13:23:48",
    "id": "e9bd3ad6d42a4fb3"
   },
   {
@@ -160,7 +165,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-07-10T13:22:44",
+   "fetched_at": "2026-07-10T13:23:48",
    "id": "e811e8548f3e2f43"
   }
  ]
