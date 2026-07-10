@@ -60,3 +60,9 @@ sources:
     url: 'https://xceed.me/it/torino/events'
     default_category: eventi
     enabled: true
+  - id: gancio_cisti
+    name: 'Gancio Cisti'
+    type: rss
+    url: 'https://gancio.cisti.org/'
+    default_category: centri_sociali
+    enabled: true
