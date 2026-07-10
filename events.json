@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-10T14:49:25",
+ "generated_at": "2026-07-10T16:12:39",
  "city": "Torino",
  "sources": [
   {
@@ -30,7 +30,7 @@
   {
    "id": "guidatorino_eventi_html",
    "name": "GuidaTorino — pagina eventi (HTML)",
-   "enabled": false
+   "enabled": true
   },
   {
    "id": "residentadvisor",
@@ -74,13 +74,13 @@
    "address": "",
    "lat": null,
    "lon": null,
-   "start": "2026-07-10T14:49:16",
+   "start": "2026-07-10T16:12:30",
    "end": null,
    "all_day": false,
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-07-10T14:49:16",
+   "fetched_at": "2026-07-10T16:12:30",
    "id": "fbbc3b428b125b02"
   },
   {
@@ -99,7 +99,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-07-10T14:49:16",
+   "fetched_at": "2026-07-10T16:12:30",
    "id": "53336eadd63cd57a"
   },
   {
@@ -118,7 +118,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-07-10T14:49:16",
+   "fetched_at": "2026-07-10T16:12:30",
    "id": "cdf0a66211b0bf5b"
   },
   {
@@ -137,7 +137,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-07-10T14:49:16",
+   "fetched_at": "2026-07-10T16:12:30",
    "id": "967e66139494c734"
   },
   {
@@ -156,7 +156,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://gancio.cisti.org/media/130ae0b49ad57fc59d3febe4519f7232.jpg",
-   "fetched_at": "2026-07-10T14:49:23",
+   "fetched_at": "2026-07-10T16:12:36",
    "id": "2b8b3ba6eb3bc6d0"
   },
   {
@@ -175,27 +175,8 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://gancio.cisti.org/media/fd4758a6c626d390d442a1fa58899820.jpg",
-   "fetched_at": "2026-07-10T14:49:23",
+   "fetched_at": "2026-07-10T16:12:36",
    "id": "5962af74df585ba8"
-  },
-  {
-   "title": "[2026-07-09] Apertura CdL Felix @ CDL FELIX Asti",
-   "source_id": "gancio_cisti",
-   "url": "https://gancio.cisti.org/event/apertura-cdl-felix-96",
-   "description": "Apertura CdL Felix  CDL FELIX Asti - Via XX Settembre 112 Asti   (giovedì, 9 luglio 17:00)    Come ogni giovedì, il CDL sarà aperto dalle 17 alle 20 nel cortile di via XX settembre 112. Birra fresca, giornali, libri in prestito, consultazione e vendita!  Abbiamo un sacco di nuovi arrivi, passate a trovarci!",
-   "category": "centri_sociali",
-   "venue": "",
-   "address": "",
-   "lat": null,
-   "lon": null,
-   "start": "2026-09-07T00:00:00",
-   "end": null,
-   "all_day": true,
-   "date_confidence": "high",
-   "price": "",
-   "image": "https://gancio.cisti.org/media/2ec5add61c7e373dfa0a83b15b574d88.jpg",
-   "fetched_at": "2026-07-10T14:49:23",
-   "id": "19ba9ce365549bff"
   },
   {
    "title": "[2026-07-09] Festa di quasi...fine cantiere @ El Paso Occupato",
@@ -213,8 +194,27 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://gancio.cisti.org/media/7208d9b7e6872f70ca4a74688f63da8c.jpg",
-   "fetched_at": "2026-07-10T14:49:23",
+   "fetched_at": "2026-07-10T16:12:36",
    "id": "4d4a891e3743e0a4"
+  },
+  {
+   "title": "[2026-07-16] Apertura CdL Felix @ CDL FELIX Asti",
+   "source_id": "gancio_cisti",
+   "url": "https://gancio.cisti.org/event/apertura-cdl-felix-97",
+   "description": "Apertura CdL Felix  CDL FELIX Asti - Via XX Settembre 112 Asti   (giovedì, 16 luglio 17:00)    Come ogni giovedì, il CDL sarà aperto dalle 17 alle 20 nel cortile di via XX settembre 112. Birra fresca, giornali, libri in prestito, consultazione e vendita!  Abbiamo un sacco di nuovi arrivi, passate a trovarci!",
+   "category": "centri_sociali",
+   "venue": "",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-09-10T00:00:00",
+   "end": null,
+   "all_day": true,
+   "date_confidence": "high",
+   "price": "",
+   "image": "https://gancio.cisti.org/media/2ec5add61c7e373dfa0a83b15b574d88.jpg",
+   "fetched_at": "2026-07-10T16:12:37",
+   "id": "4c64a79f8cc6d14e"
   },
   {
    "title": "[2026-07-10] Apertura Ciclofficina Popolare Malabrocca @ Ciclofficina Malabrocca",
@@ -232,7 +232,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://gancio.cisti.org/media/0bc6f2a679ac2f5b8a533966365a39af.jpg",
-   "fetched_at": "2026-07-10T14:49:23",
+   "fetched_at": "2026-07-10T16:12:36",
    "id": "964ddb80045b546d"
   },
   {
@@ -251,7 +251,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://gancio.cisti.org/media/047320c9ade4b164aa6cfc37160f11a1.jpg",
-   "fetched_at": "2026-07-10T14:49:23",
+   "fetched_at": "2026-07-10T16:12:36",
    "id": "6ad66f0da9ebd7d1"
   },
   {
@@ -270,7 +270,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://gancio.cisti.org/media/e57c6aefb5e3eaa289aef46627acb5db.jpg",
-   "fetched_at": "2026-07-10T14:49:23",
+   "fetched_at": "2026-07-10T16:12:36",
    "id": "aabeae157f4246c1"
   },
   {
@@ -289,7 +289,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://gancio.cisti.org/media/8790dec85b86758c9933590cc63f4a4e.jpg",
-   "fetched_at": "2026-07-10T14:49:23",
+   "fetched_at": "2026-07-10T16:12:36",
    "id": "229307024e088d65"
   },
   {
@@ -308,7 +308,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://gancio.cisti.org/media/49dbfc96419cb88b708243c8f234e29f.jpg",
-   "fetched_at": "2026-07-10T14:49:23",
+   "fetched_at": "2026-07-10T16:12:36",
    "id": "5baa123fefe38d1e"
   },
   {
@@ -327,7 +327,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://gancio.cisti.org/media/33957174f36ddc493112557b3a73986a.jpg",
-   "fetched_at": "2026-07-10T14:49:23",
+   "fetched_at": "2026-07-10T16:12:36",
    "id": "04a8cb8cb0c15088"
   },
   {
@@ -346,7 +346,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://gancio.cisti.org/media/59549672cd1a5904823c092c190fd24c.jpg",
-   "fetched_at": "2026-07-10T14:49:23",
+   "fetched_at": "2026-07-10T16:12:36",
    "id": "a7f10e8316b46b36"
   },
   {
@@ -365,7 +365,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://gancio.cisti.org/media/5fc3229a37f27975d9e6f23ed8864ff7.jpg",
-   "fetched_at": "2026-07-10T14:49:23",
+   "fetched_at": "2026-07-10T16:12:36",
    "id": "d22e9d13c2c58039"
   },
   {
@@ -384,7 +384,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://gancio.cisti.org/media/7742afea8fd84ce23be983dcab4856a0.jpg",
-   "fetched_at": "2026-07-10T14:49:23",
+   "fetched_at": "2026-07-10T16:12:36",
    "id": "ac9da6d3f8a75f62"
   },
   {
@@ -403,7 +403,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://gancio.cisti.org/media/b6958ca47e21afad260be3cee1ad3709.jpg",
-   "fetched_at": "2026-07-10T14:49:23",
+   "fetched_at": "2026-07-10T16:12:37",
    "id": "545237acb0af0bd6"
   },
   {
@@ -422,7 +422,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://gancio.cisti.org/media/41afd9250dafd0e90921d8d497c810ad.jpg",
-   "fetched_at": "2026-07-10T14:49:23",
+   "fetched_at": "2026-07-10T16:12:37",
    "id": "886f526f49042a81"
   },
   {
@@ -441,7 +441,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://gancio.cisti.org/media/a2b00e1542f45eea13e8304401c268aa.jpg",
-   "fetched_at": "2026-07-10T14:49:23",
+   "fetched_at": "2026-07-10T16:12:37",
    "id": "bd24d7bf6df3e197"
   },
   {
@@ -460,7 +460,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-07-10T14:49:16",
+   "fetched_at": "2026-07-10T16:12:30",
    "id": "e9bd3ad6d42a4fb3"
   },
   {
@@ -479,7 +479,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://gancio.cisti.org/media/4dea4c8f723e77d38901b3616f75833f.jpg",
-   "fetched_at": "2026-07-10T14:49:23",
+   "fetched_at": "2026-07-10T16:12:37",
    "id": "672de4e079c046b5"
   },
   {
@@ -498,7 +498,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://gancio.cisti.org/media/dd2b56a3ed0daa46bafd50eba7cdf20a.jpg",
-   "fetched_at": "2026-07-10T14:49:23",
+   "fetched_at": "2026-07-10T16:12:37",
    "id": "f29bfd67c1aa95cd"
   },
   {
@@ -517,7 +517,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://gancio.cisti.org/media/23139ffff4d5e0e983ef67f5e8911b47.jpg",
-   "fetched_at": "2026-07-10T14:49:23",
+   "fetched_at": "2026-07-10T16:12:37",
    "id": "e72a6277d6c2b83f"
   },
   {
@@ -536,7 +536,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://gancio.cisti.org/media/b5e3ae427f3a73d063f23ae9859c2aa9.jpg",
-   "fetched_at": "2026-07-10T14:49:23",
+   "fetched_at": "2026-07-10T16:12:37",
    "id": "ecb521a2b50b5e28"
   },
   {
@@ -555,7 +555,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-07-10T14:49:16",
+   "fetched_at": "2026-07-10T16:12:30",
    "id": "e811e8548f3e2f43"
   }
  ]
