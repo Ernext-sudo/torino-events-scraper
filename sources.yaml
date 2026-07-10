@@ -58,7 +58,7 @@ sources:
     name: 'XCEED'
     type: rss
     url: 'https://xceed.me/it/torino/events'
-    default_category: eventi
+    default_category: club
     enabled: true
   - id: gancio_cisti
     name: 'Gancio Cisti'
