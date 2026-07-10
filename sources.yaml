@@ -35,7 +35,7 @@ sources:
     type: html_guidatorino
     url: 'https://www.guidatorino.com/eventi-torino/'
     default_category: eventi
-    enabled: false
+    enabled: true
   - id: residentadvisor
     name: 'Resident Advisor — Torino'
     type: todo
