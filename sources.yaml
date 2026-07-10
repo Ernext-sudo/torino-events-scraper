@@ -1,68 +1,56 @@
-# Registro fonti — eventi Torino
-# Ogni fonte: id univoco, nome, tipo parser, url, categoria di default, enabled.
-# Le fonti disabilitate vengono ignorate dallo scraper MA restano nella lista
-# esportata in events.json, così l'app le mostra comunque nella schermata Fonti.
-
+# Generato dall'app Torino Events
 sources:
-  # ---------- RSS (Citynews) ----------
   - id: torinotoday_eventi
-    name: TorinoToday — Eventi
+    name: 'TorinoToday — Eventi'
     type: rss
-    url: https://www.torinotoday.it/rss/eventi
+    url: 'https://www.torinotoday.it/rss/eventi'
     default_category: eventi
     enabled: true
-
   - id: torinotoday_tempolibero
-    name: TorinoToday — Tempo Libero
+    name: 'TorinoToday — Tempo Libero'
     type: rss
-    url: https://www.torinotoday.it/rss/tempo-libero
+    url: 'https://www.torinotoday.it/rss/tempo-libero'
     default_category: eventi
     enabled: false
-
-  # ---------- RSS (WordPress: /feed/) ----------
   - id: guidatorino
-    name: GuidaTorino
+    name: 'GuidaTorino'
     type: rss
-    url: https://www.guidatorino.com/feed/
+    url: 'https://www.guidatorino.com/feed/'
     default_category: eventi
     enabled: true
-
   - id: mole24
-    name: Mole24
+    name: 'Mole24'
     type: rss
-    url: https://www.mole24.it/feed/
+    url: 'https://www.mole24.it/feed/'
     default_category: eventi
     enabled: false
-
-  # ---------- Comune di Torino ----------
   - id: torinogiovani
-    name: TorinoGiovani (Comune di Torino)
+    name: 'TorinoGiovani (Comune di Torino)'
     type: rss
-    url: http://www.comune.torino.it/torinogiovani/rss.xml
+    url: 'http://www.comune.torino.it/torinogiovani/rss.xml'
     default_category: eventi
-    enabled: false   # verificare URL feed attuale
-
-  # ---------- Parser HTML dedicati (uno per fonte) ----------
+    enabled: false
   - id: guidatorino_eventi_html
-    name: GuidaTorino — pagina eventi (HTML)
+    name: 'GuidaTorino — pagina eventi (HTML)'
     type: html_guidatorino
-    url: https://www.guidatorino.com/eventi-torino/
+    url: 'https://www.guidatorino.com/eventi-torino/'
     default_category: eventi
-    enabled: false   # attivare dopo aver verificato i selettori
-
-  # ---------- Placeholder per fasi successive ----------
-  # Resident Advisor (GraphQL), DICE, Xceed, canali Telegram dei centri sociali:
-  # richiedono parser dedicati -> fase 2 (mini PC + LLM locale)
+    enabled: false
   - id: residentadvisor
-    name: Resident Advisor — Torino
+    name: 'Resident Advisor — Torino'
     type: todo
-    url: https://ra.co/events/it/torino
+    url: 'https://ra.co/events/it/torino'
     default_category: club
     enabled: false
-
   - id: dice
-    name: DICE — Torino
+    name: 'DICE — Torino'
     type: todo
-    url: https://dice.fm/browse/torino
+    url: 'https://dice.fm/browse/torino'
     default_category: concerti
     enabled: false
+  - id: bunker
+    name: 'Bunker'
+    type: rss
+    url: 'https://variantebunker.com/eventi-in-programma/'
+    default_category: eventi
+    enabled: true
