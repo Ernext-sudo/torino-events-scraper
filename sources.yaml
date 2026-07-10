@@ -11,7 +11,7 @@ sources:
     type: rss
     url: 'https://www.torinotoday.it/rss/tempo-libero'
     default_category: eventi
-    enabled: false
+    enabled: true
   - id: guidatorino
     name: 'GuidaTorino'
     type: rss
