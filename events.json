@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-10T14:21:07",
+ "generated_at": "2026-07-10T14:23:45",
  "city": "Torino",
  "sources": [
   {
@@ -25,7 +25,7 @@
   {
    "id": "torinogiovani",
    "name": "TorinoGiovani (Comune di Torino)",
-   "enabled": false
+   "enabled": true
   },
   {
    "id": "guidatorino_eventi_html",
@@ -64,13 +64,13 @@
    "address": "",
    "lat": null,
    "lon": null,
-   "start": "2026-07-10T14:21:05",
+   "start": "2026-07-10T14:23:39",
    "end": null,
    "all_day": false,
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-07-10T14:21:05",
+   "fetched_at": "2026-07-10T14:23:39",
    "id": "fbbc3b428b125b02"
   },
   {
@@ -89,7 +89,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-07-10T14:21:05",
+   "fetched_at": "2026-07-10T14:23:39",
    "id": "53336eadd63cd57a"
   },
   {
@@ -108,7 +108,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-07-10T14:21:05",
+   "fetched_at": "2026-07-10T14:23:39",
    "id": "cdf0a66211b0bf5b"
   },
   {
@@ -127,7 +127,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-07-10T14:21:05",
+   "fetched_at": "2026-07-10T14:23:39",
    "id": "967e66139494c734"
   },
   {
@@ -146,7 +146,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-07-10T14:21:05",
+   "fetched_at": "2026-07-10T14:23:39",
    "id": "e9bd3ad6d42a4fb3"
   },
   {
@@ -165,7 +165,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-07-10T14:21:05",
+   "fetched_at": "2026-07-10T14:23:39",
    "id": "e811e8548f3e2f43"
   }
  ]
