@@ -65,4 +65,4 @@ sources:
     type: rss
     url: 'https://gancio.cisti.org/'
     default_category: centri_sociali
-    enabled: true
+    enabled: false
