@@ -1,0 +1,162 @@
+{
+ "generated_at": "2026-07-10T11:57:53",
+ "city": "Torino",
+ "sources": [
+  {
+   "id": "torinotoday_eventi",
+   "name": "TorinoToday — Eventi",
+   "enabled": true
+  },
+  {
+   "id": "torinotoday_tempolibero",
+   "name": "TorinoToday — Tempo Libero",
+   "enabled": false
+  },
+  {
+   "id": "guidatorino",
+   "name": "GuidaTorino",
+   "enabled": true
+  },
+  {
+   "id": "mole24",
+   "name": "Mole24",
+   "enabled": false
+  },
+  {
+   "id": "torinogiovani",
+   "name": "TorinoGiovani (Comune di Torino)",
+   "enabled": false
+  },
+  {
+   "id": "guidatorino_eventi_html",
+   "name": "GuidaTorino — pagina eventi (HTML)",
+   "enabled": false
+  },
+  {
+   "id": "residentadvisor",
+   "name": "Resident Advisor — Torino",
+   "enabled": false
+  },
+  {
+   "id": "dice",
+   "name": "DICE — Torino",
+   "enabled": false
+  }
+ ],
+ "events": [
+  {
+   "title": "Otium Rooftop: la piscina sospesa con vista su Torino tra bagni, relax e aperitivi al tramonto",
+   "source_id": "guidatorino",
+   "url": "https://www.guidatorino.com/otium-rooftop-torino/",
+   "description": "Quando le temperature salgono e il caldo cittadino diventa difficile da sopportare, cresce la voglia di trovare un luogo dove concedersi qualche ora di fresco senza allontanarsi da Torino. Per l’estate 2026, tra gli indirizzi da segnare c’è Otium Rooftop, la terrazza panoramica situata all’ultimo piano dell’edificio che ospitava GreenPea. Protagonista assoluta di questa location […]",
+   "category": "eventi",
+   "venue": "",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-07-10T11:57:53",
+   "end": null,
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "",
+   "image": "",
+   "fetched_at": "2026-07-10T11:57:53",
+   "id": "fbbc3b428b125b02"
+  },
+  {
+   "title": "La “Corriera della Toma”: Navetta Gratuita da Torino per la Mostra della Toma di Lanzo",
+   "source_id": "guidatorino",
+   "url": "https://www.guidatorino.com/corriera-toma-navetta-gratuita-torino-usseglio-2026/",
+   "description": "Per raggiungere la Mostra Nazionale della Toma di Lanzo e dei formaggi d’alpeggio senza utilizzare l’automobile torna anche quest’anno la Corriera della Toma, il servizio di navetta gratuita promosso dalla Città metropolitana di Torino. Nelle giornate di sabato 11, domenica 12, sabato 18 e domenica 19 luglio 2026, il bus partirà dalla stazione di Torino […]",
+   "category": "mostre",
+   "venue": "",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-07-11T00:00:00",
+   "end": null,
+   "all_day": true,
+   "date_confidence": "high",
+   "price": "",
+   "image": "",
+   "fetched_at": "2026-07-10T11:57:53",
+   "id": "53336eadd63cd57a"
+  },
+  {
+   "title": "Le 10 cose da fare a Torino questo weekend (10/11/12 Luglio 2026)",
+   "source_id": "guidatorino",
+   "url": "https://www.guidatorino.com/eventi-torino-week-end/",
+   "description": "Il secondo weekend di luglio porta a Torino e in Piemonte un ricco calendario di appuntamenti tra cultura, cinema, musica, tradizioni e sapori del territorio. Tra le proposte spiccano il Gran Balon di Borgo Dora, le aperture speciali della Sala Gonin di Porta Nuova, le visite dietro le quinte del Teatro Regio e le serate […]",
+   "category": "teatro",
+   "venue": "",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-07-11T00:00:00",
+   "end": null,
+   "all_day": true,
+   "date_confidence": "high",
+   "price": "",
+   "image": "",
+   "fetched_at": "2026-07-10T11:57:53",
+   "id": "cdf0a66211b0bf5b"
+  },
+  {
+   "title": "Torna la Mostra Nazionale della Toma di Lanzo®: a Usseglio due weekend di assaggi e formaggi",
+   "source_id": "guidatorino",
+   "url": "https://www.guidatorino.com/mostra-toma-lanzo-usseglio-2026/",
+   "description": "La 30ª Mostra Nazionale della Toma di Lanzo® e dei formaggi d’alpeggio torna a Usseglio (Torino) nelle giornate del 10, 11, 12, 18 e 19 luglio 2026, confermandosi tra gli appuntamenti più attesi dell’estate piemontese. Nel suggestivo scenario delle Valli di Lanzo, la manifestazione rende omaggio alla Toma di Lanzo® e al patrimonio legato all’alpeggio, […]",
+   "category": "mostre",
+   "venue": "",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-07-18T00:00:00",
+   "end": null,
+   "all_day": true,
+   "date_confidence": "high",
+   "price": "",
+   "image": "",
+   "fetched_at": "2026-07-10T11:57:53",
+   "id": "967e66139494c734"
+  },
+  {
+   "title": "Concerti di Luglio 2026: i live a Torino e in Piemonte da non perdere",
+   "source_id": "guidatorino",
+   "url": "https://www.guidatorino.com/concerti-torino-piemonte-luglio-2026/",
+   "description": "Con l’arrivo di luglio, la musica a Torino e nel resto del Piemonte si sposta decisamente all’aperto. Tra parchi, piazze, cortili storici e grandi arene fuori città, l’agenda dei festival e dei concerti estivi è ricca di appuntamenti con grandi nomi della scena contemporanea.   Che siate a caccia del grande evento dell’anno o di […]",
+   "category": "concerti",
+   "venue": "",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2027-07-10T00:00:00",
+   "end": null,
+   "all_day": true,
+   "date_confidence": "high",
+   "price": "",
+   "image": "",
+   "fetched_at": "2026-07-10T11:57:53",
+   "id": "e9bd3ad6d42a4fb3"
+  },
+  {
+   "title": "La Notte delle Hit a Torino: nuovi ospiti e sconto speciale per l’evento con Clerici e Clementino",
+   "source_id": "guidatorino",
+   "url": "https://www.guidatorino.com/jukebox-notte-hit-torino-sconto-2026/",
+   "description": "La grande musica degli anni ’80, ’90 e 2000 torna protagonista a Torino con Suzuki Jukebox – La Notte delle Hit, in programma all’Inalpi Arena venerdì 11 e sabato 12 settembre 2026. Dopo il successo della passata edizione, l’evento prodotto da A1 Pictures riporta sul palco torinese alcuni tra i più famosi interpreti delle canzoni […]",
+   "category": "eventi",
+   "venue": "",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2080-07-10T00:00:00",
+   "end": null,
+   "all_day": true,
+   "date_confidence": "high",
+   "price": "",
+   "image": "",
+   "fetched_at": "2026-07-10T11:57:53",
+   "id": "e811e8548f3e2f43"
+  }
+ ]
+}
