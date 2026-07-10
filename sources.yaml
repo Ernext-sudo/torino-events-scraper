@@ -29,7 +29,7 @@ sources:
     type: rss
     url: 'http://www.comune.torino.it/torinogiovani/rss.xml'
     default_category: eventi
-    enabled: false
+    enabled: true
   - id: guidatorino_eventi_html
     name: 'GuidaTorino — pagina eventi (HTML)'
     type: html_guidatorino
