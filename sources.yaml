@@ -41,7 +41,7 @@ sources:
     type: todo
     url: 'https://ra.co/events/it/torino'
     default_category: club
-    enabled: false
+    enabled: true
   - id: dice
     name: 'DICE — Torino'
     type: todo
