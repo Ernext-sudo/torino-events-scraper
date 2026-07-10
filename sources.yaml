@@ -66,3 +66,9 @@ sources:
     url: 'https://gancio.cisti.org/feed/rss'
     default_category: centri_sociali
     enabled: true
+  - id: off_topic
+    name: 'OFF TOPIC'
+    type: rss
+    url: 'https://offtopictorino.it/eventi/feed/rss'
+    default_category: eventi
+    enabled: true
