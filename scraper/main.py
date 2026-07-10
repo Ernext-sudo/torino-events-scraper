@@ -12,7 +12,7 @@ import yaml
 from rapidfuzz import fuzz
 
 from scraper.models import Event, norm_title
-from scraper.parsers import rss, html_guidatorino
+from scraper.parsers import rss, html_guidatorino, xceed
 
 ROOT = Path(__file__).resolve().parent.parent
 SOURCES_FILE = ROOT / "sources.yaml"
@@ -21,6 +21,7 @@ OUTPUT_FILE = ROOT / "events.json"
 PARSERS = {
     "rss": rss.parse,
     "html_guidatorino": html_guidatorino.parse,
+    "xceed": xceed.parse,
     # aggiungi qui i nuovi parser: "html_ogr": html_ogr.parse, ...
 }
 
