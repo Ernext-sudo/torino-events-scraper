@@ -54,3 +54,9 @@ sources:
     url: 'https://variantebunker.com/eventi-in-programma/'
     default_category: eventi
     enabled: true
+  - id: xceed
+    name: 'XCEED'
+    type: rss
+    url: 'https://xceed.me/it/torino/events'
+    default_category: eventi
+    enabled: true
