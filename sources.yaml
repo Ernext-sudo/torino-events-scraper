@@ -47,7 +47,7 @@ sources:
     type: todo
     url: 'https://dice.fm/browse/torino'
     default_category: concerti
-    enabled: false
+    enabled: true
   - id: bunker
     name: 'Bunker'
     type: rss
