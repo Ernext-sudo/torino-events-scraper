@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-10T13:23:51",
+ "generated_at": "2026-07-10T14:21:07",
  "city": "Torino",
  "sources": [
   {
@@ -35,7 +35,7 @@
   {
    "id": "residentadvisor",
    "name": "Resident Advisor — Torino",
-   "enabled": false
+   "enabled": true
   },
   {
    "id": "dice",
@@ -64,13 +64,13 @@
    "address": "",
    "lat": null,
    "lon": null,
-   "start": "2026-07-10T13:23:48",
+   "start": "2026-07-10T14:21:05",
    "end": null,
    "all_day": false,
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-07-10T13:23:48",
+   "fetched_at": "2026-07-10T14:21:05",
    "id": "fbbc3b428b125b02"
   },
   {
@@ -89,7 +89,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-07-10T13:23:48",
+   "fetched_at": "2026-07-10T14:21:05",
    "id": "53336eadd63cd57a"
   },
   {
@@ -108,7 +108,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-07-10T13:23:48",
+   "fetched_at": "2026-07-10T14:21:05",
    "id": "cdf0a66211b0bf5b"
   },
   {
@@ -127,7 +127,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-07-10T13:23:48",
+   "fetched_at": "2026-07-10T14:21:05",
    "id": "967e66139494c734"
   },
   {
@@ -146,7 +146,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-07-10T13:23:48",
+   "fetched_at": "2026-07-10T14:21:05",
    "id": "e9bd3ad6d42a4fb3"
   },
   {
@@ -165,7 +165,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-07-10T13:23:48",
+   "fetched_at": "2026-07-10T14:21:05",
    "id": "e811e8548f3e2f43"
   }
  ]
