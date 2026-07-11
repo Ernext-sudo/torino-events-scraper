@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-11T17:46:53",
+ "generated_at": "2026-07-11T23:44:20",
  "city": "Torino",
  "sources": [
   {
@@ -74,13 +74,13 @@
    "address": "",
    "lat": null,
    "lon": null,
-   "start": "2026-07-11T17:46:46",
+   "start": "2026-07-11T23:44:12",
    "end": null,
    "all_day": false,
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-07-11T17:46:46",
+   "fetched_at": "2026-07-11T23:44:12",
    "id": "c7d7b38652747ee4"
   },
   {
@@ -99,7 +99,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-07-11T17:46:46",
+   "fetched_at": "2026-07-11T23:44:12",
    "id": "92f4ca4bd46d4d8c"
   },
   {
@@ -118,7 +118,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-07-11T17:46:46",
+   "fetched_at": "2026-07-11T23:44:12",
    "id": "967e66139494c734"
   },
   {
@@ -137,27 +137,8 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://gancio.cisti.org/media/2ec5add61c7e373dfa0a83b15b574d88.jpg",
-   "fetched_at": "2026-07-11T17:46:52",
+   "fetched_at": "2026-07-11T23:44:19",
    "id": "729672f286c777bb"
-  },
-  {
-   "title": "[2026-07-10] Wish  (Proiezione) @ Giardino Leonardi",
-   "source_id": "gancio_cisti",
-   "url": "https://gancio.cisti.org/event/wish-proiezione",
-   "description": "Wish  (Proiezione)  Giardino Leonardi - Via Millio, 40   (venerdì, 10 luglio 21:00)    Torniamo a far vivere il nostro quartiere insieme a chi ci abita!  Proiezione del cartone disney Wish  porta un telo per stenderti a terra, noi comunque porteremo le sedie!",
-   "category": "centri_sociali",
-   "venue": "",
-   "address": "",
-   "lat": null,
-   "lon": null,
-   "start": "2026-10-07T00:00:00",
-   "end": null,
-   "all_day": true,
-   "date_confidence": "high",
-   "price": "",
-   "image": "https://gancio.cisti.org/media/49dbfc96419cb88b708243c8f234e29f.jpg",
-   "fetched_at": "2026-07-11T17:46:52",
-   "id": "5baa123fefe38d1e"
   },
   {
    "title": "[2026-07-11] AlbanoEroina/Fuco/StrangolatoriDelGange @ Spazio Sociale VisRabbia",
@@ -175,7 +156,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://gancio.cisti.org/media/33957174f36ddc493112557b3a73986a.jpg",
-   "fetched_at": "2026-07-11T17:46:52",
+   "fetched_at": "2026-07-11T23:44:19",
    "id": "04a8cb8cb0c15088"
   },
   {
@@ -194,7 +175,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://gancio.cisti.org/media/59549672cd1a5904823c092c190fd24c.jpg",
-   "fetched_at": "2026-07-11T17:46:52",
+   "fetched_at": "2026-07-11T23:44:19",
    "id": "a7f10e8316b46b36"
   },
   {
@@ -213,7 +194,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://gancio.cisti.org/media/5fc3229a37f27975d9e6f23ed8864ff7.jpg",
-   "fetched_at": "2026-07-11T17:46:52",
+   "fetched_at": "2026-07-11T23:44:19",
    "id": "d22e9d13c2c58039"
   },
   {
@@ -232,7 +213,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://gancio.cisti.org/media/7742afea8fd84ce23be983dcab4856a0.jpg",
-   "fetched_at": "2026-07-11T17:46:52",
+   "fetched_at": "2026-07-11T23:44:19",
    "id": "ac9da6d3f8a75f62"
   },
   {
@@ -251,7 +232,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://gancio.cisti.org/media/b6958ca47e21afad260be3cee1ad3709.jpg",
-   "fetched_at": "2026-07-11T17:46:52",
+   "fetched_at": "2026-07-11T23:44:19",
    "id": "545237acb0af0bd6"
   },
   {
@@ -270,7 +251,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://gancio.cisti.org/media/41afd9250dafd0e90921d8d497c810ad.jpg",
-   "fetched_at": "2026-07-11T17:46:52",
+   "fetched_at": "2026-07-11T23:44:19",
    "id": "886f526f49042a81"
   },
   {
@@ -289,7 +270,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://gancio.cisti.org/media/a2b00e1542f45eea13e8304401c268aa.jpg",
-   "fetched_at": "2026-07-11T17:46:52",
+   "fetched_at": "2026-07-11T23:44:19",
    "id": "bd24d7bf6df3e197"
   },
   {
@@ -308,7 +289,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-07-11T17:46:46",
+   "fetched_at": "2026-07-11T23:44:13",
    "id": "87399c997133fa33"
   },
   {
@@ -327,7 +308,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-07-11T17:46:46",
+   "fetched_at": "2026-07-11T23:44:12",
    "id": "15cc891a220dee30"
   },
   {
@@ -346,7 +327,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://gancio.cisti.org/media/4dea4c8f723e77d38901b3616f75833f.jpg",
-   "fetched_at": "2026-07-11T17:46:52",
+   "fetched_at": "2026-07-11T23:44:19",
    "id": "8dd1e47cfd7bd4e1"
   },
   {
@@ -365,7 +346,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://gancio.cisti.org/media/dd2b56a3ed0daa46bafd50eba7cdf20a.jpg",
-   "fetched_at": "2026-07-11T17:46:52",
+   "fetched_at": "2026-07-11T23:44:19",
    "id": "d39dba4cf729a0c8"
   },
   {
@@ -384,7 +365,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://gancio.cisti.org/media/23139ffff4d5e0e983ef67f5e8911b47.jpg",
-   "fetched_at": "2026-07-11T17:46:52",
+   "fetched_at": "2026-07-11T23:44:19",
    "id": "087773ff68295e60"
   },
   {
@@ -403,7 +384,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://gancio.cisti.org/media/aacf9196527681885052a91a89962b0b.jpg",
-   "fetched_at": "2026-07-11T17:46:52",
+   "fetched_at": "2026-07-11T23:44:19",
    "id": "fda4fea33969b661"
   },
   {
@@ -422,7 +403,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://gancio.cisti.org/media/b5e3ae427f3a73d063f23ae9859c2aa9.jpg",
-   "fetched_at": "2026-07-11T17:46:52",
+   "fetched_at": "2026-07-11T23:44:19",
    "id": "40c4c1db80615a17"
   },
   {
@@ -441,7 +422,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://gancio.cisti.org/media/0bc6f2a679ac2f5b8a533966365a39af.jpg",
-   "fetched_at": "2026-07-11T17:46:52",
+   "fetched_at": "2026-07-11T23:44:19",
    "id": "0c537e7299663e2b"
   },
   {
@@ -460,7 +441,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://gancio.cisti.org/media/047320c9ade4b164aa6cfc37160f11a1.jpg",
-   "fetched_at": "2026-07-11T17:46:52",
+   "fetched_at": "2026-07-11T23:44:19",
    "id": "aaa693f97a5e184a"
   },
   {
@@ -479,7 +460,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://gancio.cisti.org/media/92b5ebaa794e7cd2929c781c638b9989.jpg",
-   "fetched_at": "2026-07-11T17:46:52",
+   "fetched_at": "2026-07-11T23:44:19",
    "id": "dd83d344ab04cf8c"
   },
   {
@@ -498,7 +479,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://gancio.cisti.org/media/ebd94f1830f20bba0f6912874a7cfca5.jpg",
-   "fetched_at": "2026-07-11T17:46:52",
+   "fetched_at": "2026-07-11T23:44:19",
    "id": "2fd5aefd479d2056"
   },
   {
@@ -517,7 +498,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://gancio.cisti.org/media/10ae3c5cb69b30805621d4a59eeff9b7.jpg",
-   "fetched_at": "2026-07-11T17:46:52",
+   "fetched_at": "2026-07-11T23:44:19",
    "id": "c463364d4d04e3eb"
   },
   {
@@ -536,7 +517,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-07-11T17:46:46",
+   "fetched_at": "2026-07-11T23:44:13",
    "id": "9b73cd99df536fda"
   }
  ]
