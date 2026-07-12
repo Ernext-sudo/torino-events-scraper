@@ -56,13 +56,13 @@ sources:
     enabled: true
   - id: xceed
     name: 'XCEED'
-    type: rss
+    type: xceed
     url: 'https://xceed.me/it/torino/events'
     default_category: club
     enabled: true
   - id: gancio_cisti
     name: 'Gancio Cisti'
-    type: rss
+    type: gancio
     url: 'https://gancio.cisti.org/feed/rss'
     default_category: centri_sociali
     enabled: true

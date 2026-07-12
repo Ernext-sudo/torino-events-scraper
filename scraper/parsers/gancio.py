@@ -1,12 +1,24 @@
 """Parser dedicato per istanze Gancio (gancio.cisti.org e simili).
 
-Gancio espone nel feed RSS i tag custom:
-  <gancio:start_datetime> — unix timestamp (ms) inizio evento
-  <gancio:end_datetime>   — unix timestamp (ms) fine evento
-  <gancio:place>          — nome del luogo
-  <gancio:tags>           — tag separati da virgola
+Il feed di gancio.cisti.org è RSS 2.0 puro: NON dichiara alcun namespace
+custom (niente <gancio:start_datetime>). La data dell'evento sta in due punti,
+entrambi affidabili:
 
-Il parser generico li ignora e finisce per estrarre date sbagliate dal testo.
+  <title>[2026-07-11] Io accetto anche i 18 @ Comala</title>
+  <description><![CDATA[
+     <h3>Titolo</h3>
+     <strong>Comala - corso Francesco Ferrucci 65/a, 10137 Torino</strong>
+     <small>(sabato, 11 luglio 20:00)</small>
+     ...
+  ]]></description>
+
+Quindi: giorno dal prefisso ISO nel titolo, orario dal tag <small>.
+Il parser RSS generico invece dà il testo in pasto a dateparser con
+DATE_ORDER=DMY, che rilegge "2026-07-11" come 7 novembre — da cui le date
+sbagliate (mese e giorno scambiati).
+
+Le istanze Gancio che espongono i tag namespace con gli unix timestamp sono
+comunque supportate: se presenti hanno la priorità.
 """
 import html
 import re
@@ -18,112 +30,134 @@ import requests
 from scraper.models import Event, guess_category
 
 HEADERS = {"User-Agent": "Mozilla/5.0 (TorinoEventsBot; personal use)"}
+
 _TAG_RE = re.compile(r"<[^>]+>")
-_NS = {"gancio": "https://gancio.org/ns#"}   # namespace usato da Gancio
+# "[2026-07-11] Titolo dell'evento @ Luogo"
+_TITLE_DATE_RE = re.compile(r"^\s*\[(\d{4})-(\d{2})-(\d{2})\]\s*(.*)$", re.S)
+# "<small>(sabato, 11 luglio 20:00)</small>" -> 20:00
+_TIME_RE = re.compile(r"<small>\s*\([^)]*?\b(\d{1,2}):(\d{2})[^)]*\)\s*</small>", re.S)
+# primo <strong>...</strong> della description = luogo + indirizzo
+_VENUE_RE = re.compile(r"<strong>(.*?)</strong>", re.S)
 
 
 def _strip(text: str) -> str:
-    return html.unescape(_TAG_RE.sub(" ", text or "")).strip()
+    return html.unescape(_TAG_RE.sub(" ", text or "")).replace("\xa0", " ").strip()
+
+
+def _squash(text: str) -> str:
+    return re.sub(r"\s+", " ", text or "").strip()
 
 
 def _from_ts(ts) -> datetime | None:
-    """Converte unix timestamp (secondi o millisecondi) in datetime."""
-    if ts is None:
+    """Unix timestamp (secondi o millisecondi) -> datetime.
+    Serve solo alle istanze Gancio che espongono i tag namespace."""
+    if not ts:
         return None
     try:
         v = float(ts)
-        if v > 1e10:          # millisecondi
-            v /= 1000
-        return datetime.fromtimestamp(v)
-    except (ValueError, TypeError, OSError):
+    except (TypeError, ValueError):
         return None
+    if v > 1e11:  # millisecondi
+        v /= 1000
+    try:
+        return datetime.fromtimestamp(v)
+    except (OverflowError, OSError, ValueError):
+        return None
+
+
+def _find_gancio_ns(xml_bytes: bytes) -> str | None:
+    for m in re.finditer(rb'xmlns:(\w+)\s*=\s*"([^"]+)"', xml_bytes[:2000]):
+        if m.group(1) == b"gancio":
+            return m.group(2).decode()
+    return None
 
 
 def parse(source: dict) -> list[Event]:
     resp = requests.get(source["url"], headers=HEADERS, timeout=30)
     resp.raise_for_status()
 
-    # feedparser non espone i namespace custom comodamente;
-    # usiamo ElementTree direttamente sul testo grezzo.
     try:
         root = ET.fromstring(resp.content)
     except ET.ParseError as e:
-        raise RuntimeError(f"Errore parsing XML Gancio: {e}") from e
+        raise RuntimeError(f"XML non valido dal feed Gancio: {e}") from e
 
-    # Cerca tutti i namespace dichiarati nel documento
-    ns_map: dict[str, str] = {}
-    for _, (prefix, uri) in ET.iterparse(
-        __import__("io").BytesIO(resp.content), events=["start-ns"]
-    ):
-        ns_map[prefix] = uri
-
-    # Namespace gancio (può variare leggermente tra versioni)
-    gancio_ns = ns_map.get("gancio", "https://gancio.org/ns#")
-    g = f"{{{gancio_ns}}}"
+    ns = _find_gancio_ns(resp.content)
+    g = f"{{{ns}}}" if ns else None
 
     events: list[Event] = []
-    now = datetime.now()
+    today = datetime.now().replace(hour=0, minute=0, second=0, microsecond=0)
 
     for item in root.iter("item"):
-        title = _strip(item.findtext("title") or "")
-        if not title:
+        raw_title = html.unescape(item.findtext("title") or "").strip()
+        if not raw_title:
             continue
 
+        raw_desc = item.findtext("description") or ""
         link = (item.findtext("link") or "").strip()
-        description = _strip(item.findtext("description") or "")[:600]
 
-        # Date dal namespace Gancio (priorità assoluta)
-        start_raw = item.findtext(f"{g}start_datetime")
-        end_raw = item.findtext(f"{g}end_datetime")
-        start_dt = _from_ts(start_raw)
-        end_dt = _from_ts(end_raw)
+        start_dt = end_dt = None
+        confidence = "low"
 
-        # Fallback: pubDate del feed
-        if start_dt is None:
-            pub = item.findtext("pubDate") or ""
-            try:
-                from email.utils import parsedate_to_datetime
-                start_dt = parsedate_to_datetime(pub).replace(tzinfo=None)
-            except Exception:
-                pass
+        # 1) tag namespace, se questa istanza li espone
+        if g is not None:
+            start_dt = _from_ts(item.findtext(f"{g}start_datetime"))
+            end_dt = _from_ts(item.findtext(f"{g}end_datetime"))
+            if start_dt:
+                confidence = "high"
 
-        # Scarta eventi già passati da più di un giorno
-        if start_dt and start_dt < now.replace(hour=0, minute=0, second=0):
+        # 2) prefisso [YYYY-MM-DD] nel titolo + orario dal tag <small>
+        title = raw_title
+        m = _TITLE_DATE_RE.match(raw_title)
+        if m:
+            year, month, day, title = int(m[1]), int(m[2]), int(m[3]), m[4].strip()
+            if start_dt is None:
+                hour = minute = 0
+                tm = _TIME_RE.search(raw_desc)
+                if tm and int(tm[1]) <= 23 and int(tm[2]) <= 59:
+                    hour, minute = int(tm[1]), int(tm[2])
+                try:
+                    start_dt = datetime(year, month, day, hour, minute)
+                    confidence = "high"
+                except ValueError:
+                    start_dt = None
+
+        if start_dt and start_dt < today:
             continue
 
-        # Luogo
-        place = _strip(item.findtext(f"{g}place") or "")
-
-        # Immagine (enclosure o media:content)
-        image = ""
-        enc = item.find("enclosure")
-        if enc is not None:
-            image = enc.get("url", "")
-        if not image:
-            for ns_uri in ns_map.values():
-                mc = item.find(f"{{{ns_uri}}}content")
-                if mc is not None:
-                    image = mc.get("url", "")
-                    break
-
-        # Tag -> categoria
-        tags_raw = _strip(item.findtext(f"{g}tags") or "")
-        category = guess_category(
-            f"{title} {description} {tags_raw}",
-            source.get("default_category", "centri_sociali"),
+        # il titolo resta "Nome evento @ Luogo": il nome ci serve pulito,
+        # il luogo lo prendiamo dalla description (ha anche l'indirizzo)
+        name, _, venue_from_title = (
+            title.rpartition(" @ ") if " @ " in title else (title, "", "")
         )
+        name = name.strip() or title
+
+        vm = _VENUE_RE.search(raw_desc)
+        venue_full = _squash(_strip(vm[1])) if vm else ""
+        if " - " in venue_full:
+            venue_name, address = (p.strip() for p in venue_full.split(" - ", 1))
+        else:
+            venue_name, address = venue_full or venue_from_title.strip(), ""
+
+        description = _squash(_strip(raw_desc))[:600]
+
+        enc = item.find("enclosure")
+        image = enc.get("url", "") if enc is not None else ""
 
         events.append(Event(
-            title=title,
+            title=name,
             source_id=source["id"],
             url=link,
             description=description,
-            category=category,
-            venue=place,
+            category=guess_category(
+                f"{name} {description}",
+                source.get("default_category", "centri_sociali"),
+            ),
+            venue=venue_name,
+            address=address,
             start=start_dt.isoformat(timespec="seconds") if start_dt else None,
             end=end_dt.isoformat(timespec="seconds") if end_dt else None,
             all_day=bool(start_dt and start_dt.hour == 0 and start_dt.minute == 0),
-            date_confidence="high" if start_raw else "low",
+            date_confidence=confidence,
             image=image,
         ))
 
