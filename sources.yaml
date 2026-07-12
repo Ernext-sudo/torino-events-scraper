@@ -1,17 +1,21 @@
 # Generato dall'app Torino Events
 sources:
+  # I feed RSS di categoria di Citynews rispondono 403 (disattivati lato
+  # server: anche /rss/cronaca dà 403). Restano le card della pagina /eventi/.
   - id: torinotoday_eventi
     name: 'TorinoToday — Eventi'
-    type: rss
-    url: 'https://www.torinotoday.it/rss/eventi'
+    type: html_torinotoday
+    url: 'https://www.torinotoday.it/eventi/'
     default_category: eventi
     enabled: true
+  # Copriva /rss/tempo-libero, ora 403. La pagina /eventi/ include già questi
+  # contenuti, quindi la fonte è ridondante.
   - id: torinotoday_tempolibero
     name: 'TorinoToday — Tempo Libero'
-    type: rss
-    url: 'https://www.torinotoday.it/rss/tempo-libero'
+    type: html_torinotoday
+    url: 'https://www.torinotoday.it/eventi/'
     default_category: eventi
-    enabled: true
+    enabled: false
   - id: guidatorino
     name: 'GuidaTorino'
     type: rss
@@ -24,12 +28,15 @@ sources:
     url: 'https://www.mole24.it/feed/'
     default_category: eventi
     enabled: false
+  # Il vecchio feed su comune.torino.it è morto (redirect alla home). Il nuovo
+  # torinogiovani.it/rss.xml esiste ma pubblica soprattutto offerte di lavoro
+  # ("X cerca personale"), non eventi: come fonte eventi inquinerebbe l'app.
   - id: torinogiovani
     name: 'TorinoGiovani (Comune di Torino)'
     type: rss
-    url: 'http://www.comune.torino.it/torinogiovani/rss.xml'
+    url: 'https://www.torinogiovani.it/rss.xml'
     default_category: eventi
-    enabled: true
+    enabled: false
   - id: guidatorino_eventi_html
     name: 'GuidaTorino — pagina eventi (HTML)'
     type: html_guidatorino
@@ -48,12 +55,15 @@ sources:
     url: 'https://dice.fm/browse/torino'
     default_category: concerti
     enabled: true
+  # /feed/ restituisce HTML (feed WordPress disattivato): si parsa la pagina.
   - id: bunker
     name: 'Bunker'
-    type: rss
+    type: html_bunker
     url: 'https://variantebunker.com/eventi-in-programma/'
     default_category: eventi
     enabled: true
+  # L'Open Event API non è più pubblica (404/401): si legge il JSON-LD
+  # schema.org/Event della pagina città.
   - id: xceed
     name: 'XCEED'
     type: xceed

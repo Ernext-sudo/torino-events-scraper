@@ -1,144 +1,134 @@
-"""Parser Xceed Open Event API — nessuna autenticazione richiesta.
+"""Parser Xceed — dal JSON-LD della pagina città, non più dall'API.
 
-Documentazione ufficiale: https://docs.xceed.me/
-Endpoint: GET /api/v1/events?city=torino&limit=50&page=0
+L'Open Event API pubblica non esiste più: `api.xceed.me/api/v1/events` risponde
+404 e `/v1/events` risponde 401 (ora vuole una chiave). La pagina città però
+pubblica gli eventi come schema.org/Event in <script type="application/ld+json">,
+con nome, startDate ISO, luogo e prezzo: è una fonte pulita e senza chiavi.
 """
-import requests
+import json
 from datetime import datetime
+
+import requests
+from bs4 import BeautifulSoup
 
 from scraper.models import Event, guess_category
 
-BASE_URL = "https://api.xceed.me/api/v1"
 HEADERS = {
-    "User-Agent": "Mozilla/5.0 (TorinoEventsBot; personal use)",
-    "Accept": "application/json",
+    "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
+                  "(KHTML, like Gecko) Chrome/126.0 Safari/537.36",
 }
 
 
+def _iter_nodes(node):
+    """Il JSON-LD può essere un oggetto, una lista o un @graph annidato."""
+    if isinstance(node, list):
+        for n in node:
+            yield from _iter_nodes(n)
+    elif isinstance(node, dict):
+        yield node
+        for key in ("@graph", "itemListElement", "item"):
+            if key in node:
+                yield from _iter_nodes(node[key])
+
+
+def _is_event(node: dict) -> bool:
+    t = node.get("@type")
+    types = t if isinstance(t, list) else [t]
+    return any(x and "Event" in str(x) for x in types)
+
+
+def _parse_dt(value) -> datetime | None:
+    if not isinstance(value, str) or not value:
+        return None
+    v = value.replace("Z", "+00:00")
+    try:
+        dt = datetime.fromisoformat(v)
+    except ValueError:
+        return None
+    # normalizziamo a naive locale come il resto del progetto
+    return dt.replace(tzinfo=None)
+
+
+def _price_of(node: dict) -> str:
+    offers = node.get("offers")
+    if isinstance(offers, list):
+        offers = offers[0] if offers else None
+    if not isinstance(offers, dict):
+        return ""
+    p = offers.get("price")
+    if p in (None, ""):
+        return ""
+    return "Gratuito" if str(p) in ("0", "0.0") else f"da €{p}"
+
+
 def parse(source: dict) -> list[Event]:
+    resp = requests.get(source["url"], headers=HEADERS, timeout=30)
+    resp.raise_for_status()
+    soup = BeautifulSoup(resp.text, "html.parser")
+
     events: list[Event] = []
-    page = 0
+    visti: set[str] = set()
 
-    while True:
-        resp = requests.get(
-            f"{BASE_URL}/events",
-            params={"city": "torino", "limit": 50, "page": page},
-            headers=HEADERS,
-            timeout=30,
-        )
-        resp.raise_for_status()
-        data = resp.json()
+    for script in soup.find_all("script", type="application/ld+json"):
+        try:
+            data = json.loads(script.string or "{}")
+        except (json.JSONDecodeError, TypeError):
+            continue
 
-        # La risposta può essere una lista diretta o un oggetto con "data"/"events"
-        if isinstance(data, list):
-            items = data
-        elif isinstance(data, dict):
-            items = data.get("data") or data.get("events") or data.get("items") or []
-        else:
-            break
-
-        if not items:
-            break
-
-        for item in items:
-            title = item.get("name") or item.get("title") or ""
-            if not title:
+        for node in _iter_nodes(data):
+            if not _is_event(node):
                 continue
+            title = (node.get("name") or "").strip()
+            if not title or title in visti:
+                continue
+            visti.add(title)
 
-            # Date
-            start_ts = item.get("startDate") or item.get("start_date") or item.get("date")
-            end_ts = item.get("endDate") or item.get("end_date")
-            start_dt = _parse_ts(start_ts)
-            end_dt = _parse_ts(end_ts)
+            start = _parse_dt(node.get("startDate"))
+            end = _parse_dt(node.get("endDate"))
 
-            # Venue
-            venue_obj = item.get("venue") or item.get("location") or {}
-            venue_name = ""
-            address = ""
+            loc = node.get("location") or {}
+            if isinstance(loc, list):
+                loc = loc[0] if loc else {}
+            venue = address = ""
             lat = lon = None
-            if isinstance(venue_obj, dict):
-                venue_name = venue_obj.get("name") or ""
-                address = venue_obj.get("address") or venue_obj.get("fullAddress") or ""
-                lat = venue_obj.get("lat") or venue_obj.get("latitude")
-                lon = venue_obj.get("lng") or venue_obj.get("longitude")
-            elif isinstance(venue_obj, str):
-                venue_name = venue_obj
+            if isinstance(loc, dict):
+                venue = (loc.get("name") or "").strip()
+                addr = loc.get("address")
+                if isinstance(addr, dict):
+                    address = " ".join(str(addr.get(k, "")) for k in
+                                       ("streetAddress", "addressLocality")).strip()
+                elif isinstance(addr, str):
+                    address = addr
+                geo = loc.get("geo") or {}
+                if isinstance(geo, dict):
+                    lat = geo.get("latitude")
+                    lon = geo.get("longitude")
 
-            # Immagine
-            image = ""
-            img = item.get("coverImage") or item.get("image") or item.get("cover") or {}
-            if isinstance(img, dict):
-                image = img.get("url") or img.get("src") or ""
-            elif isinstance(img, str):
-                image = img
+            image = node.get("image")
+            if isinstance(image, list):
+                image = image[0] if image else ""
+            if isinstance(image, dict):
+                image = image.get("url", "")
 
-            # Link
-            slug = item.get("slug") or item.get("id") or ""
-            link = item.get("url") or (f"https://xceed.me/en/torino/event/{slug}" if slug else "")
-
-            # Prezzo
-            price = ""
-            price_obj = item.get("minPrice") or item.get("price")
-            if price_obj is not None:
-                price = f"da €{price_obj}" if str(price_obj) != "0" else "Gratuito"
-
-            description = item.get("description") or item.get("shortDescription") or ""
-            if isinstance(description, dict):
-                description = description.get("text") or description.get("html") or ""
-            description = description[:600]
-
-            category = guess_category(
-                f"{title} {description}", source.get("default_category", "club")
-            )
+            description = (node.get("description") or "")[:600]
 
             events.append(Event(
                 title=title,
                 source_id=source["id"],
-                url=link,
+                url=node.get("url") or source["url"],
                 description=description,
-                category=category,
-                venue=venue_name,
+                category=guess_category(
+                    f"{title} {description}", source.get("default_category", "club")
+                ),
+                venue=venue,
                 address=address,
-                lat=float(lat) if lat else None,
-                lon=float(lon) if lon else None,
-                start=start_dt.isoformat(timespec="seconds") if start_dt else None,
-                end=end_dt.isoformat(timespec="seconds") if end_dt else None,
-                all_day=False,
-                date_confidence="high" if start_dt else "low",
-                price=price,
-                image=image,
+                lat=float(lat) if lat not in (None, "") else None,
+                lon=float(lon) if lon not in (None, "") else None,
+                start=start.isoformat(timespec="seconds") if start else None,
+                end=end.isoformat(timespec="seconds") if end else None,
+                date_confidence="high" if start else "low",
+                price=_price_of(node),
+                image=image if isinstance(image, str) else "",
             ))
 
-        # Paginazione: esci se siamo all'ultima pagina
-        if isinstance(data, dict):
-            total = data.get("total") or data.get("totalCount") or 0
-            if total and len(events) >= total:
-                break
-            has_next = data.get("hasNextPage") or data.get("has_next")
-            if has_next is False:
-                break
-
-        if len(items) < 50:
-            break
-        page += 1
-
     return events
-
-
-def _parse_ts(ts) -> datetime | None:
-    if ts is None:
-        return None
-    if isinstance(ts, (int, float)):
-        try:
-            # millisecondi o secondi
-            return datetime.fromtimestamp(ts / 1000 if ts > 1e10 else ts)
-        except Exception:
-            return None
-    if isinstance(ts, str):
-        for fmt in ("%Y-%m-%dT%H:%M:%S.%fZ", "%Y-%m-%dT%H:%M:%SZ",
-                    "%Y-%m-%dT%H:%M:%S", "%Y-%m-%d"):
-            try:
-                return datetime.strptime(ts, fmt)
-            except ValueError:
-                continue
-    return None
