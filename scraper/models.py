@@ -16,17 +16,25 @@ _KEYWORDS = {
     "mostre": ["mostra", "esposizione", "vernissage", "installazione"],
     "musei": ["museo", "musei", "gam", "mao", "egizio", "reggia", "palazzo madama", "rivoli"],
     "teatro": ["teatro", "spettacolo teatrale", "commedia", "prosa", "monologo", "stand up", "stand-up"],
-    "workshop": ["workshop", "laboratorio", "lab "],
+    "workshop": ["workshop", "laboratorio", "lab"],
     "corsi": ["corso", "lezione", "masterclass"],
     "conferenze": ["conferenza", "talk", "incontro con", "presentazione del libro", "dibattito", "seminario"],
     "centri_sociali": ["centro sociale", "csa", "csoa", "autogestito", "occupato"],
 }
 
+# Match sulla parola intera, non sulla sottostringa: senza \b la keyword "gam"
+# (per la GAM) finiva dentro "Gambo" e "Gambero", e ogni concerto con un nome
+# così veniva catalogato come museo.
+_CATEGORY_RE = {
+    cat: re.compile(r"\b(?:" + "|".join(re.escape(w) for w in words) + r")\b")
+    for cat, words in _KEYWORDS.items()
+}
+
 
 def guess_category(text: str, default: str = "eventi") -> str:
     t = (text or "").lower()
-    for cat, words in _KEYWORDS.items():
-        if any(w in t for w in words):
+    for cat, pattern in _CATEGORY_RE.items():
+        if pattern.search(t):
             return cat
     return default
 

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-12T11:52:36",
+ "generated_at": "2026-07-12T14:32:05",
  "city": "Torino",
  "sources": [
   {
@@ -61,6 +61,26 @@
    "id": "off_topic",
    "name": "OFF TOPIC",
    "enabled": true
+  },
+  {
+   "id": "turinhub",
+   "name": "TurinHub",
+   "enabled": true
+  },
+  {
+   "id": "imbarchino",
+   "name": "Imbarchino",
+   "enabled": true
+  },
+  {
+   "id": "bobobo",
+   "name": "Bobobo — Eventi Torino",
+   "enabled": true
+  },
+  {
+   "id": "magazzinosulpo",
+   "name": "Magazzino sul Po",
+   "enabled": true
   }
  ],
  "events": [
@@ -80,7 +100,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:56",
    "id": "d1a23ea66c2dc2c5"
   },
   {
@@ -99,7 +119,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/01/onde-2026-concerti-ingressi-gratuiti-museo-egizio-torino-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "c1759a3d836d0a65"
   },
   {
@@ -118,7 +138,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:56",
    "id": "49347f61aed6d132"
   },
   {
@@ -137,7 +157,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:56",
    "id": "c8e6001cc93ec2b2"
   },
   {
@@ -156,7 +176,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/02/macchine-leonardo-vinci-torino-2026-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "4689367b18e81a08"
   },
   {
@@ -175,7 +195,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:56",
    "id": "d24ea745f574489d"
   },
   {
@@ -194,7 +214,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/02/monumento-torino-mostra-2026-2-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "8b8ae965c3544d2a"
   },
   {
@@ -213,7 +233,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/03/scarecrow-mostra-flashback-habitat-torino-2026-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "595d985437b4352f"
   },
   {
@@ -232,7 +252,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:56",
    "id": "35c444930040c9fe"
   },
   {
@@ -251,7 +271,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/03/nick-brandt-mostra-torino-2026-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "698d779fa9f4a62f"
   },
   {
@@ -270,7 +290,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:56",
    "id": "5ab64cae1f44fbaf"
   },
   {
@@ -289,7 +309,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:56",
    "id": "2780cbe0852ecc48"
   },
   {
@@ -308,8 +328,27 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/03/sodoma-mostra-torino-2026-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "f765c5187e8d033e"
+  },
+  {
+   "title": "Il genio di Orson Welles conquista Torino: mostra evento al Museo del Cinema",
+   "source_id": "bobobo",
+   "url": "https://www.bobobo.it/torino/eventi/il-genio-di-orson-welles-conquista-torino--mostra-evento-al-museo-del-cinema-e7297204",
+   "description": "Torino Museo Nazionale del Cinema",
+   "category": "mostre",
+   "venue": "Torino Museo Nazionale del Cinema",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-04-01T00:00:00",
+   "end": "2026-10-05T00:00:00",
+   "all_day": true,
+   "date_confidence": "high",
+   "price": "",
+   "image": "",
+   "fetched_at": "2026-07-12T14:32:02",
+   "id": "8d3fe130b6acf8aa"
   },
   {
    "title": "“My Name Is Orson Welles”, mostra evento al Museo del Cinema: esposti oltre 400 pezzi, alcuni mai visti prima",
@@ -327,7 +366,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:56",
    "id": "bb2dc7f952c81174"
   },
   {
@@ -346,14 +385,14 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/03/orson-welles-mostra-torino-2026-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "e9a89730168d7fb3"
   },
   {
    "title": "I \"garagisti\" contro il Drake: al MAUTO la grande sfida tra Ferrari e l'Inghilterra, la mostra fino all'11 ottobre",
    "source_id": "torinotoday_eventi",
    "url": "https://www.torinotoday.it/eventi/mostre/mauto-torino-mostra-i-nemici-del-drake-enzo-ferrari-scuderie-inglesi-aprile-ottobre-2026.html",
-   "description": "MAUTO - Museo Nazionale dell’Automobile",
+   "description": "Torino MAUTO - Museo Nazionale dellu2019Automobile",
    "category": "mostre",
    "venue": "MAUTO - Museo Nazionale dell’Automobile",
    "address": "",
@@ -365,7 +404,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:56",
    "id": "39da77091bc5eb3b"
   },
   {
@@ -384,7 +423,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/04/nemici-drake-mostra-mauto-torino-2026-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "587204f7df8d37d3"
   },
   {
@@ -403,7 +442,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:56",
    "id": "b872ec6812e13072"
   },
   {
@@ -422,7 +461,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/04/regine-in-scena-mostra-venaria-2026-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "a39c223494f21072"
   },
   {
@@ -441,7 +480,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/04/david-bowie-mostra-torino-2026-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "70b36233f28edd7a"
   },
   {
@@ -460,7 +499,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/04/gusto-della-storia-mostra-torino-2026-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "b308ef58cf247ebe"
   },
   {
@@ -479,7 +518,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/03/gaza-futuro-cuore-antico-mostra-torino-2026-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "92d0da9a34446043"
   },
   {
@@ -498,14 +537,14 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:56",
    "id": "d9e3ab7bb50ddeee"
   },
   {
    "title": "Gaza e il suo patrimonio millenario: a Torino una grande mostra tra archeologia e arte alla Fondazione Merz (fino al 27 settembre)",
    "source_id": "torinotoday_eventi",
    "url": "https://www.torinotoday.it/eventi/mostre/mostra-gaza-fondazione-merz-torino-aprile-settembre-2026.html",
-   "description": "Fondazione Merz",
+   "description": "Torino Fondazione Merz",
    "category": "mostre",
    "venue": "Fondazione Merz",
    "address": "",
@@ -517,7 +556,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:56",
    "id": "43cc10624821d480"
   },
   {
@@ -536,7 +575,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:56",
    "id": "91b7ca31f7b14241"
   },
   {
@@ -555,7 +594,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:56",
    "id": "1dbf5e191cac760a"
   },
   {
@@ -574,7 +613,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:56",
    "id": "9372a2856f2b2b3f"
   },
   {
@@ -593,14 +632,14 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/04/pfeiffer-pinacoteca-agnelli-torino-2026-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "ae8328b823fce708"
   },
   {
    "title": "Musica classica in pausa pranzo: al Pastis di Torino, in zona Quadrilatero, arriva la rassegna \"Adagio\"",
    "source_id": "torinotoday_eventi",
    "url": "https://www.torinotoday.it/eventi/concerti/concerti-musica-classica-pausa-pranzo-pastis-torino-giovedi.html",
-   "description": "Pastis",
+   "description": "Torino Pastis",
    "category": "eventi",
    "venue": "Pastis",
    "address": "",
@@ -612,7 +651,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:56",
    "id": "6e4d6e48ab87201b"
   },
   {
@@ -631,14 +670,14 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:56",
    "id": "5b2dc06c34fc296f"
   },
   {
    "title": "Lucio Dalla al MAUTO di Torino: l’esposizione dedicata allo storico concept album",
    "source_id": "torinotoday_eventi",
    "url": "https://www.torinotoday.it/eventi/mostre/lucio-dalla-roberto-roversi-automobili-mauto-torino-2026.html",
-   "description": "MAUTO - Museo Nazionale dell’Automobile",
+   "description": "Torino MAUTO - Museo Nazionale dellu2019Automobile",
    "category": "mostre",
    "venue": "MAUTO - Museo Nazionale dell’Automobile",
    "address": "",
@@ -650,7 +689,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:56",
    "id": "9c44ce2034fc98fd"
   },
   {
@@ -669,7 +708,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:56",
    "id": "945e9382efb537ab"
   },
   {
@@ -688,7 +727,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/05/altro-novecento-mostra-torino-2026-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "066aac68a5656943"
   },
   {
@@ -707,15 +746,15 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/05/torino-togliatti-1966-2026-mostra-torino-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "158a13ec676b78c7"
   },
   {
    "title": "Carlo Mattioli e il mondo Olivetti: a Ivrea la mostra che celebra un sodalizio d'arte e cultura",
    "source_id": "torinotoday_eventi",
    "url": "https://www.torinotoday.it/eventi/mostre/mostra-carlo-mattioli-textures-ivrea-museo-garda-2026.html",
-   "description": "Museo Civico P. A. Garda",
-   "category": "concerti",
+   "description": "Torino Museo Civico P. A. Garda",
+   "category": "mostre",
    "venue": "Museo Civico P. A. Garda",
    "address": "",
    "lat": null,
@@ -726,7 +765,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:56",
    "id": "d7d597a1903ba799"
   },
   {
@@ -745,7 +784,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/05/teatro-a-pedali-festival-2026-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "9cd569295be651dd"
   },
   {
@@ -764,7 +803,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:56",
    "id": "afe949e5a0e90a6e"
   },
   {
@@ -783,7 +822,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:56",
    "id": "36149eee46d3ffa8"
   },
   {
@@ -802,8 +841,27 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:56",
    "id": "d44caba484bed880"
+  },
+  {
+   "title": "Noi, 2084",
+   "source_id": "imbarchino",
+   "url": "https://www.imbarchino.space/events/noi-2084",
+   "description": "Installazione. Dal 1 giugno ad 30 agosto. Pensieri e confessioni su nastro analogico, registrati nell’estate del 2026 a Imbarchino: un’installazione partecipativa che diventerà performance teatrale, ma anche capsula del tempo e archivio umano. Un’eredità del futuro estranea all’AI. Progetto a cura del sound designer Gabriele Viscovo.",
+   "category": "mostre",
+   "venue": "Imbarchino",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-06-01T09:00:00",
+   "end": "2026-08-30T09:00:00",
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "",
+   "image": "https://static1.squarespace.com/static/5e7e264530df6e33f115bd43/6818b0163d2e710d25581795/6a074daa874f3a7000c41dfe/1779111493317/",
+   "fetched_at": "2026-07-12T14:32:01",
+   "id": "92e754127f901878"
   },
   {
    "title": "Ottant'anni di Repubblica: a Torino una grande mostra fotografica \"1946-2026 - Donne al voto, nasce la Repubblica\"",
@@ -821,7 +879,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:56",
    "id": "0ce2af3b583cb10e"
   },
   {
@@ -840,8 +898,27 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:56",
    "id": "9d91357ea15ab0f3"
+  },
+  {
+   "title": "Torna a Torino l'Evergreen Festival 2026",
+   "source_id": "bobobo",
+   "url": "https://www.bobobo.it/torino/eventi/torna-a-torino-l-evergreen-festival-2026-e7316558",
+   "description": "Torino",
+   "category": "eventi",
+   "venue": "Torino",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-06-04T00:00:00",
+   "end": "2026-07-19T00:00:00",
+   "all_day": true,
+   "date_confidence": "high",
+   "price": "",
+   "image": "",
+   "fetched_at": "2026-07-12T14:32:02",
+   "id": "61b9bf6c0c0f089f"
   },
   {
    "title": "Un’Estate al Cinema 2026 a Torino: due mesi di proiezioni gratuite tra quartieri e spazi",
@@ -859,7 +936,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/06/estate-cinema-torino-proiezioni-gratuite-2026-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "904c245fc61bd663"
   },
   {
@@ -878,7 +955,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/05/evergreen-fest-2026-torino-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "c4036237805ebcf5"
   },
   {
@@ -897,7 +974,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/05/castello-valentino-torino-visite-gratuite-giugno-luglio-2026-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "f44658a959a26c46"
   },
   {
@@ -916,7 +993,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/06/estate-a-sud-2026-torino-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "f1904f42c412b45c"
   },
   {
@@ -935,7 +1012,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://citynews-torinotoday.stgy.ovh/~media/horizontal-mid/34558942062208/notti-bianche-a-pianezza-3.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:56",
    "id": "7e012a6f6a0e28e4"
   },
   {
@@ -954,7 +1031,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://citynews-torinotoday.stgy.ovh/~media/horizontal-mid/55741033501872/pexels-teemu-r-555088-1840320.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:56",
    "id": "c1110a3f20ee7bf6"
   },
   {
@@ -973,7 +1050,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/06/vespa-icona-italiana-mostra-torino-2026-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "380170ae133387f6"
   },
   {
@@ -992,8 +1069,27 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/06/estate-museo-2026-torino-concerti-gratuiti-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "47ad8a4b7c54c43d"
+  },
+  {
+   "title": "Candlelight Open Air: Tributo a Lucio Dalla e altri",
+   "source_id": "bobobo",
+   "url": "https://www.bobobo.it/torino/eventi/candlelight-open-air--tributo-a-lucio-dalla-e-altri-e7315900",
+   "description": "Torino Torino - Castello di Collegno",
+   "category": "eventi",
+   "venue": "Torino Torino - Castello di Collegno",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-06-12T00:00:00",
+   "end": "2026-08-21T00:00:00",
+   "all_day": true,
+   "date_confidence": "high",
+   "price": "",
+   "image": "",
+   "fetched_at": "2026-07-12T14:32:02",
+   "id": "306aad6fa267456c"
   },
   {
    "title": "Estate Reale 2026 torna ai Musei Reali di Torino con aperture serali, concerti e spettacoli",
@@ -1011,7 +1107,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/06/estate-reale-2026-torino-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "b692fd918198c13b"
   },
   {
@@ -1030,7 +1126,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/05/parco-dora-live-2026-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "69a9235aaa8ae2a0"
   },
   {
@@ -1049,7 +1145,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/06/cascina-sotto-le-stelle-2026-torino-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "710a319531274b59"
   },
   {
@@ -1068,7 +1164,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/06/in-gioco-mostra-torino-2026-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "028bba6ec9924e79"
   },
   {
@@ -1087,7 +1183,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/06/summer-music-village-torino-2026-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "5704ae6800253cec"
   },
   {
@@ -1106,7 +1202,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:56",
    "id": "dc01e12ac49c43e7"
   },
   {
@@ -1125,7 +1221,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/06/cinema-aperto-gratuito-torino-2026-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "17d85ed1e64ca05e"
   },
   {
@@ -1144,7 +1240,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/06/sotto-portici-risorgimento-2026-torino-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "9f20d372abff747e"
   },
   {
@@ -1163,7 +1259,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/06/harry-gruyaert-mostra-torino-2026-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "e32efedcf922bd4b"
   },
   {
@@ -1182,7 +1278,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/01/allegre-comari-windsor-teatro-torino-2026-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "165a6d89d46eb573"
   },
   {
@@ -1201,7 +1297,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/06/myfarini-cinema-aperto-torino-2026-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "20aeaa168e548dce"
   },
   {
@@ -1220,7 +1316,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/06/cinema-aperto-torino-comala-2026-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "93963e5f548f42b8"
   },
   {
@@ -1239,7 +1335,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/06/marc-chagall-aosta-2026-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "f9f0b66c63c518cb"
   },
   {
@@ -1258,8 +1354,103 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/05/sale-san-giovanni-lavanda-2026-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "92e4af87858247eb"
+  },
+  {
+   "title": "Candlelight Open Air: Queen vs. ABBA",
+   "source_id": "bobobo",
+   "url": "https://www.bobobo.it/torino/eventi/candlelight-open-air--queen-vs--abba-e7319143",
+   "description": "Torino Torino - Castello di Collegno",
+   "category": "eventi",
+   "venue": "Torino Torino - Castello di Collegno",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-06-24T00:00:00",
+   "end": "2026-08-26T00:00:00",
+   "all_day": true,
+   "date_confidence": "high",
+   "price": "",
+   "image": "",
+   "fetched_at": "2026-07-12T14:32:02",
+   "id": "3074d88ddaf2bdbf"
+  },
+  {
+   "title": "Candlelight Open Air: Tributo a Vasco Rossi",
+   "source_id": "bobobo",
+   "url": "https://www.bobobo.it/torino/eventi/candlelight-open-air--tributo-a-vasco-rossi-e7319142",
+   "description": "Torino Torino - Castello di Collegno",
+   "category": "eventi",
+   "venue": "Torino Torino - Castello di Collegno",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-06-24T00:00:00",
+   "end": "2026-08-26T00:00:00",
+   "all_day": true,
+   "date_confidence": "high",
+   "price": "",
+   "image": "",
+   "fetched_at": "2026-07-12T14:32:02",
+   "id": "d7b0784428b6c8ae"
+  },
+  {
+   "title": "Candlelight Open Air: Tributo a Einaudi",
+   "source_id": "bobobo",
+   "url": "https://www.bobobo.it/torino/eventi/candlelight-open-air--tributo-a-einaudi-e7319517",
+   "description": "Torino Torino - Castello di Collegno",
+   "category": "eventi",
+   "venue": "Torino Torino - Castello di Collegno",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-06-25T00:00:00",
+   "end": "2026-08-27T00:00:00",
+   "all_day": true,
+   "date_confidence": "high",
+   "price": "",
+   "image": "",
+   "fetched_at": "2026-07-12T14:32:02",
+   "id": "27e98f6fa6285251"
+  },
+  {
+   "title": "Candlelight: Ennio Morricone e Colonne sonore",
+   "source_id": "bobobo",
+   "url": "https://www.bobobo.it/torino/eventi/candlelight--ennio-morricone-e-colonne-sonore-e7319704",
+   "description": "Torino Torino - Castello di Collegno",
+   "category": "eventi",
+   "venue": "Torino Torino - Castello di Collegno",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-06-25T00:00:00",
+   "end": "2026-08-27T00:00:00",
+   "all_day": true,
+   "date_confidence": "high",
+   "price": "",
+   "image": "",
+   "fetched_at": "2026-07-12T14:32:02",
+   "id": "25ff63c3ba347cb0"
+  },
+  {
+   "title": "Flowers Festival",
+   "source_id": "bobobo",
+   "url": "https://www.bobobo.it/torino/eventi/flowers-festival-e7322574",
+   "description": "Torino Collegno",
+   "category": "eventi",
+   "venue": "Torino Collegno",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-06-25T00:00:00",
+   "end": "2026-07-17T00:00:00",
+   "all_day": true,
+   "date_confidence": "high",
+   "price": "",
+   "image": "",
+   "fetched_at": "2026-07-12T14:32:02",
+   "id": "671073b43494614d"
   },
   {
    "title": "Riapre il Viet Caffè di Torino: caffè e specialità del Vietnam e serate jazz nel giardino di bambù",
@@ -1277,7 +1468,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/06/viet-caffe-torino-estate-2026-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "82740e09ea86ee78"
   },
   {
@@ -1296,8 +1487,27 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2025/05/flowers-festival-2026-collegno-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "fb0f04b778f3119b"
+  },
+  {
+   "title": "Candlelight Open Air: Coldplay & Imagine Dragons",
+   "source_id": "bobobo",
+   "url": "https://www.bobobo.it/torino/eventi/candlelight-open-air--coldplay---imagine-dragons-e7320780",
+   "description": "Torino Torino - Castello di Collegno",
+   "category": "eventi",
+   "venue": "Torino Torino - Castello di Collegno",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-06-26T00:00:00",
+   "end": "2026-07-24T00:00:00",
+   "all_day": true,
+   "date_confidence": "high",
+   "price": "",
+   "image": "",
+   "fetched_at": "2026-07-12T14:32:02",
+   "id": "42cc76a56b47dc65"
   },
   {
    "title": "Scena Aperta: in estate tornano le visite guidate teatrali al Teatro Carignano di Torino",
@@ -1315,7 +1525,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/06/scena-aperta-torino-giugno-luglio-2026-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "272153c1a47fe94f"
   },
   {
@@ -1334,7 +1544,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/01/monfortinjazz-2026-programma-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "530f9049521302f7"
   },
   {
@@ -1353,7 +1563,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/06/cinema-sotto-stelle-torino-giardini-saragat-2026-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "a6711e29f95b0978"
   },
   {
@@ -1372,14 +1582,14 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/06/cinema-parco-castello-miradolo-2026-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "5e58d434a3958656"
   },
   {
    "title": "Cinepanettone d'Estate a Pinerolo: il programma del cinema all'aperto gratuito",
    "source_id": "torinotoday_eventi",
    "url": "https://www.torinotoday.it/eventi/cinema/cinepanettone-estate-pinerolo-cinema-aperto-programma-2026.html",
-   "description": "Prato di Piazza D'Armi",
+   "description": "Torino Prato di Piazza D'Armi",
    "category": "eventi",
    "venue": "Prato di Piazza D'Armi",
    "address": "",
@@ -1391,7 +1601,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:56",
    "id": "238685fd2798a1e1"
   },
   {
@@ -1410,7 +1620,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/06/cinema-sotto-le-stelle-pinerolo-2026-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "41b43701c57dbaad"
   },
   {
@@ -1429,7 +1639,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/06/concerti-estate-palazzo-reale-torino-2026-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "a3dba810cec06f82"
   },
   {
@@ -1448,7 +1658,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2025/07/collisioni-2026-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "2f5dcc963ec227df"
   },
   {
@@ -1467,7 +1677,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://citynews-torinotoday.stgy.ovh/~media/horizontal-mid/37707573318080/cinema-pista-500.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:56",
    "id": "9ff60398b7e5285d"
   },
   {
@@ -1486,7 +1696,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/06/pasta-music-fest-vinovo-2026-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "1e7a3f54bd193cb6"
   },
   {
@@ -1505,8 +1715,27 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/06/cinema-sulla-pista-torino-2026-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "3caca62ea7c6f985"
+  },
+  {
+   "title": "Musica e Spiritualità 2026",
+   "source_id": "bobobo",
+   "url": "https://www.bobobo.it/torino/eventi/musica-e-spiritualit---2026-e7324481",
+   "description": "Torino Verbania luoghi vari",
+   "category": "eventi",
+   "venue": "Torino Verbania luoghi vari",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-07-03T00:00:00",
+   "end": "2026-08-06T00:00:00",
+   "all_day": true,
+   "date_confidence": "high",
+   "price": "",
+   "image": "",
+   "fetched_at": "2026-07-12T14:32:02",
+   "id": "78f72f0ca6624300"
   },
   {
    "title": "Stelle cadenti e cinema in terrazza: il calendario estivo del Planetario di Torino a Pino Torinese",
@@ -1524,7 +1753,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:56",
    "id": "a8bb1faba893ab48"
   },
   {
@@ -1543,7 +1772,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://citynews-torinotoday.stgy.ovh/~media/horizontal-mid/7233911014556/sala-gonin-porta-nuova.jpeg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:56",
    "id": "c2be47d4b4caa3c9"
   },
   {
@@ -1562,7 +1791,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:56",
    "id": "175471301a4dc500"
   },
   {
@@ -1581,7 +1810,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/05/saldi-estivi-2026-torino-piemonte-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "4d5240d5476f163c"
   },
   {
@@ -1600,7 +1829,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/07/visite-teatro-regio-luglio-2026-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "8f2da1766b4a10d7"
   },
   {
@@ -1619,7 +1848,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/07/ferrovia-meraviglie-torino-luglio-2026-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "ab048b057aa2a3f7"
   },
   {
@@ -1638,14 +1867,14 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2025/12/astimusica-2026-programma-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "9b6777d4aa81c200"
   },
   {
    "title": "BicChieri di Birra, torna il festival della birra artigianale a Chieri: 40 varietà spillate dai produttori, street food e concerti",
    "source_id": "torinotoday_eventi",
    "url": "https://www.torinotoday.it/eventi/bicchieri-birra-chieri-7-12-luglio-2026.html",
-   "description": "",
+   "description": "Torino",
    "category": "eventi",
    "venue": "",
    "address": "",
@@ -1657,7 +1886,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://citynews-torinotoday.stgy.ovh/~media/horizontal-mid/36474080875266/bicchieri-birra-2023.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:56",
    "id": "e01cde401cda2893"
   },
   {
@@ -1676,7 +1905,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/06/martedi-estate-museo-egizio-gratuito-over-70-2026-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "79204467a340e6e6"
   },
   {
@@ -1684,7 +1913,7 @@
    "source_id": "guidatorino_eventi_html",
    "url": "https://www.guidatorino.com/eventi-torino/labirinto-girasoli-piemonte-2026/",
    "description": "Fiorelilla · Cascina Picchetta 59 Cameri · Piemonte",
-   "category": "corsi",
+   "category": "eventi",
    "venue": "Fiorelilla",
    "address": "Cascina Picchetta 59 Cameri",
    "lat": null,
@@ -1695,7 +1924,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/07/labirinto-girasoli-piemonte-2026-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "588aa506674dc41e"
   },
   {
@@ -1714,7 +1943,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/07/bicchieri-di-birra-2026-chieri-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "ae0fa72a8aa163b5"
   },
   {
@@ -1733,14 +1962,14 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:56",
    "id": "fc04d19b42a1590a"
   },
   {
    "title": "Art Nouveau Week 2026 a Torino: il programma delle visite guidate Liberty",
    "source_id": "torinotoday_eventi",
    "url": "https://www.torinotoday.it/eventi/mostre/art-nouveau-week-liberty-torino-programma-luglio-2026.html",
-   "description": "Casa Fenoglio-Lafleur",
+   "description": "Torino Casa Fenoglio-Lafleur",
    "category": "eventi",
    "venue": "Casa Fenoglio-Lafleur",
    "address": "",
@@ -1752,14 +1981,14 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:56",
    "id": "e65405dc20808b49"
   },
   {
    "title": "Art Nouveau Week 2026, alla scoperta del Liberty a Torino e provincia: percorsi e borghi ideali dall'8 al 14 luglio",
    "source_id": "torinotoday_eventi",
    "url": "https://www.torinotoday.it/eventi/cultura/art-nouveau-week-torino-provincia-programma-liberty-2026.html",
-   "description": "Diffuse sul territorio",
+   "description": "Torino Diffuse sul territorio",
    "category": "eventi",
    "venue": "Diffuse sul territorio",
    "address": "",
@@ -1771,7 +2000,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:56",
    "id": "52a2e6c7490420d8"
   },
   {
@@ -1790,7 +2019,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/07/lunathica-festival-2026-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "b8865aeb78243fc9"
   },
   {
@@ -1809,7 +2038,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/07/street-food-festival-giaveno-2026-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "93f4acf4ebc2b0be"
   },
   {
@@ -1828,7 +2057,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/07/carbonara-festival-pinerolo-2026-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "08cc692b7e14be58"
   },
   {
@@ -1847,8 +2076,27 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/07/alpaa-2026-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "eaacd48f738ac41d"
+  },
+  {
+   "title": "Mostra Regionale della Toma di Lanzo e dei formaggi tipici d'alpeggio",
+   "source_id": "bobobo",
+   "url": "https://www.bobobo.it/torino/eventi/mostra-regionale-della-toma-di-lanzo-e-dei-formaggi-tipici-d-alpeggio-e7326318",
+   "description": "Torino Usseglio",
+   "category": "mostre",
+   "venue": "Torino Usseglio",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-07-10T00:00:00",
+   "end": "2026-07-12T00:00:00",
+   "all_day": true,
+   "date_confidence": "high",
+   "price": "",
+   "image": "",
+   "fetched_at": "2026-07-12T14:32:02",
+   "id": "173d6f370e14f8d1"
   },
   {
    "title": "Una Terrazza sul Cielo: magiche sere d'Estate tra le stelle al Planetario di Torino",
@@ -1866,7 +2114,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/07/terrazza-cielo-planetario-torino-luglio-2026-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "cdf3b534f694875b"
   },
   {
@@ -1885,8 +2133,27 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/05/anima-festival-2026-cervere-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "466879d2d6e88420"
+  },
+  {
+   "title": "Mostra Nazionale della Toma di Lanzo e formaggi d'alpeggio",
+   "source_id": "bobobo",
+   "url": "https://www.bobobo.it/torino/eventi/mostra-nazionale-della-toma-di-lanzo-e-formaggi-d-alpeggio-e7301447",
+   "description": "Torino Usseglio",
+   "category": "mostre",
+   "venue": "Torino Usseglio",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-07-11T00:00:00",
+   "end": "2026-07-20T00:00:00",
+   "all_day": true,
+   "date_confidence": "high",
+   "price": "",
+   "image": "",
+   "fetched_at": "2026-07-12T14:32:02",
+   "id": "bb140b9f43cec197"
   },
   {
    "title": "Eventi Gratis a Torino nel weekend dell'11 e 12 Luglio 2026",
@@ -1904,7 +2171,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2023/03/eventi-gratis-weekend-torino-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "911fe2287708aaad"
   },
   {
@@ -1923,7 +2190,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2023/03/sagre-weekend-torino-piemonte-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "de420ec48f7ee62d"
   },
   {
@@ -1942,7 +2209,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/07/sala-gonin-torino-riapertura-luglio-2026-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "9fcc9e431a36758f"
   },
   {
@@ -1961,8 +2228,27 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/07/weekend-casa-martini-luglio-2026-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "d69c2b690a332cfc"
+  },
+  {
+   "title": "Roero Tropical",
+   "source_id": "magazzinosulpo",
+   "url": "https://www.magazzinosulpo.com/eventi/roero-tropical/",
+   "description": "11 Luglio ore 23.30",
+   "category": "concerti",
+   "venue": "Magazzino sul Po",
+   "address": "Murazzi del Po Armando Rossi 18/A, Torino",
+   "lat": null,
+   "lon": null,
+   "start": "2026-07-11T23:30:00",
+   "end": null,
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Entrata libera",
+   "image": "https://www.magazzinosulpo.com/wp-content/uploads/2025/07/Screenshot-2026-06-30-alle-11.39.59-800x842.png",
+   "fetched_at": "2026-07-12T14:32:05",
+   "id": "c3d858fd9f3d6f38"
   },
   {
    "title": "Concerti di Luglio 2026: i live a Torino e in Piemonte da non perdere",
@@ -1980,8 +2266,46 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:56",
    "id": "345181f194efb164"
+  },
+  {
+   "title": "Evento ecologico (16159)",
+   "source_id": "bobobo",
+   "url": "https://www.bobobo.it/torino/eventi/evento-ecologico--16159-e7322951",
+   "description": "Torino Alpignano",
+   "category": "eventi",
+   "venue": "Torino Alpignano",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-07-12T00:00:00",
+   "end": null,
+   "all_day": true,
+   "date_confidence": "high",
+   "price": "",
+   "image": "",
+   "fetched_at": "2026-07-12T14:32:02",
+   "id": "55d853b076e5ce6d"
+  },
+  {
+   "title": "Gran Balon, mercato dell'antiquariato minore di Torino",
+   "source_id": "bobobo",
+   "url": "https://www.bobobo.it/torino/eventi/gran-balon--mercato-dell-antiquariato-minore-di-torino-e7326831",
+   "description": "Torino",
+   "category": "eventi",
+   "venue": "Torino",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-07-12T00:00:00",
+   "end": null,
+   "all_day": true,
+   "date_confidence": "high",
+   "price": "",
+   "image": "",
+   "fetched_at": "2026-07-12T14:32:02",
+   "id": "ef675746a2946496"
   },
   {
    "title": "La “Corriera della Toma”: Navetta Gratuita da Torino per la Mostra della Toma di Lanzo",
@@ -1999,7 +2323,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:56",
    "id": "92f4ca4bd46d4d8c"
   },
   {
@@ -2018,14 +2342,14 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:56",
    "id": "d13ed35d611f2b21"
   },
   {
    "title": "L’originale consorzio degli ambulanti di Forte dei Marmi a Giaveno domenica 12 luglio",
    "source_id": "torinotoday_eventi",
    "url": "https://www.torinotoday.it/eventi/-consorzio-ambulanti-forte-dei-marmi-giaveno-12-luglio.html",
-   "description": "Viale Regina Elena - GIAVENO",
+   "description": "Torino Viale Regina Elena - GIAVENO",
    "category": "eventi",
    "venue": "Viale Regina Elena - GIAVENO",
    "address": "",
@@ -2037,8 +2361,27 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:56",
    "id": "1e7a4e54b4f8bdf9"
+  },
+  {
+   "title": "PAOLO TRINCIA - A SANGUE FREDDO",
+   "source_id": "bobobo",
+   "url": "https://www.bobobo.it/torino/eventi/paolo-trincia---a-sangue-freddo-e7323627",
+   "description": "Susa Torino - Cortile Castello di Adelaide",
+   "category": "eventi",
+   "venue": "Susa Torino - Cortile Castello di Adelaide",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-07-12T00:00:00",
+   "end": null,
+   "all_day": true,
+   "date_confidence": "high",
+   "price": "",
+   "image": "",
+   "fetched_at": "2026-07-12T14:32:02",
+   "id": "4617513350027ddc"
   },
   {
    "title": "Sagre di Luglio 2026 a Torino e in Piemonte: le più belle da non perdere",
@@ -2056,8 +2399,27 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:56",
    "id": "9f50b429ad607c9b"
+  },
+  {
+   "title": "Notte dell'Argentina (6+)",
+   "source_id": "turinhub",
+   "url": "https://xceed.me/en/torino/event/notte-dellargentina/237660",
+   "description": "Bunker Wake Park · ARGENTINA · Live/Dj set",
+   "category": "concerti",
+   "venue": "Bunker Wake Park",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-07-12T03:00:00",
+   "end": "2026-07-12T05:00:00",
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Tes Arci",
+   "image": "",
+   "fetched_at": "2026-07-12T14:32:00",
+   "id": "0f7476626f35a0b7"
   },
   {
    "title": "A Luglio torna a Torino il Gran Balon, tra i più antichi mercati vintage d'Europa",
@@ -2075,7 +2437,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/06/gran-balon-torino-luglio-2026-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "3e17afb448165b6d"
   },
   {
@@ -2094,7 +2456,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/07/flor-estate-2026-bardonecchia-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "83344cdafbc542fc"
   },
   {
@@ -2113,7 +2475,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/07/cesana-sestriere-2026-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "344b47304d884b8f"
   },
   {
@@ -2132,7 +2494,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://gancio.cisti.org/media/7742afea8fd84ce23be983dcab4856a0.jpg",
-   "fetched_at": "2026-07-12T11:52:34",
+   "fetched_at": "2026-07-12T14:31:59",
    "id": "214ce6ff98bd01da"
   },
   {
@@ -2151,8 +2513,65 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://gancio.cisti.org/media/41afd9250dafd0e90921d8d497c810ad.jpg",
-   "fetched_at": "2026-07-12T11:52:34",
+   "fetched_at": "2026-07-12T14:31:59",
    "id": "2376d40823803977"
+  },
+  {
+   "title": "Bisogno di estate: Nader & FoxD dj set",
+   "source_id": "imbarchino",
+   "url": "https://www.imbarchino.space/events/bisogno-di-estate-nader-foxd-dj-set",
+   "description": "17:00 - 21:00 Contro la vampa estiva, Nader e FoxD portano una ventata di freschezza: un dj set disco, house ed electro-funk, dal pomeriggio al tramonto. Altrettanto fresche saranno le magliette distribuite in regalo durante l’evento, realizzate da Lemon Soda per Imbarchino.",
+   "category": "club",
+   "venue": "Imbarchino",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-07-12T17:00:00",
+   "end": "2026-07-12T21:00:00",
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "",
+   "image": "https://static1.squarespace.com/static/5e7e264530df6e33f115bd43/6818b0163d2e710d25581795/6a2ea932a5357c1b9f69810f/1781443049259/",
+   "fetched_at": "2026-07-12T14:32:01",
+   "id": "8786b5df5c7288cd"
+  },
+  {
+   "title": "Danno e Noskillsphotography pres. “AKA SIMONE”",
+   "source_id": "turinhub",
+   "url": "",
+   "description": "Capodoglio · HIP HOP ∙ RAP UNDERGROUND ∙ PRESENTAZIONE LIBRO · Live/Dj set",
+   "category": "concerti",
+   "venue": "Capodoglio",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-07-12T18:00:00",
+   "end": null,
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Free",
+   "image": "",
+   "fetched_at": "2026-07-12T14:32:00",
+   "id": "9b92af7c38bd8c8a"
+  },
+  {
+   "title": "Lila soul Fest",
+   "source_id": "turinhub",
+   "url": "",
+   "description": "Lavanderia a Vapore · FUNK ∙ SOUL ∙ BLACK ∙ R&B · Live music",
+   "category": "concerti",
+   "venue": "Lavanderia a Vapore",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-07-12T19:00:00",
+   "end": null,
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Early €12 - Reg €15",
+   "image": "",
+   "fetched_at": "2026-07-12T14:32:00",
+   "id": "f532e4c662f9ebf4"
   },
   {
    "title": "Pizza Bella Vita",
@@ -2170,8 +2589,65 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://gancio.cisti.org/media/a2b00e1542f45eea13e8304401c268aa.jpg",
-   "fetched_at": "2026-07-12T11:52:34",
+   "fetched_at": "2026-07-12T14:31:59",
    "id": "db568d614fd1c4e3"
+  },
+  {
+   "title": "Siamofestival 18k - Promessa - Latrelle - Quentin40",
+   "source_id": "turinhub",
+   "url": "https://dice.fm/event/l8kbpw-siamofestival-18k-promessa-latrelle-quentin40-12th-jul-white-moon-torino-tickets",
+   "description": "Whitemoon · RAP ∙ TRAP ∙ CLOUD RAP ∙ HIP HOP · Live music",
+   "category": "concerti",
+   "venue": "Whitemoon",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-07-12T19:00:00",
+   "end": null,
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Reg €23",
+   "image": "",
+   "fetched_at": "2026-07-12T14:32:00",
+   "id": "fe7c1d85be0506b3"
+  },
+  {
+   "title": "Djiin + Garage Bagarre | Blah Blah, Torino",
+   "source_id": "turinhub",
+   "url": "",
+   "description": "Blah Blah · PSYCH ROCK ∙ STONER ∙ HEAVY PSYCH ∙ GARAGE ROCK · Live music",
+   "category": "concerti",
+   "venue": "Blah Blah",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-07-12T21:00:00",
+   "end": "2026-07-12T23:30:00",
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Reg €7",
+   "image": "",
+   "fetched_at": "2026-07-12T14:32:00",
+   "id": "3794822b21a2ecdb"
+  },
+  {
+   "title": "ImbarKino - Il Cinema nel Prato: \"La classe operaia va in paradiso\"",
+   "source_id": "imbarchino",
+   "url": "https://www.imbarchino.space/events/imbarkino-il-cinema-nel-prato-la-classe-operaia-va-in-paradiso",
+   "description": "21:00 - 23:30 La rassegna ImbarKino 2026. Estate italiana comincia con La classe operaia va in paradiso di Elio Petri (1971). La fabbrica come gabbia, il sindacato come ingranaggio, la follia come unica via d'uscita. Alle 21, sul pratone. In collaborazione con Seeyousound.",
+   "category": "eventi",
+   "venue": "Imbarchino",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-07-12T21:00:00",
+   "end": "2026-07-12T23:30:00",
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "",
+   "image": "https://static1.squarespace.com/static/5e7e264530df6e33f115bd43/6818b0163d2e710d25581795/6a369c05a4bbe5297dd53ad5/1781964441765/",
+   "fetched_at": "2026-07-12T14:32:01",
+   "id": "c5a869764b927ab6"
   },
   {
    "title": "Torna a Torino il “Cinema nel Prato”: proiezioni gratuite al Valentino per l’Estate 2026",
@@ -2189,8 +2665,46 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/06/cinema-nel-prato-torino-2026-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "2622d2f26abb285d"
+  },
+  {
+   "title": "Yalla Jova \\\\ Jovanotti",
+   "source_id": "turinhub",
+   "url": "",
+   "description": "Vinile · TRIBUTO ∙ POP ∙ ROCK · Live music",
+   "category": "concerti",
+   "venue": "Vinile",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-07-12T21:00:00",
+   "end": "2026-07-12T23:00:00",
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Reg €10",
+   "image": "",
+   "fetched_at": "2026-07-12T14:32:00",
+   "id": "afca8f2a04212417"
+  },
+  {
+   "title": "CINEMA ALL'APERTO",
+   "source_id": "turinhub",
+   "url": "",
+   "description": "Violeta Parra · CINEMA SOTTO LE STELLE · Live music",
+   "category": "concerti",
+   "venue": "Violeta Parra",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-07-12T21:30:00",
+   "end": null,
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "",
+   "image": "",
+   "fetched_at": "2026-07-12T14:32:00",
+   "id": "8d0cf561bf8fdb46"
   },
   {
    "title": "Salmo porta la sua carica dal vivo ad Asti nel 2026 con i pezzi del suo ultimo album “Ranch”",
@@ -2208,7 +2722,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/01/salmo-asti-2026-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "f3a40ca27718d5f9"
   },
   {
@@ -2227,8 +2741,27 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://gancio.cisti.org/media/b6958ca47e21afad260be3cee1ad3709.jpg",
-   "fetched_at": "2026-07-12T11:52:34",
+   "fetched_at": "2026-07-12T14:31:59",
    "id": "2baaec53c98c2e62"
+  },
+  {
+   "title": "Accogliere è responsabilità",
+   "source_id": "magazzinosulpo",
+   "url": "https://www.magazzinosulpo.com/eventi/accogliere-e-responsabilita/",
+   "description": "13 Luglio dalle 16:30",
+   "category": "concerti",
+   "venue": "Magazzino sul Po",
+   "address": "Murazzi del Po Armando Rossi 18/A, Torino",
+   "lat": null,
+   "lon": null,
+   "start": "2026-07-13T16:30:00",
+   "end": null,
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Entrata libera",
+   "image": "https://www.magazzinosulpo.com/wp-content/uploads/2025/07/13Luglio_post-800x999.jpeg",
+   "fetched_at": "2026-07-12T14:32:05",
+   "id": "f53729f5f63823a2"
   },
   {
    "title": "Ogni due lunedì del Mese – Corso di Acroyoga",
@@ -2246,7 +2779,7 @@
    "date_confidence": "low",
    "price": "",
    "image": "https://variantebunker.com/wp-content/uploads/2026/03/Acroyoga-400x400.jpeg",
-   "fetched_at": "2026-07-12T11:52:32",
+   "fetched_at": "2026-07-12T14:31:58",
    "id": "d913b1193ddd1538"
   },
   {
@@ -2265,7 +2798,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://variantebunker.com/wp-content/uploads/2026/03/Danza-Dabka-400x400.jpg",
-   "fetched_at": "2026-07-12T11:52:32",
+   "fetched_at": "2026-07-12T14:31:58",
    "id": "04c9425551444021"
   },
   {
@@ -2284,7 +2817,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/01/pooh-asti-2026-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "a7688017584f92e5"
   },
   {
@@ -2303,8 +2836,27 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/07/archivio-stato-torino-apertura-straordinaria-2026-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "b0b83ebca91d0c02"
+  },
+  {
+   "title": "Alla notte serve aria w/ Pippo Frau + Funky*Club",
+   "source_id": "magazzinosulpo",
+   "url": "https://www.magazzinosulpo.com/eventi/alla-notte-serve-aria-w-pippo-frau-funky-club/",
+   "description": "14 Luglio ore 18.00",
+   "category": "club",
+   "venue": "Magazzino sul Po",
+   "address": "Murazzi del Po Armando Rossi 18/A, Torino",
+   "lat": null,
+   "lon": null,
+   "start": "2026-07-14T18:00:00",
+   "end": null,
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Entrata libera",
+   "image": "https://www.magazzinosulpo.com/wp-content/uploads/2026/06/post-4-800x999.jpg",
+   "fetched_at": "2026-07-12T14:32:05",
+   "id": "ad96634410b318f9"
   },
   {
    "title": "Ogni martedì – Laboratorio di Scrittura Creativa",
@@ -2322,8 +2874,27 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://variantebunker.com/wp-content/uploads/2026/03/scrittura-creativa-400x400.png",
-   "fetched_at": "2026-07-12T11:52:32",
+   "fetched_at": "2026-07-12T14:31:58",
    "id": "2ca6390ee161fba9"
+  },
+  {
+   "title": "GIANNI BISSACA  - PORCA MISERIA",
+   "source_id": "turinhub",
+   "url": "",
+   "description": "PiùSpazioQuattro · monologo · Altro",
+   "category": "teatro",
+   "venue": "PiùSpazioQuattro",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-07-14T19:00:00",
+   "end": "2026-07-14T22:00:00",
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Free",
+   "image": "",
+   "fetched_at": "2026-07-12T14:32:00",
+   "id": "eaa802d94bb0170e"
   },
   {
    "title": "Cena sociale di quartiere GRAB",
@@ -2341,7 +2912,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://gancio.cisti.org/media/4dea4c8f723e77d38901b3616f75833f.jpg",
-   "fetched_at": "2026-07-12T11:52:34",
+   "fetched_at": "2026-07-12T14:31:59",
    "id": "62d60c214a2d1e7f"
   },
   {
@@ -2360,7 +2931,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/01/fiorella-mannoia-asti-2026-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "93e43c460f4c8810"
   },
   {
@@ -2379,7 +2950,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/02/i-cani-flowers-festival-2026-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "abd770e9339bfb56"
   },
   {
@@ -2398,7 +2969,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://gancio.cisti.org/media/dd2b56a3ed0daa46bafd50eba7cdf20a.jpg",
-   "fetched_at": "2026-07-12T11:52:34",
+   "fetched_at": "2026-07-12T14:31:59",
    "id": "c76a366d1f933cc7"
   },
   {
@@ -2417,8 +2988,27 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://gancio.cisti.org/media/23139ffff4d5e0e983ef67f5e8911b47.jpg",
-   "fetched_at": "2026-07-12T11:52:34",
+   "fetched_at": "2026-07-12T14:31:59",
    "id": "ec73a5862ad8d676"
+  },
+  {
+   "title": "Kedikaos poetry slam",
+   "source_id": "magazzinosulpo",
+   "url": "https://www.magazzinosulpo.com/eventi/kedikaos-poetry-slam/",
+   "description": "15 Luglio ore 18.30",
+   "category": "concerti",
+   "venue": "Magazzino sul Po",
+   "address": "Murazzi del Po Armando Rossi 18/A, Torino",
+   "lat": null,
+   "lon": null,
+   "start": "2026-07-15T18:30:00",
+   "end": null,
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Entrata libera",
+   "image": "https://www.magazzinosulpo.com/wp-content/uploads/2026/07/15LuglioLuglio_post-800x999.jpg",
+   "fetched_at": "2026-07-12T14:32:05",
+   "id": "dca4f5cec7c5f0fb"
   },
   {
    "title": "Ogni 2 mercoledì – Club di Disegno",
@@ -2436,7 +3026,7 @@
    "date_confidence": "low",
    "price": "",
    "image": "https://variantebunker.com/wp-content/uploads/2026/04/DF_-180-400x400.jpg",
-   "fetched_at": "2026-07-12T11:52:32",
+   "fetched_at": "2026-07-12T14:31:58",
    "id": "258e7e3ef2b9a0a4"
   },
   {
@@ -2455,7 +3045,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://variantebunker.com/wp-content/uploads/2026/03/teatro-400x400.jpg",
-   "fetched_at": "2026-07-12T11:52:32",
+   "fetched_at": "2026-07-12T14:31:58",
    "id": "1e97e61bd52b0346"
   },
   {
@@ -2474,7 +3064,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/02/attraverso-festival-2026-programma-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "802e3e4aac03195e"
   },
   {
@@ -2493,7 +3083,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/02/giorgia-concerto-asti-2026-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "aa1f3a0400e8731f"
   },
   {
@@ -2512,7 +3102,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/02/subsonica-flowers-festival-2026-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "6a70b95fff3233cc"
   },
   {
@@ -2531,7 +3121,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://gancio.cisti.org/media/b5e3ae427f3a73d063f23ae9859c2aa9.jpg",
-   "fetched_at": "2026-07-12T11:52:34",
+   "fetched_at": "2026-07-12T14:31:59",
    "id": "da9559bf4682b6b6"
   },
   {
@@ -2550,8 +3140,65 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://gancio.cisti.org/media/2ec5add61c7e373dfa0a83b15b574d88.jpg",
-   "fetched_at": "2026-07-12T11:52:34",
+   "fetched_at": "2026-07-12T14:31:59",
    "id": "51e7c63794e685e6"
+  },
+  {
+   "title": "\"Alla scoperta di Charlie Parker\"",
+   "source_id": "turinhub",
+   "url": "",
+   "description": "PiùSpazioQuattro · PRESENTAZIONE DEL LIBRO ∙ FRASEGGI DI SAX · Altro",
+   "category": "conferenze",
+   "venue": "PiùSpazioQuattro",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-07-16T19:00:00",
+   "end": "2026-07-16T22:00:00",
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Free",
+   "image": "",
+   "fetched_at": "2026-07-12T14:32:00",
+   "id": "958edfee4d6dfe5d"
+  },
+  {
+   "title": "Chickenheads",
+   "source_id": "magazzinosulpo",
+   "url": "https://www.magazzinosulpo.com/eventi/chickenheads/",
+   "description": "16 Luglio ore 19.00",
+   "category": "concerti",
+   "venue": "Magazzino sul Po",
+   "address": "Murazzi del Po Armando Rossi 18/A, Torino",
+   "lat": null,
+   "lon": null,
+   "start": "2026-07-16T19:00:00",
+   "end": null,
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Entrata libera",
+   "image": "https://www.magazzinosulpo.com/wp-content/uploads/2026/06/16Luglio_post-800x999.jpg",
+   "fetched_at": "2026-07-12T14:32:05",
+   "id": "279893ff7dd6785b"
+  },
+  {
+   "title": "Chillin' in Aiuola ft. Zaminga + Gloria Russo",
+   "source_id": "turinhub",
+   "url": "",
+   "description": "Casa del quartiere di San Salvario · live music ∙ stand up",
+   "category": "concerti",
+   "venue": "Casa del quartiere di San Salvario",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-07-16T19:00:00",
+   "end": "2026-07-16T21:00:00",
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Free",
+   "image": "",
+   "fetched_at": "2026-07-12T14:32:00",
+   "id": "c0b5c112716bb60b"
   },
   {
    "title": "Il Gran Ballo d’Estate a Torino: danze ottocentesche, vestiti d'epoca e atmosfere magiche",
@@ -2569,8 +3216,27 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/06/gran-ballo-estate-torino-2026-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "1b8140f823a42eb3"
+  },
+  {
+   "title": "Lombroso Jam Night",
+   "source_id": "turinhub",
+   "url": "",
+   "description": "Lombroso16 · JAM SESSION · Live music",
+   "category": "concerti",
+   "venue": "Lombroso16",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-07-16T20:00:00",
+   "end": null,
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Free",
+   "image": "",
+   "fetched_at": "2026-07-12T14:32:00",
+   "id": "4db1e9d32f95a240"
   },
   {
    "title": "No Datacenter Lucento! Proiezioni e confronto in quartiere",
@@ -2588,7 +3254,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://gancio.cisti.org/media/aacf9196527681885052a91a89962b0b.jpg",
-   "fetched_at": "2026-07-12T11:52:34",
+   "fetched_at": "2026-07-12T14:31:59",
    "id": "bd592bf50fb98005"
   },
   {
@@ -2607,7 +3273,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://variantebunker.com/wp-content/uploads/2026/07/Senza-titolo-1-400x400.png",
-   "fetched_at": "2026-07-12T11:52:32",
+   "fetched_at": "2026-07-12T14:31:58",
    "id": "e38f2b213a0888e0"
   },
   {
@@ -2626,7 +3292,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://gancio.cisti.org/media/10ae3c5cb69b30805621d4a59eeff9b7.jpg",
-   "fetched_at": "2026-07-12T11:52:34",
+   "fetched_at": "2026-07-12T14:31:59",
    "id": "79772fd8a5c19574"
   },
   {
@@ -2645,8 +3311,65 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/06/odissea-christopher-nolan-premiere-torino-2026-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "911306ed31eb4c74"
+  },
+  {
+   "title": "Cinema all'aperto: la famosa invasione degli orsi in sicilia",
+   "source_id": "turinhub",
+   "url": "",
+   "description": "Myfarini Campus Einaudi · proiezione cinematografica · Altro",
+   "category": "concerti",
+   "venue": "Myfarini Campus Einaudi",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-07-16T21:30:00",
+   "end": null,
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Free",
+   "image": "",
+   "fetched_at": "2026-07-12T14:32:00",
+   "id": "8c54a1555518e3dc"
+  },
+  {
+   "title": "Visioni Ribelli - I corti in Aiuolla Ginzburg",
+   "source_id": "turinhub",
+   "url": "",
+   "description": "Casa del quartiere di San Salvario · proiezioni cinematografiche",
+   "category": "concerti",
+   "venue": "Casa del quartiere di San Salvario",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-07-16T21:30:00",
+   "end": "2026-07-16T23:00:00",
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Free",
+   "image": "",
+   "fetched_at": "2026-07-12T14:32:00",
+   "id": "22d0865d14336f04"
+  },
+  {
+   "title": "Cadrega Fest",
+   "source_id": "magazzinosulpo",
+   "url": "https://www.magazzinosulpo.com/eventi/cadrega-fest/",
+   "description": "17 e 18 Luglio",
+   "category": "concerti",
+   "venue": "Magazzino sul Po",
+   "address": "Murazzi del Po Armando Rossi 18/A, Torino",
+   "lat": null,
+   "lon": null,
+   "start": "2026-07-17T00:00:00",
+   "end": "2026-07-18T00:00:00",
+   "all_day": true,
+   "date_confidence": "high",
+   "price": "Entrata libera",
+   "image": "https://www.magazzinosulpo.com/wp-content/uploads/2026/07/post-800x999.jpg",
+   "fetched_at": "2026-07-12T14:32:05",
+   "id": "8441899e25049b30"
   },
   {
    "title": "VISUAL MAPPING VOL.1 - MEZCAL SQUAT",
@@ -2664,7 +3387,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://gancio.cisti.org/media/92b5ebaa794e7cd2929c781c638b9989.jpg",
-   "fetched_at": "2026-07-12T11:52:34",
+   "fetched_at": "2026-07-12T14:31:59",
    "id": "5ef5236669c08d70"
   },
   {
@@ -2683,7 +3406,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://gancio.cisti.org/media/0bc6f2a679ac2f5b8a533966365a39af.jpg",
-   "fetched_at": "2026-07-12T11:52:34",
+   "fetched_at": "2026-07-12T14:31:59",
    "id": "8b2b99f8e6fe21fc"
   },
   {
@@ -2702,8 +3425,27 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://gancio.cisti.org/media/047320c9ade4b164aa6cfc37160f11a1.jpg",
-   "fetched_at": "2026-07-12T11:52:34",
+   "fetched_at": "2026-07-12T14:31:59",
    "id": "d14b3967a52aae40"
+  },
+  {
+   "title": "La posta del cuore comedy",
+   "source_id": "turinhub",
+   "url": "",
+   "description": "Lombroso16 · STAND UP COMEDY · Altro",
+   "category": "teatro",
+   "venue": "Lombroso16",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-07-17T21:00:00",
+   "end": null,
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Free",
+   "image": "",
+   "fetched_at": "2026-07-12T14:32:00",
+   "id": "24000c2645bc6b22"
   },
   {
    "title": "STEVE AOKY - ONE",
@@ -2721,8 +3463,46 @@
    "date_confidence": "high",
    "price": "da €20",
    "image": "https://images.xceed.me/events/banners/steve-aoky-one-torino-xceed-square-0e34.png?w=1920&h=1080&ar=16:9&fm=auto",
-   "fetched_at": "2026-07-12T11:52:33",
+   "fetched_at": "2026-07-12T14:31:59",
    "id": "6b849beb919b850b"
+  },
+  {
+   "title": "Paloma's House",
+   "source_id": "turinhub",
+   "url": "",
+   "description": "One · HITS ∙ REGGAETON · Dj set",
+   "category": "club",
+   "venue": "One",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-07-17T23:30:00",
+   "end": null,
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Reg €15 (€20 dopo 00:00)",
+   "image": "",
+   "fetched_at": "2026-07-12T14:32:00",
+   "id": "d108281a3df25874"
+  },
+  {
+   "title": "Shades",
+   "source_id": "magazzinosulpo",
+   "url": "https://www.magazzinosulpo.com/eventi/shades-2/",
+   "description": "17 Luglio ore 23.30",
+   "category": "concerti",
+   "venue": "Magazzino sul Po",
+   "address": "Murazzi del Po Armando Rossi 18/A, Torino",
+   "lat": null,
+   "lon": null,
+   "start": "2026-07-17T23:30:00",
+   "end": null,
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Entrata libera",
+   "image": "https://www.magazzinosulpo.com/wp-content/uploads/2026/06/17Luglio_post-800x999.jpg",
+   "fetched_at": "2026-07-12T14:32:05",
+   "id": "cf130cf8e2bdd63a"
   },
   {
    "title": "Torna la Mostra Nazionale della Toma di Lanzo®: a Usseglio due weekend di assaggi e formaggi",
@@ -2740,7 +3520,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:56",
    "id": "967e66139494c734"
   },
   {
@@ -2759,8 +3539,65 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/07/porto-dei-pirati-torino-2026-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "66316d5826ba857e"
+  },
+  {
+   "title": "Una Notte con Club Silencio",
+   "source_id": "turinhub",
+   "url": "",
+   "description": "Zoom Torino · live miusic",
+   "category": "concerti",
+   "venue": "Zoom Torino",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-07-18T17:00:00",
+   "end": "2026-07-18T23:30:00",
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "",
+   "image": "",
+   "fetched_at": "2026-07-12T14:32:00",
+   "id": "f0f39a4a37b9a59f"
+  },
+  {
+   "title": "Compleanno Imbarchino",
+   "source_id": "imbarchino",
+   "url": "https://www.imbarchino.space/events/compleanno-imbarchino",
+   "description": "18:00 - 02:00 Imbarchino compie sette anni! Nel pomeriggio si festeggia sul pratone: selezione house e balearic di Violenzino Merendista, live (e pogo) con i Marxos e uno special guest che scoprirete solo lì. Poi ci si sposta in Sala Remi: in consolle, Michi Rou e il B2B tra Coccola e Flavinio.",
+   "category": "concerti",
+   "venue": "Imbarchino",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-07-18T18:00:00",
+   "end": "2026-07-19T02:00:00",
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "",
+   "image": "https://static1.squarespace.com/static/5e7e264530df6e33f115bd43/6818b0163d2e710d25581795/6a2fb34943ba5c2c25198542/1782297701145/",
+   "fetched_at": "2026-07-12T14:32:01",
+   "id": "08933413865c9c3c"
+  },
+  {
+   "title": "INCONTRO DI MUTUO AIUTO TRANS*",
+   "source_id": "gancio_cisti",
+   "url": "https://gancio.cisti.org/event/incontro-di-mutuo-aiuto-trans-16",
+   "description": "INCONTRO DI MUTUO AIUTO TRANS* Csoa Gabrio - Via Millio 42, Torino (sabato, 18 luglio 18:00) INCONTRO RETE DI MUTUO AIUTO TRANS* 🏳️‍⚧️💖 Sei una persona trans ? Vuoi contribuire a formare una rete di scambio di conoscenze ed esperienze con altre persone trans ? Sei stancx di dover sempre passare per istituzioni e persone cis per dirimere i tuoi dubbi? Vogliamo costruire uno spazio orizzontale di AUTO-MUTUO-AIUTO tra persone trans* dove poterci scambiare e fornire gli strumenti per gestire la nostra salute. Crediamo nei principi dell'auto-gestione, dell' auto-organizzazione, della solidarietà e ",
+   "category": "centri_sociali",
+   "venue": "Csoa Gabrio",
+   "address": "Via Millio 42, Torino",
+   "lat": null,
+   "lon": null,
+   "start": "2026-07-18T18:00:00",
+   "end": null,
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "",
+   "image": "https://gancio.cisti.org/media/b562f88d1b1defa06016cf70952ea9b5.jpg",
+   "fetched_at": "2026-07-12T14:31:59",
+   "id": "a6deb1adc9480aa6"
   },
   {
    "title": "K-POP Music Is Coming Soon: a Bard il live show tribute DEMON HUNTERS and SODA POP",
@@ -2778,8 +3615,122 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2025/12/k-pop-music-bard-2026-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "07ec8c9c2d6a3772"
+  },
+  {
+   "title": "Spettacolo di Stand Up Comedy",
+   "source_id": "turinhub",
+   "url": "",
+   "description": "Lombroso16 · STAND UP COMEDY · Altro",
+   "category": "teatro",
+   "venue": "Lombroso16",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-07-18T21:00:00",
+   "end": null,
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Free",
+   "image": "",
+   "fetched_at": "2026-07-12T14:32:00",
+   "id": "69085a98455bcd4c"
+  },
+  {
+   "title": "THE WORKS - Queen Tribute",
+   "source_id": "turinhub",
+   "url": "",
+   "description": "GrillMusic Moncalieri · TRIBUTO AI QUEEN ∙ ROCK ∙ GLAM ROCK ∙ POP ROCK · Live music",
+   "category": "concerti",
+   "venue": "GrillMusic Moncalieri",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-07-18T21:00:00",
+   "end": null,
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Reg €10",
+   "image": "",
+   "fetched_at": "2026-07-12T14:32:00",
+   "id": "efe8beb8889c3e31"
+  },
+  {
+   "title": "Il Sabato del Cacao - Filler x Sin Filtro",
+   "source_id": "turinhub",
+   "url": "",
+   "description": "Cacao · HITS ∙ REGGAETON · Dj set",
+   "category": "club",
+   "venue": "Cacao",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-07-18T22:30:00",
+   "end": null,
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Reg €20 (W Free entro l'01:00)",
+   "image": "",
+   "fetched_at": "2026-07-12T14:32:00",
+   "id": "341ae7d7394957e1"
+  },
+  {
+   "title": "Klub Bitcherin",
+   "source_id": "magazzinosulpo",
+   "url": "https://www.magazzinosulpo.com/eventi/klub-bitcherin/",
+   "description": "18 Luglio ore 23:30",
+   "category": "concerti",
+   "venue": "Magazzino sul Po",
+   "address": "Murazzi del Po Armando Rossi 18/A, Torino",
+   "lat": null,
+   "lon": null,
+   "start": "2026-07-18T23:30:00",
+   "end": null,
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "15,00 €",
+   "image": "https://www.magazzinosulpo.com/wp-content/uploads/2026/06/post-3-800x999.jpg",
+   "fetched_at": "2026-07-12T14:32:05",
+   "id": "404767988901d4c4"
+  },
+  {
+   "title": "Klub Bitcherin Meet & Greet",
+   "source_id": "magazzinosulpo",
+   "url": "https://www.magazzinosulpo.com/eventi/klub-bitcherin-mg/",
+   "description": "18 Luglio ore 23.30",
+   "category": "concerti",
+   "venue": "Magazzino sul Po",
+   "address": "Murazzi del Po Armando Rossi 18/A, Torino",
+   "lat": null,
+   "lon": null,
+   "start": "2026-07-18T23:30:00",
+   "end": null,
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "20,00 €",
+   "image": "https://www.magazzinosulpo.com/wp-content/uploads/2026/06/MG-800x999.jpg",
+   "fetched_at": "2026-07-12T14:32:05",
+   "id": "dddff2c005e3f8e2"
+  },
+  {
+   "title": "ImbarKino - Il Cinema nel Prato: \"L’odore della notte\"",
+   "source_id": "imbarchino",
+   "url": "https://www.imbarchino.space/events/imbarkino-il-cinema-nel-prato-lodore-della-notte",
+   "description": "21:00 - 23:30 Secondo appuntamento della rassegna ImbarKino 2026. Estate italiana con L'odore della notte (1998) di Claudio Caligari. Roma, fine anni Settanta, una banda di rapinatori ai margini di un decennio che sta per sgretolarsi. Alle 21, sul pratone. In collaborazione con Reframe Fest.",
+   "category": "eventi",
+   "venue": "Imbarchino",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-07-19T21:00:00",
+   "end": "2026-07-19T23:30:00",
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "",
+   "image": "https://static1.squarespace.com/static/5e7e264530df6e33f115bd43/6818b0163d2e710d25581795/6a369d395e11890c0159a364/1781964464975/",
+   "fetched_at": "2026-07-12T14:32:01",
+   "id": "70b54a61d543af89"
   },
   {
    "title": "VOYAGE VOYAGE CLOSING-PARTY ✷ BUNKER",
@@ -2797,7 +3748,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://variantebunker.com/wp-content/uploads/2026/07/voyage-voyage-closing-party-bunker-torino-xceed-square-aa47.png-400x400.avif",
-   "fetched_at": "2026-07-12T11:52:32",
+   "fetched_at": "2026-07-12T14:31:58",
    "id": "ef9b12a1f846e680"
   },
   {
@@ -2816,8 +3767,65 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://gancio.cisti.org/media/ebd94f1830f20bba0f6912874a7cfca5.jpg",
-   "fetched_at": "2026-07-12T11:52:34",
+   "fetched_at": "2026-07-12T14:31:59",
    "id": "d8842d3c2ee80712"
+  },
+  {
+   "title": "JAZZ NOIR",
+   "source_id": "turinhub",
+   "url": "",
+   "description": "PiùSpazioQuattro · PROIEZIONE CINEMATOGRAFICA · Altro",
+   "category": "concerti",
+   "venue": "PiùSpazioQuattro",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-07-21T19:00:00",
+   "end": "2026-07-21T22:00:00",
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Free",
+   "image": "",
+   "fetched_at": "2026-07-12T14:32:00",
+   "id": "3ed75a3090b8de8d"
+  },
+  {
+   "title": "Open Mic",
+   "source_id": "turinhub",
+   "url": "",
+   "description": "Lombroso16 · STAND UP COMEDY · Altro",
+   "category": "teatro",
+   "venue": "Lombroso16",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-07-21T21:00:00",
+   "end": null,
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Free",
+   "image": "",
+   "fetched_at": "2026-07-12T14:32:00",
+   "id": "e8b2ee5682e52f61"
+  },
+  {
+   "title": "Totorro – release new album",
+   "source_id": "magazzinosulpo",
+   "url": "https://www.magazzinosulpo.com/eventi/totorro/",
+   "description": "21 Luglio ore 21.00",
+   "category": "concerti",
+   "venue": "Magazzino sul Po",
+   "address": "Murazzi del Po Armando Rossi 18/A, Torino",
+   "lat": null,
+   "lon": null,
+   "start": "2026-07-21T21:00:00",
+   "end": null,
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "13,00 €",
+   "image": "https://www.magazzinosulpo.com/wp-content/uploads/2025/07/21Luglio_post-800x999.jpg",
+   "fetched_at": "2026-07-12T14:32:05",
+   "id": "5a1392ba0b7584e0"
   },
   {
    "title": "Apertura estiva Porfido",
@@ -2835,8 +3843,65 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://gancio.cisti.org/media/80004fa917333c9563faa307f03e853c.jpg",
-   "fetched_at": "2026-07-12T11:52:34",
+   "fetched_at": "2026-07-12T14:31:59",
    "id": "a8688528a37d829b"
+  },
+  {
+   "title": "Sorry. Perdoname Madre por mi Karaoke X ISBE",
+   "source_id": "imbarchino",
+   "url": "https://www.imbarchino.space/events/sorry-perdoname-madre-por-mi-karaoke-x-isbe",
+   "description": "21:00 - 00:30 Il karaoke di Babsy torna in Sala Remi, questa volta con lə addettə ai lavori di ISBE 2026 — congresso internazionale di ecologia comportamentale. Nessun virtuosismo richiesto: solo guilty pleasure musicali e tanta, tanta autoironia. Aperto a tuttə.",
+   "category": "eventi",
+   "venue": "Imbarchino",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-07-22T21:00:00",
+   "end": "2026-07-23T00:30:00",
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "",
+   "image": "https://static1.squarespace.com/static/5e7e264530df6e33f115bd43/6818b0163d2e710d25581795/6a2eaa0527db2d18df7230a6/1781443200339/",
+   "fetched_at": "2026-07-12T14:32:01",
+   "id": "23b8a189f0a83593"
+  },
+  {
+   "title": "Chillin' in Aiuola Ginzburg con comedy Night",
+   "source_id": "turinhub",
+   "url": "",
+   "description": "Casa del quartiere di San Salvario · stand up comedy · Altro",
+   "category": "teatro",
+   "venue": "Casa del quartiere di San Salvario",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-07-23T19:00:00",
+   "end": "2026-07-23T23:00:00",
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Free",
+   "image": "",
+   "fetched_at": "2026-07-12T14:32:00",
+   "id": "0c07976d0e7d9de9"
+  },
+  {
+   "title": "Lombroso Jam Night",
+   "source_id": "turinhub",
+   "url": "",
+   "description": "Lombroso16 · JAM SESSION · Live music",
+   "category": "concerti",
+   "venue": "Lombroso16",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-07-23T20:00:00",
+   "end": null,
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Free",
+   "image": "",
+   "fetched_at": "2026-07-12T14:32:00",
+   "id": "a752c2c913a9aab2"
   },
   {
    "title": "No Datacenter Lucento! Proiezioni e confronto in quartiere",
@@ -2854,8 +3919,84 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://gancio.cisti.org/media/9a1705d06733b5899d5acbab7efc0841.jpg",
-   "fetched_at": "2026-07-12T11:52:34",
+   "fetched_at": "2026-07-12T14:31:59",
    "id": "3c562e5e4e482370"
+  },
+  {
+   "title": "VANILLA 55",
+   "source_id": "turinhub",
+   "url": "",
+   "description": "GrillMusic Moncalieri · ROCK · Live music",
+   "category": "concerti",
+   "venue": "GrillMusic Moncalieri",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-07-23T21:00:00",
+   "end": null,
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Reg €10",
+   "image": "",
+   "fetched_at": "2026-07-12T14:32:00",
+   "id": "a8df2d63ef3ec5d6"
+  },
+  {
+   "title": "Cinema all'aperto: dragon trainer",
+   "source_id": "turinhub",
+   "url": "",
+   "description": "Myfarini Campus Einaudi · proiezione cinematografica · Altro",
+   "category": "concerti",
+   "venue": "Myfarini Campus Einaudi",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-07-23T21:30:00",
+   "end": null,
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Free",
+   "image": "",
+   "fetched_at": "2026-07-12T14:32:00",
+   "id": "4d549a37e5ce7519"
+  },
+  {
+   "title": "SALGARI RECORDS PRESENTA DA IGUANA",
+   "source_id": "turinhub",
+   "url": "",
+   "description": "Capodoglio · INDIE DISCO ∙ DOWNTEMPO ∙ GLOBAL BEAT · Dj set",
+   "category": "club",
+   "venue": "Capodoglio",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-07-23T22:00:00",
+   "end": null,
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Cons. Obb.",
+   "image": "",
+   "fetched_at": "2026-07-12T14:32:00",
+   "id": "0cfc887356b1cd1a"
+  },
+  {
+   "title": "L’ultima notte",
+   "source_id": "magazzinosulpo",
+   "url": "https://www.magazzinosulpo.com/eventi/lultima-notte/",
+   "description": "24, 25 Luglio ore",
+   "category": "concerti",
+   "venue": "Magazzino sul Po",
+   "address": "Murazzi del Po Armando Rossi 18/A, Torino",
+   "lat": null,
+   "lon": null,
+   "start": "2026-07-24T00:00:00",
+   "end": "2026-07-25T00:00:00",
+   "all_day": true,
+   "date_confidence": "high",
+   "price": "Entrata libera",
+   "image": "https://www.magazzinosulpo.com/wp-content/uploads/2026/07/post-1-800x999.jpg",
+   "fetched_at": "2026-07-12T14:32:05",
+   "id": "e9a111d5542740d0"
   },
   {
    "title": "Hiroshige in mostra a Torino con “Paesaggi da sogno”, un racconto sul Giappone della Tōkaidō",
@@ -2873,27 +4014,84 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/06/hiroshige-mostra-torino-2026-2-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "64a30c506fb6b8b4"
   },
   {
-   "title": "FESTIVAL ALTA FELICITA'",
-   "source_id": "gancio_cisti",
-   "url": "https://gancio.cisti.org/event/festival-alta-felicita-3",
-   "description": "FESTIVAL ALTA FELICITA' Borgata 8 Dicembre, Venaus - Borgata 8 Dicembre, Venaus (TO) (venerdì, 24 luglio 12:00) RITORNA ANCHE QUEST'ANNO IL FESTIVAL ALTA FELICITA' Sta per tornare l’appuntamento che scalda le estati resistenti della Val di Susa. Vi aspettiamo dal 24 al 26 luglio a Venaus (TO) per quella che sarà un'edizione davvero speciale. Quest’anno infatti, sulla torta, c’è una doppia candelina; compiamo 10 anni! Per noi questi dieci anni non sono solo un numero tondo da festeggiare: sono la prova reale che è possibile costruire uno spazio libero fatto di cura reciproca e condivisione, un’",
-   "category": "centri_sociali",
-   "venue": "Borgata 8 Dicembre, Venaus",
-   "address": "Borgata 8 Dicembre, Venaus (TO)",
+   "title": "Mixer: Lovvbömbing + Bettino Taxi",
+   "source_id": "imbarchino",
+   "url": "https://www.imbarchino.space/events/mixer-lovvbombing-bettino-taxi",
+   "description": "18:30 - 21:30 Terzo appuntamento di Mixer, la rassegna di musica live sul pratone del Valentino. Questa volta il live è doppio: Lovvbömbing e Bettino Taxi. Art punk psichedelico con radici garage, i primi. Post-punk con necessità neotenico-psichedeliche, i secondi.",
+   "category": "concerti",
+   "venue": "Imbarchino",
+   "address": "",
    "lat": null,
    "lon": null,
-   "start": "2026-07-24T12:00:00",
-   "end": null,
+   "start": "2026-07-24T18:30:00",
+   "end": "2026-07-24T21:30:00",
    "all_day": false,
    "date_confidence": "high",
    "price": "",
-   "image": "https://gancio.cisti.org/media/b5ae8ef4fb428d651e48f3c7cf8e9102.jpg",
-   "fetched_at": "2026-07-12T11:52:34",
-   "id": "316cedc316b25d8c"
+   "image": "https://static1.squarespace.com/static/5e7e264530df6e33f115bd43/6818b0163d2e710d25581795/6a2eaa929b598b333a7e9e99/1781443409301/",
+   "fetched_at": "2026-07-12T14:32:01",
+   "id": "2116df40ca4a3e2d"
+  },
+  {
+   "title": "Spettacolo di Impro",
+   "source_id": "turinhub",
+   "url": "",
+   "description": "Lombroso16 · IMPROVVISAZIONE TEATRALE · Altro",
+   "category": "concerti",
+   "venue": "Lombroso16",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-07-24T21:00:00",
+   "end": null,
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Free",
+   "image": "",
+   "fetched_at": "2026-07-12T14:32:00",
+   "id": "1e5a02441bfc9709"
+  },
+  {
+   "title": "STARLIGHT Party Band",
+   "source_id": "turinhub",
+   "url": "",
+   "description": "GrillMusic Moncalieri · PARTY BAND ∙ DISCO ∙ DANCE ∙ POP · Live music",
+   "category": "concerti",
+   "venue": "GrillMusic Moncalieri",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-07-24T22:00:00",
+   "end": null,
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Reg €10",
+   "image": "",
+   "fetched_at": "2026-07-12T14:32:00",
+   "id": "572008087e463dc1"
+  },
+  {
+   "title": "Paloma's House",
+   "source_id": "turinhub",
+   "url": "",
+   "description": "One · DANCE ∙ HITS ∙ REGGAETON · Dj set",
+   "category": "club",
+   "venue": "One",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-07-24T23:30:00",
+   "end": null,
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Reg €15 (€20 dopo 00:00)",
+   "image": "",
+   "fetched_at": "2026-07-12T14:32:00",
+   "id": "eab6c2431cf08887"
   },
   {
    "title": "MUN CAMP 2026",
@@ -2911,8 +4109,46 @@
    "date_confidence": "high",
    "price": "da €45",
    "image": "https://images.xceed.me/events/banners/mun-camp-2026-torino-xceed-square-ad8e.jpg?w=1920&h=1080&ar=16:9&fm=auto",
-   "fetched_at": "2026-07-12T11:52:33",
+   "fetched_at": "2026-07-12T14:31:59",
    "id": "3d023d5f2097a8e8"
+  },
+  {
+   "title": "Respiri Preview",
+   "source_id": "imbarchino",
+   "url": "https://www.imbarchino.space/events/respiri-preview",
+   "description": "15:00 - 21:00 Il piccolo festival elettroalpino Respiri stringe alleanza con Imbarchino: un incontro tra Torino e la Valle Varaita, tra talk sull’abitare in montagna e musica che va dall’electro jazz alla downtempo. Live del trio GiGiGi e dj set a cura di Lucyfero.",
+   "category": "concerti",
+   "venue": "Imbarchino",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-07-25T15:00:00",
+   "end": "2026-07-25T21:00:00",
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "",
+   "image": "https://static1.squarespace.com/static/5e7e264530df6e33f115bd43/6818b0163d2e710d25581795/6a2eab655607280a2b02fa57/1781443761639/",
+   "fetched_at": "2026-07-12T14:32:01",
+   "id": "9631f2d0a0073f48"
+  },
+  {
+   "title": "Adrenalibri",
+   "source_id": "turinhub",
+   "url": "",
+   "description": "Lombroso16 · Club del libro",
+   "category": "club",
+   "venue": "Lombroso16",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-07-25T16:00:00",
+   "end": null,
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Free",
+   "image": "",
+   "fetched_at": "2026-07-12T14:32:00",
+   "id": "b4693a2510761450"
   },
   {
    "title": "Niccolò Fabi in concerto a Bra nel 2026 con il suo nuovo tour estivo",
@@ -2930,8 +4166,312 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/02/niccolo-fabi-bra-2026-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "133e4ffdca466157"
+  },
+  {
+   "title": "DARK MODE - Depeche Mode Tribute Band",
+   "source_id": "turinhub",
+   "url": "",
+   "description": "GrillMusic Moncalieri · TRIBUTO AI DEPECHE  MODE ∙ SYNTH POP ∙ NEW WAVE · Live music",
+   "category": "concerti",
+   "venue": "GrillMusic Moncalieri",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-07-25T21:30:00",
+   "end": "2026-07-25T22:30:00",
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Reg €10",
+   "image": "",
+   "fetched_at": "2026-07-12T14:32:00",
+   "id": "d0bee75ad82ae737"
+  },
+  {
+   "title": "DOGMA - U2 Tribute Band",
+   "source_id": "turinhub",
+   "url": "",
+   "description": "GrillMusic Moncalieri · TRIBUTO AGLI U2 ∙ POP ROCK ∙ ALTERNATIVE ROCK · Live music",
+   "category": "concerti",
+   "venue": "GrillMusic Moncalieri",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-07-25T22:30:00",
+   "end": null,
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Reg €10",
+   "image": "",
+   "fetched_at": "2026-07-12T14:32:00",
+   "id": "9c7865e01d0619fd"
+  },
+  {
+   "title": "Il Sabato del Cacao - Filler x Sin Filtro",
+   "source_id": "turinhub",
+   "url": "",
+   "description": "Cacao · HITS ∙ REGGAETON · Dj set",
+   "category": "club",
+   "venue": "Cacao",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-07-25T22:30:00",
+   "end": null,
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Reg €20 (W Free entro l'01:00)",
+   "image": "",
+   "fetched_at": "2026-07-12T14:32:00",
+   "id": "11ff56bcf9a9fc11"
+  },
+  {
+   "title": "IRA GREEN",
+   "source_id": "turinhub",
+   "url": "",
+   "description": "GrillMusic Moncalieri · ROCK ∙ METAL · Live music",
+   "category": "concerti",
+   "venue": "GrillMusic Moncalieri",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-07-26T21:00:00",
+   "end": null,
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Reg €10",
+   "image": "",
+   "fetched_at": "2026-07-12T14:32:00",
+   "id": "1fed501e5bb40bed"
+  },
+  {
+   "title": "ImbarKino - Il Cinema nel Prato: \"I viaggiatori della sera\"",
+   "source_id": "imbarchino",
+   "url": "https://www.imbarchino.space/events/imbarkino-il-cinema-nel-prato-i-viaggiatori-della-sera",
+   "description": "21:00 - 23:30 Terzo appuntamento della rassegna ImbarKino 2026. Estate italiana con I viaggiatori della sera (1979) di Ugo Tognazzi. In una società governata dall’efficienza, chi invecchia viene inevitabilmente esclusə. Un film sulle implicazioni umane del progresso tecnologico, narrato con malinconica distopia. Alle 21, sul pratone. In collaborazione con Erik Negro.",
+   "category": "eventi",
+   "venue": "Imbarchino",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-07-26T21:00:00",
+   "end": "2026-07-26T23:30:00",
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "",
+   "image": "https://static1.squarespace.com/static/5e7e264530df6e33f115bd43/6818b0163d2e710d25581795/6a369df8198d280e5a79bd72/1781964415437/",
+   "fetched_at": "2026-07-12T14:32:01",
+   "id": "57f2c86eeb879c97"
+  },
+  {
+   "title": "Ensemble Ricciotti presenta: Ricciotti per tutti",
+   "source_id": "imbarchino",
+   "url": "https://www.imbarchino.space/events/ensemble-ricciotti-presenta-ricciotti-per-tutti",
+   "description": "21:15 - 22:00 L'Ensemble Ricciotti torna in Italia dopo 16 anni: 43 giovani musicisti olandesi portano la musica sinfonica dal vivo sul pratone dell'Imbarchino. Classica, jazz, pop e musica non occidentale.",
+   "category": "eventi",
+   "venue": "Imbarchino",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-07-27T21:15:00",
+   "end": "2026-07-27T22:00:00",
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "",
+   "image": "https://static1.squarespace.com/static/5e7e264530df6e33f115bd43/6818b0163d2e710d25581795/6a453dc6a9de4c257d0968e3/1782922805048/",
+   "fetched_at": "2026-07-12T14:32:01",
+   "id": "b4b01226657a8a5d"
+  },
+  {
+   "title": "Open Mic",
+   "source_id": "turinhub",
+   "url": "",
+   "description": "Lombroso16 · STAND UP COMEDY · Altro",
+   "category": "teatro",
+   "venue": "Lombroso16",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-07-28T21:00:00",
+   "end": null,
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Free",
+   "image": "",
+   "fetched_at": "2026-07-12T14:32:00",
+   "id": "8ccbded102f79168"
+  },
+  {
+   "title": "SUCKER PUNCH",
+   "source_id": "turinhub",
+   "url": "",
+   "description": "GrillMusic Moncalieri · ROCK · Live music",
+   "category": "concerti",
+   "venue": "GrillMusic Moncalieri",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-07-30T21:00:00",
+   "end": null,
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Reg €10",
+   "image": "",
+   "fetched_at": "2026-07-12T14:32:00",
+   "id": "7a3010941c912cb7"
+  },
+  {
+   "title": "I corti in Aiuola Ginzburg a cura di Aiace",
+   "source_id": "turinhub",
+   "url": "",
+   "description": "Casa del quartiere di San Salvario · proiezione cinematografica · Altro",
+   "category": "concerti",
+   "venue": "Casa del quartiere di San Salvario",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-07-30T21:30:00",
+   "end": "2026-07-30T23:00:00",
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Free",
+   "image": "",
+   "fetched_at": "2026-07-12T14:32:00",
+   "id": "9f7feda8df77be4b"
+  },
+  {
+   "title": "Mixer: Electric Circus + Victoria Maria",
+   "source_id": "imbarchino",
+   "url": "https://www.imbarchino.space/events/mixer-electric-circus-victoria-maria",
+   "description": "18:30 - 21:30 Quarto appuntamento di Mixer, la rassegna di musica live sul pratone del Valentino. Sul palco, la band Electric Circus e la cantautrice italo-venezuelana Victoria Maria. Un incontro che mescola jazz, psichedelia, funk, elettronica e latin pop.",
+   "category": "concerti",
+   "venue": "Imbarchino",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-07-31T18:30:00",
+   "end": "2026-07-31T21:30:00",
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "",
+   "image": "https://static1.squarespace.com/static/5e7e264530df6e33f115bd43/6818b0163d2e710d25581795/6a2eacc1deab2c7ccdb7bb7f/1781444314301/",
+   "fetched_at": "2026-07-12T14:32:01",
+   "id": "f1edbe44e34283c6"
+  },
+  {
+   "title": "NO TAB - Saturday Rock Fever",
+   "source_id": "turinhub",
+   "url": "",
+   "description": "GrillMusic Moncalieri · ROCK ∙ DISCO DANCE · Live music",
+   "category": "concerti",
+   "venue": "GrillMusic Moncalieri",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-07-31T21:00:00",
+   "end": null,
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Reg €10",
+   "image": "",
+   "fetched_at": "2026-07-12T14:32:00",
+   "id": "2c341a539facdf34"
+  },
+  {
+   "title": "Paloma's House",
+   "source_id": "turinhub",
+   "url": "",
+   "description": "One · HITS ∙ REGGAETON · Dj set",
+   "category": "club",
+   "venue": "One",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-07-31T23:30:00",
+   "end": null,
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Reg €15 (€20 dopo 00:00)",
+   "image": "",
+   "fetched_at": "2026-07-12T14:32:00",
+   "id": "d0206f96fd2c0316"
+  },
+  {
+   "title": "Spettacolo di Stand Up Comedy",
+   "source_id": "turinhub",
+   "url": "",
+   "description": "Lombroso16 · STAND UP COMEDY · Altro",
+   "category": "teatro",
+   "venue": "Lombroso16",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-08-01T21:00:00",
+   "end": null,
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Free",
+   "image": "",
+   "fetched_at": "2026-07-12T14:32:00",
+   "id": "09bb78a16bd36024"
+  },
+  {
+   "title": "Il Sabato del Cacao - Filler x Sin Filtro",
+   "source_id": "turinhub",
+   "url": "",
+   "description": "Cacao · HITS ∙ REGGAETON · Dj set",
+   "category": "club",
+   "venue": "Cacao",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-08-01T22:30:00",
+   "end": null,
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Reg €20 (W Free entro l'01:00)",
+   "image": "",
+   "fetched_at": "2026-07-12T14:32:00",
+   "id": "6d9228553e232f5d"
+  },
+  {
+   "title": "Paloma's House",
+   "source_id": "turinhub",
+   "url": "",
+   "description": "One · DANCE ∙ HITS ∙ REGGAETON · Dj set",
+   "category": "club",
+   "venue": "One",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-08-01T23:30:00",
+   "end": null,
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Reg €15 (€20 dopo 00:00)",
+   "image": "",
+   "fetched_at": "2026-07-12T14:32:00",
+   "id": "bfbb6a67875d6b7d"
+  },
+  {
+   "title": "ImbarKino - Il Cinema nel prato: \"Non si sevizia un paperino\"",
+   "source_id": "imbarchino",
+   "url": "https://www.imbarchino.space/events/imbarkino-il-cinema-nel-prato-non-si-sevizia-un-paperino",
+   "description": "21:00 - 23:30 Quarto appuntamento della rassegna ImbarKino 2026. Estate italiana con Non si sevizia un paperino (1972) di Lucio Fulci. Superstizioni, violenza e ossessioni collettive in un piccolo paese del Sud. Un giallo che diventa ritratto oscuro della provincia italiana. Alle 21, sul pratone.",
+   "category": "eventi",
+   "venue": "Imbarchino",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-08-02T21:00:00",
+   "end": "2026-08-02T23:30:00",
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "",
+   "image": "https://static1.squarespace.com/static/5e7e264530df6e33f115bd43/6818b0163d2e710d25581795/6a369f4b639eca453a2c1179/1781964708737/",
+   "fetched_at": "2026-07-12T14:32:01",
+   "id": "fc50c36c2c527550"
   },
   {
    "title": "Cinema sotto le Stelle al Planetario di Torino: proiezioni serali nel fresco della collina",
@@ -2949,8 +4489,46 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/06/cinema-sotto-stelle-planetario-torino-2026-1-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "6d076f7b662c14a9"
+  },
+  {
+   "title": "Il Sabato del Cacao - Filler x Sin Filtro",
+   "source_id": "turinhub",
+   "url": "",
+   "description": "Cacao · HITS ∙ REGGAETON · Dj set",
+   "category": "club",
+   "venue": "Cacao",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-08-08T22:30:00",
+   "end": null,
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Reg €20 (W Free entro l'01:00)",
+   "image": "",
+   "fetched_at": "2026-07-12T14:32:00",
+   "id": "4827d82f12b0639c"
+  },
+  {
+   "title": "ImbarKino - Il Cinema nel prato: \"Sbatti il mostro in prima pagina\"",
+   "source_id": "imbarchino",
+   "url": "https://www.imbarchino.space/events/imbarkino-il-cinema-nel-prato-sbatti-il-mostro-in-prima-pagina",
+   "description": "21:00 - 23:30 Quinto appuntamento della rassegna ImbarKino 2026. Estate italiana con Sbatti il mostro in prima pagina (1972) di Marco Bellocchio. Un quotidiano usa un caso di cronaca per orientare l’opinione pubblica e ottenere consensi. Un film lucidissimo sulla manipolazione dei media, di impressionante attualità. Alle 21, sul pratone.",
+   "category": "eventi",
+   "venue": "Imbarchino",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-08-09T21:00:00",
+   "end": "2026-08-09T23:30:00",
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "",
+   "image": "https://static1.squarespace.com/static/5e7e264530df6e33f115bd43/6818b0163d2e710d25581795/6a369fb3e2fd70332e01fc42/1781964817923/",
+   "fetched_at": "2026-07-12T14:32:01",
+   "id": "c3512a4a435244d4"
   },
   {
    "title": "San Lorenzo al Planetario di Torino: magiche notti tra le stelle cadenti ed Eclissi solare",
@@ -2968,8 +4546,122 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/07/san-lorenzo-planetario-torino-2026-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "9006dbcc9fe600fb"
+  },
+  {
+   "title": "ImbarKino - Il Cinema nel prato: \"Lazzaro felice\"",
+   "source_id": "imbarchino",
+   "url": "https://www.imbarchino.space/events/imbarkino-il-cinema-nel-prato-lazzaro-felice",
+   "description": "21:00 - 23:30 Sesto e ultimo appuntamento della rassegna ImbarKino 2026. Estate italiana con Lazzaro Felice (2018) di Alice Rohrwacher. Un film sospeso tra fiaba contadina e racconto contemporaneo. Alle 21, sul pratone.",
+   "category": "eventi",
+   "venue": "Imbarchino",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-08-16T21:00:00",
+   "end": "2026-08-16T23:30:00",
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "",
+   "image": "https://static1.squarespace.com/static/5e7e264530df6e33f115bd43/6818b0163d2e710d25581795/6a36a02d5e11890c015a605a/1781964992313/",
+   "fetched_at": "2026-07-12T14:32:01",
+   "id": "37a9a3bedbcee2b4"
+  },
+  {
+   "title": "Paloma's House",
+   "source_id": "turinhub",
+   "url": "",
+   "description": "One · HITS ∙ REGGAETON · Dj set",
+   "category": "club",
+   "venue": "One",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-08-21T23:30:00",
+   "end": null,
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Reg €15 (€20 dopo 00:00)",
+   "image": "",
+   "fetched_at": "2026-07-12T14:32:00",
+   "id": "f3c6e2bd311af574"
+  },
+  {
+   "title": "Il Sabato del Cacao - Filler x Sin Filtro",
+   "source_id": "turinhub",
+   "url": "",
+   "description": "Cacao · HITS ∙ REGGAETON · Dj set",
+   "category": "club",
+   "venue": "Cacao",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-08-22T22:30:00",
+   "end": null,
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Reg €20 (W Free entro l'01:00)",
+   "image": "",
+   "fetched_at": "2026-07-12T14:32:00",
+   "id": "c2f1981fafed24d2"
+  },
+  {
+   "title": "Paloma's House",
+   "source_id": "turinhub",
+   "url": "",
+   "description": "One · DANCE ∙ HITS ∙ REGGAETON · Dj set",
+   "category": "club",
+   "venue": "One",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-08-28T23:30:00",
+   "end": null,
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Reg €15 (€20 dopo 00:00)",
+   "image": "",
+   "fetched_at": "2026-07-12T14:32:00",
+   "id": "2375a30f5c988938"
+  },
+  {
+   "title": "Il Sabato del Cacao - Filler x Sin Filtro",
+   "source_id": "turinhub",
+   "url": "",
+   "description": "Cacao · HITS ∙ REGGAETON · Dj set",
+   "category": "club",
+   "venue": "Cacao",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-08-29T22:30:00",
+   "end": null,
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Reg €20 (W Free entro l'01:00)",
+   "image": "",
+   "fetched_at": "2026-07-12T14:32:00",
+   "id": "0d530528f141ce78"
+  },
+  {
+   "title": "Supernatural",
+   "source_id": "turinhub",
+   "url": "",
+   "description": "One · TECH HOUSE ∙ HOUSE · Dj set",
+   "category": "club",
+   "venue": "One",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-08-30T15:00:00",
+   "end": "2026-08-30T23:00:00",
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Free (€15 dopo le 17:30)",
+   "image": "",
+   "fetched_at": "2026-07-12T14:32:00",
+   "id": "6ed0b3b1fb541e3d"
   },
   {
    "title": "Alberto Angela sarà all'Anima Festival per presentare il suo nuovo libro: data e biglietti",
@@ -2987,8 +4679,27 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/07/alberto-angela-anima-festival-2026-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "207ccbe79227ffa4"
+  },
+  {
+   "title": "Supernatural",
+   "source_id": "turinhub",
+   "url": "",
+   "description": "One · TECH HOUSE ∙ HOUSE · Dj set",
+   "category": "club",
+   "venue": "One",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-09-06T15:00:00",
+   "end": "2026-09-06T23:00:00",
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Free (€15 dopo le 17:30)",
+   "image": "",
+   "fetched_at": "2026-07-12T14:32:00",
+   "id": "e7a71dff6df8ca06"
   },
   {
    "title": "C.S.I. in concerto ad Alba nel 2026 con la reunion storica del tour “In viaggio”",
@@ -3006,8 +4717,46 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/01/csi-concerto-alba-2026-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "15f6153fdec5a2c6"
+  },
+  {
+   "title": "Open Mic",
+   "source_id": "turinhub",
+   "url": "",
+   "description": "Lombroso16 · STAND UP COMEDY · Altro",
+   "category": "teatro",
+   "venue": "Lombroso16",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-09-08T21:00:00",
+   "end": null,
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Free",
+   "image": "",
+   "fetched_at": "2026-07-12T14:32:00",
+   "id": "0b2be8380dc4d527"
+  },
+  {
+   "title": "Lombroso Jam Night",
+   "source_id": "turinhub",
+   "url": "",
+   "description": "Lombroso16 · JAM SESSION · Live music",
+   "category": "concerti",
+   "venue": "Lombroso16",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-09-10T20:00:00",
+   "end": null,
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Free",
+   "image": "",
+   "fetched_at": "2026-07-12T14:32:00",
+   "id": "631155e5999adf9e"
   },
   {
    "title": "Salone Auto Torino 2026: tre giorni di eventi gratuiti dedicati all’automobile",
@@ -3025,7 +4774,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2025/12/salone-auto-torino-2026-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "07637ec47ca06815"
   },
   {
@@ -3044,8 +4793,27 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/03/jukebox-notte-hit-2026-torino-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "fb6496e77c4c4b18"
+  },
+  {
+   "title": "Spettacolo di Impro",
+   "source_id": "turinhub",
+   "url": "",
+   "description": "Lombroso16 · IMPROVVISAZIONE TEATRALE · Altro",
+   "category": "concerti",
+   "venue": "Lombroso16",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-09-11T21:00:00",
+   "end": null,
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Free",
+   "image": "",
+   "fetched_at": "2026-07-12T14:32:00",
+   "id": "6e0f6ae75858a49c"
   },
   {
    "title": "OUTLOUD FESTIVAL",
@@ -3063,8 +4831,46 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://variantebunker.com/wp-content/uploads/2025/09/outloud-festival-torino-xceed-square-9edd.png-400x400.avif",
-   "fetched_at": "2026-07-12T11:52:32",
+   "fetched_at": "2026-07-12T14:31:58",
    "id": "176a96161092c158"
+  },
+  {
+   "title": "Supernatural",
+   "source_id": "turinhub",
+   "url": "",
+   "description": "One · TECH HOUSE ∙ HOUSE · Dj set",
+   "category": "club",
+   "venue": "One",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-09-13T15:00:00",
+   "end": "2026-09-13T23:00:00",
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Free (€15 dopo le 17:30)",
+   "image": "",
+   "fetched_at": "2026-07-12T14:32:00",
+   "id": "ec28bd7998d015c2"
+  },
+  {
+   "title": "CABARET BIZARRE 1920",
+   "source_id": "turinhub",
+   "url": "",
+   "description": "Rough Dive Bar · DJ SET · Dj set",
+   "category": "club",
+   "venue": "Rough Dive Bar",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-09-16T18:30:00",
+   "end": null,
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Free",
+   "image": "",
+   "fetched_at": "2026-07-12T14:32:00",
+   "id": "eda5c2d470fdb40d"
   },
   {
    "title": "DJ GRUFF + DJ QBERT + MAD PROFESSOR | O Tutto o Niente tour closing party",
@@ -3082,8 +4888,27 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://variantebunker.com/wp-content/uploads/2026/06/Screenshot-2026-06-16-alle-11.13.35-400x400.png",
-   "fetched_at": "2026-07-12T11:52:32",
+   "fetched_at": "2026-07-12T14:31:58",
    "id": "61bc221c7ce32b48"
+  },
+  {
+   "title": "Spettacolo di Stand Up Comedy",
+   "source_id": "turinhub",
+   "url": "",
+   "description": "Lombroso16 · STAND UP COMEDY · Altro",
+   "category": "teatro",
+   "venue": "Lombroso16",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-09-19T21:00:00",
+   "end": null,
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Free",
+   "image": "",
+   "fetched_at": "2026-07-12T14:32:00",
+   "id": "0d3da7ba7e84a50d"
   },
   {
    "title": "Gli Europei di Pallavolo Maschile 2026 arrivano a Torino",
@@ -3101,8 +4926,27 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2025/08/europei-pallavolo-maschile-2026-torino-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "5159e5f2d1c6e600"
+  },
+  {
+   "title": "ausk session",
+   "source_id": "turinhub",
+   "url": "",
+   "description": "ausk_wineandmore_ · HOUSE ∙ ELETTRONICA · Dj set",
+   "category": "club",
+   "venue": "ausk_wineandmore_",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-09-20T19:00:00",
+   "end": null,
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Free",
+   "image": "",
+   "fetched_at": "2026-07-12T14:32:00",
+   "id": "73ec36f52a082be2"
   },
   {
    "title": "Terra Madre Salone del Gusto 2026 a Torino: mercati, incontri e degustazioni in centro città",
@@ -3120,8 +4964,27 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/02/salone-gusto-2026-torino-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "ac4c5369a7c99d1d"
+  },
+  {
+   "title": "Amorə",
+   "source_id": "turinhub",
+   "url": "",
+   "description": "Bunker · TECHNO ∙ BOUNCE ∙ TRANCE · Dj set",
+   "category": "club",
+   "venue": "Bunker",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-09-26T23:00:00",
+   "end": null,
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Reg €10 (€15 dopo 00:00)",
+   "image": "",
+   "fetched_at": "2026-07-12T14:32:00",
+   "id": "6b46073614e58358"
   },
   {
    "title": "Turbopaolo torna a Torino nel 2026 con la sua nuova commedia “Il poliziotto del formaggio”",
@@ -3139,7 +5002,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/03/turbopaolo-torino-2026-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "ed8d70d67369d6cc"
   },
   {
@@ -3158,7 +5021,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/02/benji-fede-torino-2026-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "849c0462ad94d82a"
   },
   {
@@ -3177,7 +5040,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/05/festival-colline-torinesi-2026-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "085344fbb7027eef"
   },
   {
@@ -3196,7 +5059,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/02/fabio-de-luigi-torino-2026-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "63e37172c1d96793"
   },
   {
@@ -3215,7 +5078,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/02/nomadi-torino-ottobre-2026-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "6414ec133cd9704d"
   },
   {
@@ -3234,8 +5097,27 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2025/10/pooh-torino-2026-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "2d8e4aa659a99782"
+  },
+  {
+   "title": "Sara Hebe",
+   "source_id": "magazzinosulpo",
+   "url": "https://www.magazzinosulpo.com/eventi/sara-hebe/",
+   "description": "10 Ottobre ore 21.00",
+   "category": "concerti",
+   "venue": "Magazzino sul Po",
+   "address": "Murazzi del Po Armando Rossi 18/A, Torino",
+   "lat": null,
+   "lon": null,
+   "start": "2026-10-10T21:00:00",
+   "end": null,
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "15,00 €",
+   "image": "https://www.magazzinosulpo.com/wp-content/uploads/2026/06/SnapInsta.to_715198298_18595966039063017_9218255280313379636_n-800x800.jpg",
+   "fetched_at": "2026-07-12T14:32:05",
+   "id": "fbacb039349ec90c"
   },
   {
    "title": "Sal Da Vinci a Torino nel 2026: data e biglietti dei concerti",
@@ -3253,7 +5135,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2025/12/sal-da-vinci-torino-2026-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "cc76087bef08d818"
   },
   {
@@ -3272,7 +5154,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/04/les-farfadais-torino-2026-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "4fcdaff29c38f073"
   },
   {
@@ -3291,7 +5173,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2025/11/brunori-sas-torino-2026-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "59f57e0752173fef"
   },
   {
@@ -3310,8 +5192,27 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/03/sayf-torino-2026-concerto-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "83869aec5a0d8207"
+  },
+  {
+   "title": "ĠENN",
+   "source_id": "magazzinosulpo",
+   "url": "https://www.magazzinosulpo.com/eventi/genn/",
+   "description": "16 Ottobre ore 21:00",
+   "category": "concerti",
+   "venue": "Magazzino sul Po",
+   "address": "Murazzi del Po Armando Rossi 18/A, Torino",
+   "lat": null,
+   "lon": null,
+   "start": "2026-10-16T21:00:00",
+   "end": null,
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "8,00 €",
+   "image": "https://www.magazzinosulpo.com/wp-content/uploads/2026/06/GENN-Press-Photo-Credit-Paul-Grace-800x534.jpg",
+   "fetched_at": "2026-07-12T14:32:05",
+   "id": "d38f629c6bd8d2e5"
   },
   {
    "title": "Laura Pausini a Torino nel 2026: data e biglietti del doppio concerto all'Inalpi",
@@ -3329,7 +5230,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2025/09/laura-pausini-torino-2026-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "dec0b74c72e1e26a"
   },
   {
@@ -3348,7 +5249,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/02/mr-rain-torino-2026-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "8b6e7408181d8136"
   },
   {
@@ -3367,7 +5268,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/04/rota-dirige-rota-torino-2026-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "aa2b4533aa06fab0"
   },
   {
@@ -3386,7 +5287,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/01/hans-zimmer-torino-2026-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "a86a03c017d5dc60"
   },
   {
@@ -3405,7 +5306,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2025/12/artissima-2026-torino-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "abae3077754c6f9a"
   },
   {
@@ -3424,7 +5325,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2025/05/nino-frassica-torino-2026-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "3f659770e4663f6b"
   },
   {
@@ -3443,7 +5344,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/02/francesco-renga-torino-2026-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "c2572d3ad10e4d48"
   },
   {
@@ -3462,8 +5363,27 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2025/10/fabrizio-moro-torino-2026-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "16bd6712369de668"
+  },
+  {
+   "title": "Amorə",
+   "source_id": "turinhub",
+   "url": "",
+   "description": "Bunker · TECHNO ∙ BOUNCE ∙ TRANCE · Dj set",
+   "category": "club",
+   "venue": "Bunker",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-10-31T23:00:00",
+   "end": null,
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Reg €10 (€15 dopo 00:00)",
+   "image": "",
+   "fetched_at": "2026-07-12T14:32:00",
+   "id": "4571c2dfb50339a5"
   },
   {
    "title": "Eleazaro Rossi torna al Teatro Colosseo di Torino nel novembre 2026 con “Kamikaze”",
@@ -3481,7 +5401,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/02/eleazaro-rossi-torino-2026-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "1ebe45d0a8199b19"
   },
   {
@@ -3500,7 +5420,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/03/willie-peyote-torino-2026-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "4a57326d9f3c2b9a"
   },
   {
@@ -3519,7 +5439,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/06/jimmy-carr-torino-2026-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "eb0d9fe6df391f2c"
   },
   {
@@ -3538,7 +5458,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/03/gloria-musical-torino-2026-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "390615a352f16fd1"
   },
   {
@@ -3557,7 +5477,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/02/aiello-venaria-reale-2026-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "7a030b141a886909"
   },
   {
@@ -3576,7 +5496,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/06/italia-sudafrica-torino-2026-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "317001411cabc116"
   },
   {
@@ -3595,7 +5515,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/02/antonio-ornano-torino-2026-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "25ee0f0459616cde"
   },
   {
@@ -3614,7 +5534,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/05/coez-torino-2026-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "64d41254fff21f1f"
   },
   {
@@ -3633,7 +5553,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/02/malika-ayane-torino-2026-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "ab852fb7ac27acd0"
   },
   {
@@ -3652,7 +5572,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/02/steve-hackett-torino-2026-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "889970920899b8ec"
   },
   {
@@ -3671,7 +5591,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/01/umberto-galimberti-venaria-reale-2026-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "8583ebf8a2e061d8"
   },
   {
@@ -3690,7 +5610,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2025/10/francesca-michielin-torino-2026-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "01732d7cffb6299c"
   },
   {
@@ -3709,7 +5629,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2025/11/atp-finals-torino-2026-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "510ba915d0b821e8"
   },
   {
@@ -3728,7 +5648,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/06/pablo-trincia-torino-novembre-2026-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "688f33443c57b21a"
   },
   {
@@ -3747,7 +5667,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/01/torino-film-festival-2026-date-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "5cb9bbf52cad5d51"
   },
   {
@@ -3766,7 +5686,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2025/12/ghemon-nichelino-2026-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "b92e1233fcf52dac"
   },
   {
@@ -3785,8 +5705,27 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/03/arisa-torino-2026-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "f23799d337537e4a"
+  },
+  {
+   "title": "Amorə",
+   "source_id": "turinhub",
+   "url": "",
+   "description": "Bunker · TECHNO ∙ BOUNCE ∙ TRANCE · Dj set",
+   "category": "club",
+   "venue": "Bunker",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-11-28T23:00:00",
+   "end": null,
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Reg €10 (€15 dopo 00:00)",
+   "image": "",
+   "fetched_at": "2026-07-12T14:32:00",
+   "id": "270b31b1cc85a000"
   },
   {
    "title": "Roberto Bolle torna a Torino per un grande Gala di Danza al Teatro Regio",
@@ -3804,7 +5743,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/06/roberto-bolle-friends-torino-2026-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "737abfea2b1c87de"
   },
   {
@@ -3823,7 +5762,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/04/max-gazze-torino-2026-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "79768ed52155fd49"
   },
   {
@@ -3842,7 +5781,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2025/03/notre-dame-paris-torino-2026-2-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "a4523ae754d7487a"
   },
   {
@@ -3861,7 +5800,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/04/maccio-capatonda-torino-2026-spettacolo-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "66ea7347f07559cc"
   },
   {
@@ -3880,7 +5819,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/01/valentina-persia-torino-2026-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "620b4d659a890a7e"
   },
   {
@@ -3899,8 +5838,27 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2025/03/katia-follesa-torino-2026-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "81289d736b720b77"
+  },
+  {
+   "title": "BOILER ROOM - Generazione Y",
+   "source_id": "turinhub",
+   "url": "",
+   "description": "Off Topic · ESPERIENZA PERFORMATIVA IMMERSIVA · Live music",
+   "category": "concerti",
+   "venue": "Off Topic",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-12-12T21:00:00",
+   "end": null,
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Reg €11",
+   "image": "",
+   "fetched_at": "2026-07-12T14:32:00",
+   "id": "583aef2327eb4369"
   },
   {
    "title": "Anna a Torino con \"Million Dollar Babe Tour 2026\": data e biglietti del concerto",
@@ -3918,7 +5876,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/06/anna-torino-2026-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "5e36a670530b386d"
   },
   {
@@ -3937,7 +5895,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2025/09/il-volo-torino-2026-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "15ae05e88d74c942"
   },
   {
@@ -3956,7 +5914,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/01/alla-scoperta-morricone-torino-2026-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "01139b11f8160332"
   },
   {
@@ -3975,7 +5933,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/06/enrico-brignano-torino-2027-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "66828efcc8131969"
   },
   {
@@ -3994,7 +5952,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/02/massimo-ranieri-torino-2027-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "46784d9e4fe80f60"
   },
   {
@@ -4013,7 +5971,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/06/angelo-pintus-torino-2027-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "a8c13970a818e343"
   },
   {
@@ -4032,7 +5990,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/06/tedua-torino-2027-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "9300da36ae83ef55"
   },
   {
@@ -4051,7 +6009,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/07/sfera-ebbasta-torino-2027-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "f85f7dc2e5101edb"
   },
   {
@@ -4070,7 +6028,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/05/afterhours-torino-2027-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "1231488c5f916574"
   },
   {
@@ -4089,7 +6047,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/05/cioccolato-2027-torino-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "7c196ade86ad19d0"
   },
   {
@@ -4108,7 +6066,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/05/luca-ravenna-torino-2027-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "cf596cee1ba56b5f"
   },
   {
@@ -4127,7 +6085,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/06/gabry-ponte-torino-2027-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "9afd9c7610df59c2"
   },
   {
@@ -4146,7 +6104,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/06/max-pezzali-torino-2027-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "648b5fda3e2c5444"
   },
   {
@@ -4165,7 +6123,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/06/eros-ramazzotti-torino-2027-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "45c39690813ea234"
   },
   {
@@ -4184,7 +6142,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/03/pinguini-tattici-nucleari-torino-2027-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "b5891910ef1b75c8"
   },
   {
@@ -4203,7 +6161,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/06/olly-torino-2027-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "3dee5bb54fa0a1fe"
   },
   {
@@ -4222,7 +6180,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/03/achille-lauro-torino-2027-stadio-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "9b81f113fd1f6ec5"
   },
   {
@@ -4241,7 +6199,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/07/kappa-futurfestival-2027-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "de642e8247bfe7b4"
   },
   {
@@ -4260,7 +6218,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/07/ultimo-torino-2027-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "a7356810c0d3a711"
   },
   {
@@ -4279,7 +6237,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2025/12/claudio-baglioni-torino-2026-226x143.jpg",
-   "fetched_at": "2026-07-12T11:52:31",
+   "fetched_at": "2026-07-12T14:31:57",
    "id": "6232cec2d3bdb6ea"
   }
  ]

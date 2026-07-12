@@ -82,3 +82,34 @@ sources:
     url: 'https://offtopictorino.it/eventi/feed/rss'
     default_category: eventi
     enabled: true
+  # Aggrega decine di locali torinesi da un Google Sheet, servito dal loro
+  # Cloudflare Worker: è la stessa origine che usa turinhub.it (la pagina è
+  # statica e carica gli eventi via JS, quindi l'HTML non contiene nulla).
+  - id: turinhub
+    name: 'TurinHub'
+    type: turinhub
+    url: 'https://turinhub-proxy.kattabbo.workers.dev'
+    default_category: concerti
+    enabled: true
+  # Sito Squarespace: ?format=json restituisce la collection eventi già
+  # strutturata, con le date come timestamp.
+  - id: imbarchino
+    name: 'Imbarchino'
+    type: squarespace
+    url: 'https://www.imbarchino.space/events'
+    default_category: eventi
+    enabled: true
+  - id: bobobo
+    name: 'Bobobo — Eventi Torino'
+    type: html_bobobo
+    url: 'https://www.bobobo.it/torino/eventi'
+    default_category: eventi
+    enabled: true
+  # I biglietti sono prodotti WooCommerce, ma wp-json non pubblica la data
+  # dell'evento: sta nell'estratto in pagina, e senza anno.
+  - id: magazzinosulpo
+    name: 'Magazzino sul Po'
+    type: html_magazzinosulpo
+    url: 'https://www.magazzinosulpo.com/eventi/'
+    default_category: concerti
+    enabled: true

@@ -13,7 +13,8 @@ from rapidfuzz import fuzz
 
 from scraper.models import Event, norm_title
 from scraper.parsers import (
-    rss, html_guidatorino, html_bunker, html_torinotoday, xceed, gancio,
+    rss, html_guidatorino, html_bunker, html_torinotoday, html_bobobo,
+    html_magazzinosulpo, squarespace, turinhub, xceed, gancio,
 )
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -25,6 +26,10 @@ PARSERS = {
     "html_guidatorino": html_guidatorino.parse,
     "html_bunker": html_bunker.parse,
     "html_torinotoday": html_torinotoday.parse,
+    "html_bobobo": html_bobobo.parse,
+    "html_magazzinosulpo": html_magazzinosulpo.parse,
+    "squarespace": squarespace.parse,
+    "turinhub": turinhub.parse,
     "xceed": xceed.parse,
     "gancio": gancio.parse,
     # aggiungi qui i nuovi parser: "html_ogr": html_ogr.parse, ...
