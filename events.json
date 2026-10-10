@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-10T10:53:09",
+ "generated_at": "2026-10-10T16:01:32",
  "city": "Torino",
  "sources": [
   {
@@ -85,12 +85,107 @@
  ],
  "events": [
   {
+   "title": "Wine Night, a Torino una serata di degustazione alla scoperta delle migliori etichette",
+   "source_id": "torinotoday_eventi",
+   "url": "https://www.torinotoday.it/eventi/al-via-la-wine-night-a-torino.html",
+   "description": "Eataly Torino Lingotto",
+   "category": "club",
+   "venue": "Eataly Torino Lingotto",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2025-10-16T00:00:00",
+   "end": "2026-10-10T00:00:00",
+   "all_day": true,
+   "date_confidence": "high",
+   "price": "",
+   "image": "",
+   "fetched_at": "2026-10-10T16:01:18",
+   "id": "ca5e371b5327debb"
+  },
+  {
+   "title": "\"Onde\", note tra i Faraoni: il Museo Egizio di Torino si trasforma in palcoscenico con i concerti gratuiti",
+   "source_id": "torinotoday_eventi",
+   "url": "https://www.torinotoday.it/eventi/onde-concerti-gratis-museo-egizio-18-gennaio-13-dicembre.html",
+   "description": "Galleria dei Re - Museo Egizio",
+   "category": "musei",
+   "venue": "Galleria dei Re - Museo Egizio",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-01-18T00:00:00",
+   "end": "2026-12-13T00:00:00",
+   "all_day": true,
+   "date_confidence": "high",
+   "price": "",
+   "image": "",
+   "fetched_at": "2026-10-10T16:01:18",
+   "id": "d1a23ea66c2dc2c5"
+  },
+  {
+   "title": "Castello Segreto 2026: un anno di aperture straordinarie al Real Castello di Moncalieri",
+   "source_id": "torinotoday_eventi",
+   "url": "https://www.torinotoday.it/eventi/castello-segreto-moncalieri-25-gennaio-27-dicembre-2026.html",
+   "description": "Castello di Moncalieri",
+   "category": "eventi",
+   "venue": "Castello di Moncalieri",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-01-25T00:00:00",
+   "end": "2026-12-27T00:00:00",
+   "all_day": true,
+   "date_confidence": "high",
+   "price": "",
+   "image": "",
+   "fetched_at": "2026-10-10T16:01:18",
+   "id": "49347f61aed6d132"
+  },
+  {
+   "title": "Kirinyaga, la mostra fotografica al Polo CAM di Torino: un viaggio verso la Montagna Sacra del Kenya",
+   "source_id": "torinotoday_eventi",
+   "url": "https://www.torinotoday.it/eventi/kirinyaga-radici-sacre-identita-viva-cam-29-gennaio-29-novembre.html",
+   "description": "Polo Culturale Cam",
+   "category": "mostre",
+   "venue": "Polo Culturale Cam",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-01-29T00:00:00",
+   "end": "2026-11-29T00:00:00",
+   "all_day": true,
+   "date_confidence": "high",
+   "price": "",
+   "image": "",
+   "fetched_at": "2026-10-10T16:01:18",
+   "id": "c8e6001cc93ec2b2"
+  },
+  {
+   "title": "A un'ora e mezza da Torino: scopri CowboyLand con i biglietti scontati",
+   "source_id": "torinotoday_eventi",
+   "url": "https://www.torinotoday.it/eventi/cowboyland-parco-western-pavia-biglietti-scontati.html",
+   "description": "Cowboyland, Via Tullio Morato 18, 27058 Voghera (PV)",
+   "category": "eventi",
+   "venue": "Cowboyland, Via Tullio Morato 18, 27058 Voghera (PV)",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-03-28T00:00:00",
+   "end": "2026-11-01T00:00:00",
+   "all_day": true,
+   "date_confidence": "high",
+   "price": "",
+   "image": "",
+   "fetched_at": "2026-10-10T16:01:18",
+   "id": "5ab64cae1f44fbaf"
+  },
+  {
    "title": "I \"garagisti\" contro il Drake: al MAUTO la grande sfida tra Ferrari e l'Inghilterra, la mostra fino all'11 ottobre",
-   "source_id": "bobobo",
-   "url": "https://www.bobobo.it/torino/eventi/i--garagisti--contro-il-drake--al-mauto-la-grande-sfida-tra-ferrari-e-l-inghilterra--la-mostra-fino-all-11-ottobre-e7297196",
+   "source_id": "torinotoday_eventi",
+   "url": "https://www.torinotoday.it/eventi/mostre/mauto-torino-mostra-i-nemici-del-drake-enzo-ferrari-scuderie-inglesi-aprile-ottobre-2026.html",
    "description": "Torino MAUTO - Museo Nazionale dellu2019Automobile",
    "category": "mostre",
-   "venue": "Torino MAUTO - Museo Nazionale dellu2019Automobile",
+   "venue": "MAUTO - Museo Nazionale dell’Automobile",
    "address": "",
    "lat": null,
    "lon": null,
@@ -100,7 +195,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:03",
+   "fetched_at": "2026-10-10T16:01:18",
    "id": "39da77091bc5eb3b"
   },
   {
@@ -119,7 +214,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/04/nemici-drake-mostra-mauto-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "587204f7df8d37d3"
   },
   {
@@ -138,8 +233,84 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/04/gusto-della-storia-mostra-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "b308ef58cf247ebe"
+  },
+  {
+   "title": "\"Il gusto della storia\": Torino e il cibo in mostra all'Archivio Storico della Città (ingresso libero)",
+   "source_id": "torinotoday_eventi",
+   "url": "https://www.torinotoday.it/eventi/mostre/mostra-gusto-della-storia-archivio-storico-torino-cibo.html",
+   "description": "Archivio Storico della Città di Torino",
+   "category": "mostre",
+   "venue": "Archivio Storico della Città di Torino",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-04-22T00:00:00",
+   "end": "2026-12-31T00:00:00",
+   "all_day": true,
+   "date_confidence": "high",
+   "price": "",
+   "image": "",
+   "fetched_at": "2026-10-10T16:01:18",
+   "id": "d9e3ab7bb50ddeee"
+  },
+  {
+   "title": "\"Il futuro prende forma\", il nuovo piano regolatore di Torino: la mostra all'Urban Lab",
+   "source_id": "torinotoday_eventi",
+   "url": "https://www.torinotoday.it/eventi/mostre/piano-regolatore-di-torino-mostra-all-urban-lab.html",
+   "description": "Urban Lab",
+   "category": "mostre",
+   "venue": "Urban Lab",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-05-08T00:00:00",
+   "end": "2026-12-23T00:00:00",
+   "all_day": true,
+   "date_confidence": "high",
+   "price": "",
+   "image": "",
+   "fetched_at": "2026-10-10T16:01:18",
+   "id": "5b2dc06c34fc296f"
+  },
+  {
+   "title": "Al PAV una retrospettiva su Claudio Costa: tra antropologia, rito e memoria biologica",
+   "source_id": "torinotoday_eventi",
+   "url": "https://www.torinotoday.it/eventi/mostre/mostra-claudio-costa-metamagico-pav-torino-2026.html",
+   "description": "PAV - Parco Arte Vivente",
+   "category": "eventi",
+   "venue": "PAV - Parco Arte Vivente",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-05-16T00:00:00",
+   "end": "2026-10-11T00:00:00",
+   "all_day": true,
+   "date_confidence": "high",
+   "price": "",
+   "image": "",
+   "fetched_at": "2026-10-10T16:01:18",
+   "id": "9610b072455931c0"
+  },
+  {
+   "title": "Dieci anni di arte a Pavarolo: una mostra diffusa celebra il decennale dello Studio Museo Casorati",
+   "source_id": "torinotoday_eventi",
+   "url": "https://www.torinotoday.it/eventi/mostre/mostra-via-lattea-studio-museo-casorati-pavarolo-2026.html",
+   "description": "Studio Museo Felice Casorati",
+   "category": "mostre",
+   "venue": "Studio Museo Felice Casorati",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-05-17T00:00:00",
+   "end": "2026-11-08T00:00:00",
+   "all_day": true,
+   "date_confidence": "high",
+   "price": "",
+   "image": "",
+   "fetched_at": "2026-10-10T16:01:18",
+   "id": "945e9382efb537ab"
   },
   {
    "title": "\"Un altro Novecento\" alla GAM di Torino: da Balla a Warhol, l'arte segreta delle opere su carta",
@@ -157,7 +328,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/05/altro-novecento-mostra-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "066aac68a5656943"
   },
   {
@@ -176,7 +347,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/06/estate-reale-2026-torino-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "b692fd918198c13b"
   },
   {
@@ -195,7 +366,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/06/marc-chagall-aosta-2026-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "f9f0b66c63c518cb"
   },
   {
@@ -214,7 +385,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/06/hiroshige-mostra-torino-2026-2-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "64a30c506fb6b8b4"
   },
   {
@@ -233,7 +404,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/01/onde-2026-concerti-ingressi-gratuiti-museo-egizio-torino-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "59d8be0edf79f0b9"
   },
   {
@@ -252,7 +423,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/08/torinodanza-festival-2026-torino-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "521003c10443a764"
   },
   {
@@ -271,7 +442,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/08/fan-ho-mostra-torino-2026-2027-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "abc5690a7bb9528c"
   },
   {
@@ -290,7 +461,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/09/star-trek-60-mostra-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "bc4a3da5bb530f70"
   },
   {
@@ -309,8 +480,46 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/08/gillo-pontecorvo-mostra-torino-2026-2027-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "f90f6338e785a1d9"
+  },
+  {
+   "title": "La casa delle zucche di \"tutto zucche in festa mostra mercato\" ad Andezeno",
+   "source_id": "torinotoday_eventi",
+   "url": "https://www.torinotoday.it/eventi/la-casa-delle-zucche-di-tutto-zucche-in-festa-mostramercato-ad-andezeno.html",
+   "description": "CASA DELLE ZUCCHE",
+   "category": "mostre",
+   "venue": "CASA DELLE ZUCCHE",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-09-18T00:00:00",
+   "end": "2026-12-19T00:00:00",
+   "all_day": true,
+   "date_confidence": "high",
+   "price": "",
+   "image": "",
+   "fetched_at": "2026-10-10T16:01:18",
+   "id": "b4bfe155c04a2628"
+  },
+  {
+   "title": "World Press Photo Exhibition 2026: il grande fotogiornalismo globale torna all'Accademia Albertina di Torino",
+   "source_id": "torinotoday_eventi",
+   "url": "https://www.torinotoday.it/eventi/mostre/world-press-photo-2026-torino-accademia-albertina-mostra-biglietti-orari.html",
+   "description": "Accademia Albertina delle Belle Arti",
+   "category": "eventi",
+   "venue": "Accademia Albertina delle Belle Arti",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-09-18T00:00:00",
+   "end": "2026-12-23T00:00:00",
+   "all_day": true,
+   "date_confidence": "high",
+   "price": "",
+   "image": "",
+   "fetched_at": "2026-10-10T16:01:18",
+   "id": "1718210a2a107a01"
   },
   {
    "title": "World Press Photo 2026: torna a Torino la più importante mostra di fotogiornalismo al mondo",
@@ -328,16 +537,16 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/09/world-press-photo-2026-torino-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "796512f75b755280"
   },
   {
    "title": "Torna la grande comicità al centro commerciale Piazza Paradiso di Collegno: sei spettacoli gratuiti, il calendario con Paolo Ruffini e \"Scintilla\"",
-   "source_id": "bobobo",
-   "url": "https://www.bobobo.it/torino/eventi/torna-la-grande-comicit---al-centro-commerciale-piazza-paradiso-di-collegno--sei-spettacoli-gratuiti--il-calendario-con-paolo-ruffini-e--scintilla-e7340328",
+   "source_id": "torinotoday_eventi",
+   "url": "https://www.torinotoday.it/eventi/weekend/centro-commerciale-piazza-paradiso-collegno-cabaret-comici-ruffini-fubelli-20-settembre-25-ottobre.html",
    "description": "Torino Centro Commerciale Piazza Paradiso",
    "category": "eventi",
-   "venue": "Torino Centro Commerciale Piazza Paradiso",
+   "venue": "Centro Commerciale Piazza Paradiso",
    "address": "",
    "lat": null,
    "lon": null,
@@ -347,7 +556,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:03",
+   "fetched_at": "2026-10-10T16:01:18",
    "id": "4ebaa988fafc1ae2"
   },
   {
@@ -366,7 +575,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/09/piazza-paradiso-cabaret-collegno-2026-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "97772100098c25f6"
   },
   {
@@ -385,7 +594,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/08/caveau-mostra-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "d8c99ee45e8d2086"
   },
   {
@@ -404,7 +613,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/09/visite-teatro-regio-torino-settembre-2026-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "7c90882f33694553"
   },
   {
@@ -423,16 +632,16 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/09/campo-zucche-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "bcb196572a37c774"
   },
   {
    "title": "A Favria torna il Villaggio della zucca: quarta edizione con 70.000 zucche e ancora più divertimento per le famiglie",
-   "source_id": "bobobo",
-   "url": "https://www.bobobo.it/torino/eventi/a-favria-torna-il-villaggio-della-zucca--quarta-edizione-con-70-000-zucche-e-ancora-pi---divertimento-per-le-famiglie-e7340623",
+   "source_id": "torinotoday_eventi",
+   "url": "https://www.torinotoday.it/eventi/villaggio-zucca-favria-2026-divertimento-famiglie.html",
    "description": "Torino Azienda Agricola La Borgheisa",
    "category": "eventi",
-   "venue": "Torino Azienda Agricola La Borgheisa",
+   "venue": "Azienda Agricola La Borgheisa",
    "address": "",
    "lat": null,
    "lon": null,
@@ -442,16 +651,16 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:03",
+   "fetched_at": "2026-10-10T16:01:18",
    "id": "bc071301144fa6e0"
   },
   {
    "title": "Fungo in festa, 45esima edizione della fiera nazionale del porcino di Giaveno",
-   "source_id": "bobobo",
-   "url": "https://www.bobobo.it/torino/eventi/fungo-in-festa--45esima-edizione-della-fiera-nazionale-del-porcino-di-giaveno-e7341591",
+   "source_id": "torinotoday_eventi",
+   "url": "https://www.torinotoday.it/eventi/fiere/festa-fungo-porcino-giaveno-2026-fiera-nazionale.html",
    "description": "Torino",
    "category": "eventi",
-   "venue": "Torino",
+   "venue": "",
    "address": "",
    "lat": null,
    "lon": null,
@@ -461,7 +670,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:03",
+   "fetched_at": "2026-10-10T16:01:18",
    "id": "31e53bf5bd6f4a7c"
   },
   {
@@ -480,7 +689,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:03",
+   "fetched_at": "2026-10-10T16:01:30",
    "id": "e1eadffe8107e418"
   },
   {
@@ -499,16 +708,16 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/09/fungo-festa-giaveno-2026-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "1fabfe8ed8765f53"
   },
   {
-   "title": "'Divieto di oppressione': scritte, graffiti e manifesti delle lotte di Torino in mostra all'atelier di Stamp?",
-   "source_id": "bobobo",
-   "url": "https://www.bobobo.it/torino/eventi/divieto-di-oppressione---scritte--graffiti-e-manifesti-delle-lotte-di-torino-in-mostra-all-atelier-di-stamp-e7342838",
+   "title": "'Divieto di oppressione': scritte, graffiti e manifesti delle lotte di Torino in mostra all'atelier di Stampé",
+   "source_id": "torinotoday_eventi",
+   "url": "https://www.torinotoday.it/eventi/mostre/divieto-oppressione-galleria-stampe-mostra-lotte.html",
    "description": "Torino Galleria in Circolo",
    "category": "mostre",
-   "venue": "Torino Galleria in Circolo",
+   "venue": "Galleria in Circolo",
    "address": "",
    "lat": null,
    "lon": null,
@@ -518,8 +727,8 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:03",
-   "id": "05089a5d710223d0"
+   "fetched_at": "2026-10-10T16:01:18",
+   "id": "8453795fb98686cd"
   },
   {
    "title": "Atelier dei moderni: Picasso, Matisse, Braque e Bacon in mostra alla Reggia di Venaria",
@@ -537,7 +746,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/08/atelier-moderni-mostra-venaria-2026-2027-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "5a4c4ebae9e1a8f8"
   },
   {
@@ -556,7 +765,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/09/castello-valentino-torino-visite-gratuite-ottobre-2026-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "2e8ff0a663657b2d"
   },
   {
@@ -575,7 +784,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/10/cento-anni-di-connessioni-mostra-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "a02d28be196fdd39"
   },
   {
@@ -594,7 +803,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/09/suoni-della-piazza-2026-torino-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "89ecefbfb9b1593c"
   },
   {
@@ -613,7 +822,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/09/palazzina-caccia-stupinigi-spazi-segreti-ottobre-2026-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "19ee328b012e8a05"
   },
   {
@@ -632,7 +841,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/10/luna-park-torino-autunno-2026-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "2862c48e3d7b862e"
   },
   {
@@ -651,7 +860,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/09/festival-innovazione-scienza-settimo-torinese-2026-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "353a20b367a8c86f"
   },
   {
@@ -670,7 +879,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/09/lu-santo-jullare-francesco-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "ab76d9cc1d162684"
   },
   {
@@ -689,7 +898,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:03",
+   "fetched_at": "2026-10-10T16:01:30",
    "id": "0f9b79464f499eac"
   },
   {
@@ -708,7 +917,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:03",
+   "fetched_at": "2026-10-10T16:01:30",
    "id": "03efbf5bb34387c6"
   },
   {
@@ -727,7 +936,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/05/festival-colline-torinesi-2026-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "085344fbb7027eef"
   },
   {
@@ -746,7 +955,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:03",
+   "fetched_at": "2026-10-10T16:01:30",
    "id": "02f78d150a8df52d"
   },
   {
@@ -765,7 +974,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:03",
+   "fetched_at": "2026-10-10T16:01:30",
    "id": "470a5faeaf3ced63"
   },
   {
@@ -784,16 +993,16 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/10/jessica-lange-mostra-torino-2026-2027-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "aded42befe061bca"
   },
   {
    "title": "Addio a Expocasa, nasce Casàlia: all'Oval il nuovo salone lifestyle dedicato all'abitare",
-   "source_id": "bobobo",
-   "url": "https://www.bobobo.it/torino/eventi/addio-a-expocasa--nasce-cas--lia--all-oval-il-nuovo-salone-lifestyle-dedicato-all-abitare-e7343625",
+   "source_id": "torinotoday_eventi",
+   "url": "https://www.torinotoday.it/eventi/fiere/casalia-salone-abitare-oval-lingotto-torino-ottobre-2026.html",
    "description": "Torino Oval Lingotto Fiere",
    "category": "eventi",
-   "venue": "Torino Oval Lingotto Fiere",
+   "venue": "Oval Lingotto Fiere",
    "address": "",
    "lat": null,
    "lon": null,
@@ -803,7 +1012,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:03",
+   "fetched_at": "2026-10-10T16:01:18",
    "id": "aa997159030b2331"
   },
   {
@@ -822,7 +1031,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:03",
+   "fetched_at": "2026-10-10T16:01:30",
    "id": "6ec20875e9119719"
   },
   {
@@ -841,16 +1050,16 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:03",
+   "fetched_at": "2026-10-10T16:01:30",
    "id": "cdcd953f1163e5a6"
   },
   {
    "title": "Il potere del rito al Torino crime festival: undicesima edizione con Jack Cambria, Carlo Lucarelli, Matteo Rampin e Adriano Favole",
-   "source_id": "bobobo",
-   "url": "https://www.bobobo.it/torino/eventi/il-potere-del-rito-al-torino-crime-festival--undicesima-edizione-con-jack-cambria--carlo-lucarelli--matteo-rampin-e-adriano-favole-e7343626",
+   "source_id": "torinotoday_eventi",
+   "url": "https://www.torinotoday.it/eventi/crime-festival-2026-potere-rito-Carlo-Lucarelli.html",
    "description": "Torino",
    "category": "eventi",
-   "venue": "Torino",
+   "venue": "",
    "address": "",
    "lat": null,
    "lon": null,
@@ -860,7 +1069,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:03",
+   "fetched_at": "2026-10-10T16:01:18",
    "id": "5f0d68f26049a76e"
   },
   {
@@ -879,7 +1088,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:03",
+   "fetched_at": "2026-10-10T16:01:30",
    "id": "51feb278f005b8b2"
   },
   {
@@ -898,7 +1107,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/09/casalia-torino-2026-1-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "765431c07219d39c"
   },
   {
@@ -917,7 +1126,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/09/torino-crime-festival-2026-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "33dcc1f5a4e7cb5f"
   },
   {
@@ -936,16 +1145,16 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/09/giornate-legalita-torino-2026-2-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "8870481bf99578b4"
   },
   {
    "title": "A Condove è in arrivo la 36esima Fiera della toma, eccellenza della Val Susa",
-   "source_id": "bobobo",
-   "url": "https://www.bobobo.it/torino/eventi/a-condove----in-arrivo-la-36esima-fiera-della-toma--eccellenza-della-val-susa-e7345115",
+   "source_id": "torinotoday_eventi",
+   "url": "https://www.torinotoday.it/eventi/fiere/toma-condove-2026-formaggio-val-susa.html",
    "description": "Torino",
    "category": "eventi",
-   "venue": "Torino",
+   "venue": "",
    "address": "",
    "lat": null,
    "lon": null,
@@ -955,16 +1164,16 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:03",
+   "fetched_at": "2026-10-10T16:01:18",
    "id": "d069544f7829447b"
   },
   {
-   "title": "Carignano, 33esima edizione della Fiera regionale del Ciapinabò",
-   "source_id": "bobobo",
-   "url": "https://www.bobobo.it/torino/eventi/carignano--33esima-edizione-della-fiera-regionale-del-ciapinab-e7345114",
-   "description": "Torino Centro città",
+   "title": "Anche a Prarostino si celebra la festa dell'uva: musica, graffiti, mostre e carri, poi vino al pranzo con gli Alpini",
+   "source_id": "torinotoday_eventi",
+   "url": "https://www.torinotoday.it/eventi/prarostino-festa-uva-2026-vino-pranzo-alpini.html",
+   "description": "",
    "category": "eventi",
-   "venue": "Torino Centro città",
+   "venue": "",
    "address": "",
    "lat": null,
    "lon": null,
@@ -974,16 +1183,35 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:03",
+   "fetched_at": "2026-10-10T16:01:18",
+   "id": "a8c602b439bc49bb"
+  },
+  {
+   "title": "Carignano, 33esima edizione della Fiera regionale del Ciapinabò",
+   "source_id": "torinotoday_eventi",
+   "url": "https://www.torinotoday.it/eventi/fiera-regionale-ciapinabo-2026-carignano.html",
+   "description": "Torino Centro città",
+   "category": "eventi",
+   "venue": "Centro città",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-10-09T00:00:00",
+   "end": "2026-10-11T00:00:00",
+   "all_day": true,
+   "date_confidence": "high",
+   "price": "",
+   "image": "",
+   "fetched_at": "2026-10-10T16:01:18",
    "id": "58df77c46ca606ed"
   },
   {
    "title": "Floreal, la festa delle piante alla Palazzina di Caccia di Stupinigi",
-   "source_id": "bobobo",
-   "url": "https://www.bobobo.it/torino/eventi/floreal--la-festa-delle-piante-alla-palazzina-di-caccia-di-stupinigi-e7344346",
+   "source_id": "torinotoday_eventi",
+   "url": "https://www.torinotoday.it/eventi/fiere/floreal-festa-piante-2026-palazzina-caccia-stupinigi.html",
    "description": "Torino Palazzina di Caccia di Stupinigi",
    "category": "eventi",
-   "venue": "Torino Palazzina di Caccia di Stupinigi",
+   "venue": "Palazzina di Caccia di Stupinigi",
    "address": "",
    "lat": null,
    "lon": null,
@@ -993,7 +1221,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:03",
+   "fetched_at": "2026-10-10T16:01:18",
    "id": "56b7dba56ba22953"
   },
   {
@@ -1012,7 +1240,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/09/floreal-stupinigi-2026-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "1cd44eefd6c2e113"
   },
   {
@@ -1031,7 +1259,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/10/ciapinabo-carignano-2026-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "eae830279c32b17a"
   },
   {
@@ -1050,7 +1278,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/10/pizza-festival-bra-2026-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "a965aca15a8fab24"
   },
   {
@@ -1069,7 +1297,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/09/just-for-joy-torino-2026-226x143.webp",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "7f371ff87bc82e2e"
   },
   {
@@ -1088,7 +1316,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/10/oktoberfest-torino-2026-edit-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "62abcb480cb716d4"
   },
   {
@@ -1107,7 +1335,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/09/agave-spirits-stupinigi-2026-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "cd34d178c5076639"
   },
   {
@@ -1126,7 +1354,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/10/notte-in-nizza-monferrato-2026-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "c5485893caca9dd0"
   },
   {
@@ -1145,35 +1373,16 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/10/pro-loco-days-moncalieri-2026-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "a6e262b3b5a117f7"
   },
   {
-   "title": "Bitcrusher",
-   "source_id": "magazzinosulpo",
-   "url": "https://www.magazzinosulpo.com/eventi/bitcrusher/",
-   "description": "9 Ottobre ore 23.30",
-   "category": "concerti",
-   "venue": "Magazzino sul Po",
-   "address": "Murazzi del Po Armando Rossi 18/A, Torino",
-   "lat": null,
-   "lon": null,
-   "start": "2026-10-09T23:30:00",
-   "end": null,
-   "all_day": false,
-   "date_confidence": "high",
-   "price": "5,00 €",
-   "image": "https://www.magazzinosulpo.com/wp-content/uploads/2026/09/STATICA-800x999.png",
-   "fetched_at": "2026-10-10T10:53:09",
-   "id": "f4638f3af6e5a31e"
-  },
-  {
    "title": "A Torino la cultura è una passeggiata: 'Portici di carta', una libreria lunga due chilometri nel centro della città",
-   "source_id": "bobobo",
-   "url": "https://www.bobobo.it/torino/eventi/a-torino-la-cultura----una-passeggiata---portici-di-carta---una-libreria-lunga-due-chilometri-nel-centro-della-citt-e7344342",
-   "description": "Torino Centro città",
+   "source_id": "torinotoday_eventi",
+   "url": "https://www.torinotoday.it/eventi/cultura/portici-carta-2026-libreria-citta-cultura.html",
+   "description": "Manifestazioni · Centro città",
    "category": "eventi",
-   "venue": "Torino Centro città",
+   "venue": "Centro città",
    "address": "",
    "lat": null,
    "lon": null,
@@ -1182,8 +1391,8 @@
    "all_day": true,
    "date_confidence": "high",
    "price": "",
-   "image": "",
-   "fetched_at": "2026-10-10T10:53:03",
+   "image": "https://citynews-torinotoday.stgy.ovh/~media/horizontal-mid/17033307452706/portici-di-carta-foto-da-citta-di-torino-2.jpg",
+   "fetched_at": "2026-10-10T16:01:18",
    "id": "40cb4233ed32eb8a"
   },
   {
@@ -1202,7 +1411,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:03",
+   "fetched_at": "2026-10-10T16:01:30",
    "id": "7c35ff27a0778b41"
   },
   {
@@ -1221,16 +1430,16 @@
    "date_confidence": "low",
    "price": "",
    "image": "",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:19",
    "id": "6b84d35671c4f7f6"
   },
   {
    "title": "Chieri si veste di fiori: debutta 'Trame di fiori', evento Ascom per la valorizzazione dei centri storici",
-   "source_id": "bobobo",
-   "url": "https://www.bobobo.it/torino/eventi/chieri-si-veste-di-fiori--debutta--trame-di-fiori---evento-ascom-per-la-valorizzazione-dei-centri-storici-e7344343",
-   "description": "Torino",
+   "source_id": "torinotoday_eventi",
+   "url": "https://www.torinotoday.it/eventi/trame-fiori-chieri-ascom-centri-storici.html",
+   "description": "Manifestazioni",
    "category": "eventi",
-   "venue": "Torino",
+   "venue": "",
    "address": "",
    "lat": null,
    "lon": null,
@@ -1239,8 +1448,8 @@
    "all_day": true,
    "date_confidence": "high",
    "price": "",
-   "image": "",
-   "fetched_at": "2026-10-10T10:53:03",
+   "image": "https://citynews-torinotoday.stgy.ovh/~media/horizontal-mid/3386415788681/presentazione-trame-di-fiori.jpg",
+   "fetched_at": "2026-10-10T16:01:18",
    "id": "ab15838888772698"
   },
   {
@@ -1259,7 +1468,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/10/derby-del-trotto-vinovo-2026-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "1ce3d3cd23fe3ad7"
   },
   {
@@ -1278,16 +1487,16 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:03",
+   "fetched_at": "2026-10-10T16:01:30",
    "id": "cb718f96cc5979a5"
   },
   {
    "title": "Giornate Fai d'autunno, aperture straordinarie di luoghi inaccessibili: che cosa visitare nel Torinese",
-   "source_id": "bobobo",
-   "url": "https://www.bobobo.it/torino/eventi/giornate-fai-d-autunno--aperture-straordinarie-di-luoghi-inaccessibili--che-cosa-visitare-nel-torinese-e7344345",
-   "description": "Torino",
+   "source_id": "torinotoday_eventi",
+   "url": "https://www.torinotoday.it/eventi/giornate-fai-autunno-2026-aperture-straordinarie.html",
+   "description": "Escursioni",
    "category": "eventi",
-   "venue": "Torino",
+   "venue": "",
    "address": "",
    "lat": null,
    "lon": null,
@@ -1296,8 +1505,8 @@
    "all_day": true,
    "date_confidence": "high",
    "price": "",
-   "image": "",
-   "fetched_at": "2026-10-10T10:53:03",
+   "image": "https://citynews-torinotoday.stgy.ovh/~media/horizontal-mid/43578354638746/villa-la-tesoriera-torino.jpg",
+   "fetched_at": "2026-10-10T16:01:18",
    "id": "fb386e2626084a97"
   },
   {
@@ -1316,16 +1525,16 @@
    "date_confidence": "high",
    "price": "Early €10 - Reg €15",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "723123f985f18962"
   },
   {
    "title": "Il design incontra il turismo: tour in bilico fra il passato e il futuro di Torino",
-   "source_id": "bobobo",
-   "url": "https://www.bobobo.it/torino/eventi/il-design-incontra-il-turismo--tour-in-bilico-fra-il-passato-e-il-futuro-di-torino-e7345382",
+   "source_id": "torinotoday_eventi",
+   "url": "https://www.torinotoday.it/eventi/design-turismo-tour-2026-passato-futuro-citta.html",
    "description": "Torino",
    "category": "concerti",
-   "venue": "Torino",
+   "venue": "",
    "address": "",
    "lat": null,
    "lon": null,
@@ -1335,7 +1544,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:03",
+   "fetched_at": "2026-10-10T16:01:18",
    "id": "bb2e5549d6bf3521"
   },
   {
@@ -1354,7 +1563,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:19",
    "id": "3370d8145b6058df"
   },
   {
@@ -1373,7 +1582,7 @@
    "date_confidence": "high",
    "price": "Reg €20",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "19a5bd7f7d1bb607"
   },
   {
@@ -1392,7 +1601,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:03",
+   "fetched_at": "2026-10-10T16:01:30",
    "id": "30896e0d47803831"
   },
   {
@@ -1411,7 +1620,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:19",
    "id": "b57c1b6c12e5e23f"
   },
   {
@@ -1430,7 +1639,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:03",
+   "fetched_at": "2026-10-10T16:01:30",
    "id": "aaadc5eab60a37c4"
   },
   {
@@ -1449,7 +1658,7 @@
    "date_confidence": "high",
    "price": "W Free - M €15",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "4fefc3faef0b8d0b"
   },
   {
@@ -1468,7 +1677,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:19",
    "id": "7e3b32f2f04d4b28"
   },
   {
@@ -1487,16 +1696,16 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/09/sponda-fest-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "e59fff4f966eccc4"
   },
   {
-   "title": "Tornano le Giornate FAI d'Autunno: le imperdibili aperture a Torino e in Piemonte",
-   "source_id": "bobobo",
-   "url": "https://www.bobobo.it/torino/eventi/tornano-le-giornate-fai-d-autunno--le-imperdibili-aperture-a-torino-e-in-piemonte-e7344906",
-   "description": "Torino Location varie",
+   "title": "Tornano le Giornate FAI d’Autunno: le imperdibili aperture a Torino e in Piemonte",
+   "source_id": "torinotoday_eventi",
+   "url": "https://www.torinotoday.it/eventi/giornate-fai-autunno-piemonte.html",
+   "description": "Turismo · Location varie",
    "category": "eventi",
-   "venue": "Torino Location varie",
+   "venue": "Location varie",
    "address": "",
    "lat": null,
    "lon": null,
@@ -1505,8 +1714,8 @@
    "all_day": true,
    "date_confidence": "high",
    "price": "",
-   "image": "",
-   "fetched_at": "2026-10-10T10:53:03",
+   "image": "https://citynews-torinotoday.stgy.ovh/~media/horizontal-mid/40622225467261/torino-bolla-e-pista-500-foto-giorgio-blanco-c-fai-7.jpg",
+   "fetched_at": "2026-10-10T16:01:18",
    "id": "b2c0724eac1c53b8"
   },
   {
@@ -1525,16 +1734,16 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/09/treno-foliage-2026-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "ae9622b72d156301"
   },
   {
    "title": "Venaria Reale, tornano Maratona del Re e del Principino & Family: corse tra storia, natura e paesaggio sabaudo",
-   "source_id": "bobobo",
-   "url": "https://www.bobobo.it/torino/eventi/venaria-reale--tornano-maratona-del-re-e-del-principino---family--corse-tra-storia--natura-e-paesaggio-sabaudo-e7344344",
+   "source_id": "torinotoday_eventi",
+   "url": "https://www.torinotoday.it/eventi/venaria-2026-maratona-reale-corsa-principino-family.html",
    "description": "Torino",
    "category": "eventi",
-   "venue": "Torino",
+   "venue": "",
    "address": "",
    "lat": null,
    "lon": null,
@@ -1543,8 +1752,8 @@
    "all_day": true,
    "date_confidence": "high",
    "price": "",
-   "image": "",
-   "fetched_at": "2026-10-10T10:53:03",
+   "image": "https://citynews-torinotoday.stgy.ovh/~media/horizontal-mid/65386932528987/maratona-reale-venaria.jpg",
+   "fetched_at": "2026-10-10T16:01:18",
    "id": "17569e8d695a6eaa"
   },
   {
@@ -1563,7 +1772,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/10/extravaganza-torino-ottobre-2026-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "3fc25abe1e16bacc"
   },
   {
@@ -1582,7 +1791,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/10/fiera-toma-condove-2026-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "b90e2aab40bdb1b4"
   },
   {
@@ -1601,7 +1810,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/09/portici-carta-2026-torino-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "6783180c1a653d62"
   },
   {
@@ -1620,7 +1829,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2022/10/sagre-torino-piemonte-weekend-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "71e23d4f954a46f5"
   },
   {
@@ -1639,7 +1848,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2023/03/eventi-gratis-weekend-torino-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "073bc7a773b393c9"
   },
   {
@@ -1658,7 +1867,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/10/castello-rivoli-ingresso-gratuito-giornata-contemporaneo-2026-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "ebb11f4aeae55da6"
   },
   {
@@ -1677,7 +1886,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/10/gam-giornata-contemporano-2026-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "fb2584645c43bd41"
   },
   {
@@ -1696,7 +1905,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/09/giornate-fai-autunno-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "c51d9eb7b42851aa"
   },
   {
@@ -1715,7 +1924,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/10/weekend-tram-storico-torino-ottobre-2026-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "516592d01d3c67ac"
   },
   {
@@ -1734,7 +1943,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/09/chocobicerin-fest-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "c793e4e1b313d6d8"
   },
   {
@@ -1753,7 +1962,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://gancio.cisti.org/media/7e011a7fc205fa614c9565c1c1aac67c.jpg",
-   "fetched_at": "2026-10-10T10:52:58",
+   "fetched_at": "2026-10-10T16:01:25",
    "id": "bb84fa648eec7f70"
   },
   {
@@ -1772,7 +1981,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://gancio.cisti.org/media/528bdc664a6f60ea1fcbfa417ab93708.jpg",
-   "fetched_at": "2026-10-10T10:52:58",
+   "fetched_at": "2026-10-10T16:01:25",
    "id": "2e594e2ea57e7134"
   },
   {
@@ -1791,7 +2000,7 @@
    "date_confidence": "high",
    "price": "Free",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "f210be82a69e7da0"
   },
   {
@@ -1810,7 +2019,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://gancio.cisti.org/media/041a4818f09506d4b53350da52bdd90a.jpg",
-   "fetched_at": "2026-10-10T10:52:58",
+   "fetched_at": "2026-10-10T16:01:25",
    "id": "a2732f49c45eb73f"
   },
   {
@@ -1829,7 +2038,7 @@
    "date_confidence": "high",
    "price": "Tes. Arci + Up to you",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "0a006522f1ce28b8"
   },
   {
@@ -1848,7 +2057,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/10/sagra-del-crin-lesegno-2026-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "ab95955aa3d5aab2"
   },
   {
@@ -1867,7 +2076,7 @@
    "date_confidence": "high",
    "price": "Tes. Arci + €5",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "1fdf1ac196c481d4"
   },
   {
@@ -1886,7 +2095,7 @@
    "date_confidence": "high",
    "price": "Up to you",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "8deb123fa3364c4f"
   },
   {
@@ -1905,7 +2114,7 @@
    "date_confidence": "high",
    "price": "Free",
    "image": "https://static1.squarespace.com/static/5e7e264530df6e33f115bd43/6818b0163d2e710d25581795/6aa519390780ed182b0cb18e/1789206792954/",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "0237ba242f6f29f6"
   },
   {
@@ -1924,7 +2133,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/02/nomadi-torino-ottobre-2026-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "6414ec133cd9704d"
   },
   {
@@ -1943,7 +2152,7 @@
    "date_confidence": "high",
    "price": "Reg €48 - €28",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "4f7a937481a538a0"
   },
   {
@@ -1962,7 +2171,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://gancio.cisti.org/media/3d8c5c0fc788b391614d0f8ca0e1e5fa.jpg",
-   "fetched_at": "2026-10-10T10:52:58",
+   "fetched_at": "2026-10-10T16:01:25",
    "id": "3c5c89cd29f090d1"
   },
   {
@@ -1981,7 +2190,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2025/10/pooh-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "2d8e4aa659a99782"
   },
   {
@@ -2000,7 +2209,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/10/passeggiate-letterarie-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "6d405462e317aefb"
   },
   {
@@ -2019,27 +2228,8 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/09/mario-tozzi-teatro-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "a514d4ec5ee41b19"
-  },
-  {
-   "title": "POOH",
-   "source_id": "turinhub",
-   "url": "https://www.ticketone.it/event/pooh60-la-nostra-storia-palasport-inalpi-arena-20796082/",
-   "description": "Inalpi Arena · POP ROCK ∙ MUSICA ITALIANA ∙ CONCERTO · Live music",
-   "category": "concerti",
-   "venue": "Inalpi Arena",
-   "address": "",
-   "lat": null,
-   "lon": null,
-   "start": "2026-10-10T21:00:00",
-   "end": null,
-   "all_day": false,
-   "date_confidence": "high",
-   "price": "Reg €95 - €45",
-   "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
-   "id": "7837318d89a14e6e"
   },
   {
    "title": "RETRO'",
@@ -2057,7 +2247,7 @@
    "date_confidence": "high",
    "price": "Tes. Arci",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "66138e8dd39af7b8"
   },
   {
@@ -2076,7 +2266,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "93d9d08546ee9c30"
   },
   {
@@ -2095,7 +2285,7 @@
    "date_confidence": "high",
    "price": "Tes. Arci + €15",
    "image": "https://www.magazzinosulpo.com/wp-content/uploads/2025/10/10Ottobre_post-4-800x999.jpg",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "fbacb039349ec90c"
   },
   {
@@ -2114,7 +2304,7 @@
    "date_confidence": "high",
    "price": "Reg €10",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "745724afe745e3aa"
   },
   {
@@ -2133,11 +2323,11 @@
    "date_confidence": "high",
    "price": "Reg €10",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "64fc3eb849133bc5"
   },
   {
-   "title": "VELVET NIGHT",
+   "title": "VELVET NIGHT || Thornetta Davis \\\\ Detroit’s Queen of Blues",
    "source_id": "turinhub",
    "url": "",
    "description": "Vinile · BLUES ∙ SOUL ∙ FOOD · Live music",
@@ -2152,8 +2342,27 @@
    "date_confidence": "high",
    "price": "Reg €20",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
-   "id": "7a6011b4a1a8a601"
+   "fetched_at": "2026-10-10T16:01:27",
+   "id": "4b8626d06f2d1494"
+  },
+  {
+   "title": "DOGHOUSE ✷ RESET",
+   "source_id": "turinhub",
+   "url": "",
+   "description": "Capodoglio · TECHNO ∙ INDIE DANCE ∙ ELECTRONICA / DOWNTEMPO · Dj set",
+   "category": "club",
+   "venue": "Capodoglio",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-10-10T22:00:00",
+   "end": null,
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Free",
+   "image": "",
+   "fetched_at": "2026-10-10T16:01:27",
+   "id": "5b61bc0beaf06885"
   },
   {
    "title": "Pre-Party",
@@ -2171,27 +2380,8 @@
    "date_confidence": "high",
    "price": "Free",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "95dbebd08360b431"
-  },
-  {
-   "title": "RESET",
-   "source_id": "turinhub",
-   "url": "https://xceed.me/en/torino/event/doghouse-reset-capodoglio-1/246177",
-   "description": "Capodoglio · INDIE DANCE ∙ HOUSE ∙ TECHNO ∙ INDIE TECH · Dj set",
-   "category": "club",
-   "venue": "Capodoglio",
-   "address": "",
-   "lat": null,
-   "lon": null,
-   "start": "2026-10-10T22:00:00",
-   "end": null,
-   "all_day": false,
-   "date_confidence": "high",
-   "price": "Free",
-   "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
-   "id": "32abf28c65c5eacf"
   },
   {
    "title": "panel beathers",
@@ -2209,7 +2399,7 @@
    "date_confidence": "high",
    "price": "Reg €5",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "5078c1c06f6ec83a"
   },
   {
@@ -2228,7 +2418,7 @@
    "date_confidence": "high",
    "price": "Reg €11,50",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "dff7200e6c0059f5"
   },
   {
@@ -2247,7 +2437,7 @@
    "date_confidence": "high",
    "price": "Reg €10 (€13 dopo 00:00)",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "66bba77464a51b91"
   },
   {
@@ -2266,27 +2456,8 @@
    "date_confidence": "high",
    "price": "Reg €10 (€20 dopo 00:00)",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "f2103a790f4f99da"
-  },
-  {
-   "title": "CAPOGIRO - OPENING CLUB SEASON",
-   "source_id": "turinhub",
-   "url": "https://xceed.me/en/torino/event/capogiro-full-opening-club-season-at-astoria/247113/channel/torino-hub-1",
-   "description": "Astoria Basement · BREAKBEAT ∙ DUBSTEP ∙ DRUM'N'BASS · Dj set",
-   "category": "club",
-   "venue": "Astoria Basement",
-   "address": "",
-   "lat": null,
-   "lon": null,
-   "start": "2026-10-10T23:00:00",
-   "end": null,
-   "all_day": false,
-   "date_confidence": "high",
-   "price": "Reg €5 (€10 dopo l'01:00)",
-   "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
-   "id": "01946897a7892230"
   },
   {
    "title": "CASA LIO",
@@ -2304,8 +2475,27 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "20635f6e58f54220"
+  },
+  {
+   "title": "Capogiro full opening club season",
+   "source_id": "turinhub",
+   "url": "https://xceed.me/en/torino/event/capogiro-full-opening-club-season-at-astoria/247113/channel/torino-hub-1",
+   "description": "Astoria Basement · BREAKS ∙ DRUM'N'BASS ∙ GARAGE · Dj set",
+   "category": "club",
+   "venue": "Astoria Basement",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-10-10T23:00:00",
+   "end": null,
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Reg €5 (€10 dopo l'01:00)",
+   "image": "",
+   "fetched_at": "2026-10-10T16:01:27",
+   "id": "e4eb5a4f4b6928e4"
   },
   {
    "title": "GENAU",
@@ -2323,7 +2513,7 @@
    "date_confidence": "high",
    "price": "Early €15 - Reg €20",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "a0642f20f10bb71e"
   },
   {
@@ -2342,7 +2532,7 @@
    "date_confidence": "high",
    "price": "Reg €10 (€20 dopo 00:00)",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "edbba78e5e58ea67"
   },
   {
@@ -2361,7 +2551,7 @@
    "date_confidence": "high",
    "price": "Reg €10",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "201658a2c27d56a4"
   },
   {
@@ -2378,9 +2568,9 @@
    "end": null,
    "all_day": false,
    "date_confidence": "high",
-   "price": "Early €10 - Reg €15",
+   "price": "Early €10 - Reg €20",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "29f6c82ecd7033a8"
   },
   {
@@ -2399,7 +2589,7 @@
    "date_confidence": "high",
    "price": "Reg €10 (W Free entro l'01:00)",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "5e1ddb491b251a91"
   },
   {
@@ -2418,13 +2608,13 @@
    "date_confidence": "high",
    "price": "W Free",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "f96b16d3c82ecbb6"
   },
   {
-   "title": "TO*DO LOCO",
+   "title": "TO*DO LOCO OPENING PARTY",
    "source_id": "turinhub",
-   "url": "https://xceed.me/en/torino/event/todo-loco-opening-party-centralino-club/247045",
+   "url": "",
    "description": "Centralino · REGGAETON ∙ TRAP ∙ TECH HOUSE · Dj set",
    "category": "club",
    "venue": "Centralino",
@@ -2435,16 +2625,16 @@
    "end": null,
    "all_day": false,
    "date_confidence": "high",
-   "price": "Early €12 - Reg €15",
+   "price": "Reg €15",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
-   "id": "576a645edceed931"
+   "fetched_at": "2026-10-10T16:01:27",
+   "id": "815d79a09cf7abdf"
   },
   {
    "title": "Takaaki Itoh",
    "source_id": "turinhub",
    "url": "https://xceed.me/en/torino/event/takaaki-itoh-wols-jap-thegod01-humanoid-gods-it-adler-wrd-it/239119/channel/torino-hub-1",
-   "description": "Azimut · TECHNO · Dj set",
+   "description": "Azimut · TECHNO ∙ UNDERGROUND · Dj set",
    "category": "club",
    "venue": "Azimut",
    "address": "",
@@ -2454,9 +2644,9 @@
    "end": null,
    "all_day": false,
    "date_confidence": "high",
-   "price": "Reg €20",
+   "price": "Early €10 - Reg €15",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "67caa88e8f0e0f33"
   },
   {
@@ -2475,7 +2665,7 @@
    "date_confidence": "high",
    "price": "Reg €10",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "60ca161a44cc4338"
   },
   {
@@ -2494,7 +2684,7 @@
    "date_confidence": "high",
    "price": "Free (€10 dop ol'01:30)",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "ba42392b03b526f8"
   },
   {
@@ -2513,7 +2703,7 @@
    "date_confidence": "high",
    "price": "Reg €10",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "aa49368160449ef9"
   },
   {
@@ -2532,7 +2722,7 @@
    "date_confidence": "high",
    "price": "W €15 - M €20",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "171b81afe84200e0"
   },
   {
@@ -2551,7 +2741,7 @@
    "date_confidence": "high",
    "price": "W €10 - M €12 (entro 00:30)",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "47405b2ac675ac25"
   },
   {
@@ -2570,7 +2760,7 @@
    "date_confidence": "high",
    "price": "Tes. Arci + €5",
    "image": "https://www.magazzinosulpo.com/wp-content/uploads/2026/09/PERREO-V1-800x999.png",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "6b131355009172b7"
   },
   {
@@ -2589,8 +2779,46 @@
    "date_confidence": "high",
    "price": "Reg €15 - Erasmus €13",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "99fc1e272aa36f7c"
+  },
+  {
+   "title": "\"Note da sogno” porta a Torino il fascino senza tempo di Morricone, Zimmer e i grandi compositori",
+   "source_id": "torinotoday_eventi",
+   "url": "https://www.torinotoday.it/eventi/note-da-sogno-11-ottobre-conservatorio-Verdi.html",
+   "description": "Conservatorio G. Verdi - Salone dei concerti",
+   "category": "eventi",
+   "venue": "Conservatorio G. Verdi - Salone dei concerti",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-10-11T00:00:00",
+   "end": null,
+   "all_day": true,
+   "date_confidence": "high",
+   "price": "",
+   "image": "",
+   "fetched_at": "2026-10-10T16:01:18",
+   "id": "e12bb319b0c7512c"
+  },
+  {
+   "title": "Parco archeologico del Lago Pistono di Montalto Dora: stesso biglietto, più attività",
+   "source_id": "torinotoday_eventi",
+   "url": "https://www.torinotoday.it/eventi/parco-archeologico-lago-pistono-montalto-dora.html",
+   "description": "Parco archeologico del Lago Pistono",
+   "category": "eventi",
+   "venue": "Parco archeologico del Lago Pistono",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-10-11T00:00:00",
+   "end": null,
+   "all_day": true,
+   "date_confidence": "high",
+   "price": "",
+   "image": "",
+   "fetched_at": "2026-10-10T16:01:18",
+   "id": "4851ba252b971b88"
   },
   {
    "title": "Domenica torna la Fiera del Disco e del Fumetto a Torino: vinili rari, comics e pezzi da collezione",
@@ -2608,7 +2836,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/10/fiera-disco-fumetto-torino-ottobre-2026-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "45177f94dcfa83ef"
   },
   {
@@ -2627,7 +2855,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/08/gran-balon-torino-agosto-2026-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "74b0cf33a9ccb741"
   },
   {
@@ -2646,7 +2874,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/09/festa-via-madama-cristina-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "7f1349a9611a6d92"
   },
   {
@@ -2665,7 +2893,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/10/mercato-biodiversita-torino-ottobre-2026-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "5de4568fb9290243"
   },
   {
@@ -2684,7 +2912,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/10/montebello-street-fest-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "1e07ee2c16408285"
   },
   {
@@ -2703,7 +2931,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://gancio.cisti.org/media/19c0976fa594b9e30f1055723ecd8dc9.jpg",
-   "fetched_at": "2026-10-10T10:52:58",
+   "fetched_at": "2026-10-10T16:01:25",
    "id": "35ee690c7027bbb2"
   },
   {
@@ -2722,7 +2950,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/10/japan-mania-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "1c9b49beb2a75c55"
   },
   {
@@ -2741,7 +2969,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://gancio.cisti.org/media/3be149011fe3112b2e939d4e59de68d9.jpg",
-   "fetched_at": "2026-10-10T10:52:58",
+   "fetched_at": "2026-10-10T16:01:25",
    "id": "f1313117ce5bcd33"
   },
   {
@@ -2760,7 +2988,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://gancio.cisti.org/media/c8e5b52ec3bdc3ba98f477f55122c077.jpg",
-   "fetched_at": "2026-10-10T10:52:58",
+   "fetched_at": "2026-10-10T16:01:25",
    "id": "e4531922fadef8e6"
   },
   {
@@ -2779,7 +3007,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://gancio.cisti.org/media/ee28646ebc7ce706441ce91fc2a0fd83.jpg",
-   "fetched_at": "2026-10-10T10:52:58",
+   "fetched_at": "2026-10-10T16:01:25",
    "id": "5244258a129ec6de"
   },
   {
@@ -2798,7 +3026,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://gancio.cisti.org/media/cdf1f89a59cc4028481648aab1f0d160.jpg",
-   "fetched_at": "2026-10-10T10:52:58",
+   "fetched_at": "2026-10-10T16:01:25",
    "id": "5585c1973d1502d1"
   },
   {
@@ -2817,7 +3045,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/06/note-da-sogno-torino-ottobre-2026-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "938595f3e0337871"
   },
   {
@@ -2836,7 +3064,7 @@
    "date_confidence": "high",
    "price": "Free",
    "image": "https://static1.squarespace.com/static/5e7e264530df6e33f115bd43/6818b0163d2e710d25581795/6aa519b420f06e253b37aa57/1789205006931/",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "1e5a5f448e705047"
   },
   {
@@ -2855,7 +3083,7 @@
    "date_confidence": "high",
    "price": "Free",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "651f1e67edbdb79f"
   },
   {
@@ -2874,7 +3102,7 @@
    "date_confidence": "high",
    "price": "Up to you",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "2b35f03009d14e25"
   },
   {
@@ -2893,7 +3121,7 @@
    "date_confidence": "high",
    "price": "Free",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "a48daf440c0e6f03"
   },
   {
@@ -2912,7 +3140,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://variantebunker.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-08-at-15.20.22-400x400.jpeg",
-   "fetched_at": "2026-10-10T10:52:56",
+   "fetched_at": "2026-10-10T16:01:21",
    "id": "6551aa865ebf203e"
   },
   {
@@ -2931,7 +3159,7 @@
    "date_confidence": "high",
    "price": "Reg €15",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "41073de89bff76b7"
   },
   {
@@ -2950,7 +3178,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://gancio.cisti.org/media/a2b00e1542f45eea13e8304401c268aa.jpg",
-   "fetched_at": "2026-10-10T10:52:58",
+   "fetched_at": "2026-10-10T16:01:25",
    "id": "054d54bab4b6804e"
   },
   {
@@ -2969,7 +3197,7 @@
    "date_confidence": "high",
    "price": "sold out",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "63963fd97c2db65e"
   },
   {
@@ -2988,7 +3216,7 @@
    "date_confidence": "high",
    "price": "Reg €25",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "1876d89933c1367a"
   },
   {
@@ -3007,8 +3235,27 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/08/justin-sullivan-dean-white-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "134be0641a105088"
+  },
+  {
+   "title": "POOH",
+   "source_id": "turinhub",
+   "url": "https://www.ticketone.it/event/pooh60-la-nostra-storia-palasport-inalpi-arena-20796082/",
+   "description": "Inalpi Arena · POP ROCK ∙ MUSICA ITALIANA ∙ CONCERTO · Live music",
+   "category": "concerti",
+   "venue": "Inalpi Arena",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-10-11T21:00:00",
+   "end": null,
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Reg €95 - €45",
+   "image": "",
+   "fetched_at": "2026-10-10T16:01:27",
+   "id": "970b8cc488dba85b"
   },
   {
    "title": "Jam Session Indafunk",
@@ -3026,7 +3273,7 @@
    "date_confidence": "high",
    "price": "Up to you",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "663a24e2716e30bd"
   },
   {
@@ -3045,7 +3292,7 @@
    "date_confidence": "high",
    "price": "Free",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "64258c588c4c6d01"
   },
   {
@@ -3064,7 +3311,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/10/heart-of-gaza-mostra-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "ce9eac9689466736"
   },
   {
@@ -3083,7 +3330,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://gancio.cisti.org/media/8986a6c9eba492add219feb00d977a9d.jpg",
-   "fetched_at": "2026-10-10T10:52:58",
+   "fetched_at": "2026-10-10T16:01:25",
    "id": "5ce2a638f7fd3702"
   },
   {
@@ -3102,7 +3349,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://variantebunker.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-09-09-at-12.26.53-400x400.jpeg",
-   "fetched_at": "2026-10-10T10:52:56",
+   "fetched_at": "2026-10-10T16:01:21",
    "id": "8ef03bfc0e120768"
   },
   {
@@ -3121,7 +3368,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://variantebunker.com/wp-content/uploads/2026/05/IMG_20260505_143315_298-1-400x400.jpg",
-   "fetched_at": "2026-10-10T10:52:56",
+   "fetched_at": "2026-10-10T16:01:21",
    "id": "2a76302e116fc091"
   },
   {
@@ -3140,7 +3387,7 @@
    "date_confidence": "high",
    "price": "Free",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "c2c7e54e1fd30436"
   },
   {
@@ -3159,8 +3406,27 @@
    "date_confidence": "high",
    "price": "Tes. Arci",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "41a84d144b0aea20"
+  },
+  {
+   "title": "Apertura Porfido",
+   "source_id": "gancio_cisti",
+   "url": "https://gancio.cisti.org/event/apertura-porfido-478",
+   "description": "Apertura Porfido Centro di Documentazione Porfido - Via Tarino 12/c, Torino (martedì, 13 ottobre 16:00) Disponibile al Porfido il quinto numero di “Disfare – per la lotta contro il mondo guerra”, della primavera-estate 2026. https://campiselvaggi.noblogs.org/post/2026/06/10/disfare-5-blackout/",
+   "category": "centri_sociali",
+   "venue": "Centro di Documentazione Porfido",
+   "address": "Via Tarino 12/c, Torino",
+   "lat": null,
+   "lon": null,
+   "start": "2026-10-13T16:00:00",
+   "end": null,
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "",
+   "image": "https://gancio.cisti.org/media/4da4b4013351feee599e449904c6635f.jpg",
+   "fetched_at": "2026-10-10T16:01:25",
+   "id": "e65268e14db08d20"
   },
   {
    "title": "Ogni martedì – Corso di Djing",
@@ -3178,8 +3444,27 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://variantebunker.com/wp-content/uploads/2026/03/DF_-142-400x400.jpg",
-   "fetched_at": "2026-10-10T10:52:56",
+   "fetched_at": "2026-10-10T16:01:21",
    "id": "3c60f509dd208c32"
+  },
+  {
+   "title": "Cena sociale di quartiere GRAB",
+   "source_id": "gancio_cisti",
+   "url": "https://gancio.cisti.org/event/cena-sociale-di-quartiere-grab-34",
+   "description": "Cena sociale di quartiere GRAB piazza Foroni - piazza Foroni (martedì, 13 ottobre 20:30)",
+   "category": "centri_sociali",
+   "venue": "piazza Foroni",
+   "address": "piazza Foroni",
+   "lat": null,
+   "lon": null,
+   "start": "2026-10-13T20:30:00",
+   "end": null,
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "",
+   "image": "https://gancio.cisti.org/media/f429d7d57b896bb6ca57f824a67066bd.jpg",
+   "fetched_at": "2026-10-10T16:01:25",
+   "id": "cdb70bec7f2915b7"
   },
   {
    "title": "Sal Da Vinci a Torino nel 2026: data e biglietti dei concerti",
@@ -3197,8 +3482,27 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2025/12/sal-da-vinci-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "cc76087bef08d818"
+  },
+  {
+   "title": "What’s Jazz",
+   "source_id": "turinhub",
+   "url": "",
+   "description": "One · JAZZ / BLUES · Live music",
+   "category": "concerti",
+   "venue": "One",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-10-13T20:30:00",
+   "end": "2026-10-13T23:59:00",
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Reg €15",
+   "image": "",
+   "fetched_at": "2026-10-10T16:01:27",
+   "id": "7ccac62785d91b30"
   },
   {
    "title": "Marmellata Jam",
@@ -3216,8 +3520,27 @@
    "date_confidence": "high",
    "price": "Entrata libera",
    "image": "https://www.magazzinosulpo.com/wp-content/uploads/2026/09/13Ottobre_post1-800x999.jpg",
-   "fetched_at": "2026-10-10T10:53:09",
+   "fetched_at": "2026-10-10T16:01:32",
    "id": "18233a0dab3002c4"
+  },
+  {
+   "title": "Apertura Porfido",
+   "source_id": "gancio_cisti",
+   "url": "https://gancio.cisti.org/event/apertura-porfido-479",
+   "description": "Apertura Porfido Centro di Documentazione Porfido - Via Tarino 12/c, Torino (mercoledì, 14 ottobre 16:00) Disponibile Nunatak n. 81 – estate 2026 Il Centro di Documentazione Porfido è aperto Martedì, Mercoledì e Sabato dalle 16:00 alle 19:30.",
+   "category": "centri_sociali",
+   "venue": "Centro di Documentazione Porfido",
+   "address": "Via Tarino 12/c, Torino",
+   "lat": null,
+   "lon": null,
+   "start": "2026-10-14T16:00:00",
+   "end": null,
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "",
+   "image": "https://gancio.cisti.org/media/4b37677435fee7c9840c4799b4caa2fd.jpg",
+   "fetched_at": "2026-10-10T16:01:25",
+   "id": "827abb49f12ec85a"
   },
   {
    "title": "Talk & Drink 4.0",
@@ -3235,7 +3558,7 @@
    "date_confidence": "high",
    "price": "Entrata libera",
    "image": "https://www.magazzinosulpo.com/wp-content/uploads/2026/09/14Ottobre_post-749x999.jpg",
-   "fetched_at": "2026-10-10T10:53:09",
+   "fetched_at": "2026-10-10T16:01:32",
    "id": "dbf695964f9db505"
   },
   {
@@ -3254,8 +3577,27 @@
    "date_confidence": "low",
    "price": "",
    "image": "https://variantebunker.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-09-09-at-18.09.24-400x400.jpeg",
-   "fetched_at": "2026-10-10T10:52:56",
+   "fetched_at": "2026-10-10T16:01:21",
    "id": "3e44cafc6cfded89"
+  },
+  {
+   "title": "SUBVRS",
+   "source_id": "turinhub",
+   "url": "",
+   "description": "Capodoglio · DISCO ∙ HOUSE · Dj set",
+   "category": "club",
+   "venue": "Capodoglio",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-10-14T19:00:00",
+   "end": null,
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Free",
+   "image": "",
+   "fetched_at": "2026-10-10T16:01:27",
+   "id": "0175c3a5861802a5"
   },
   {
    "title": "Ogni mercoledì – Corso di Canto",
@@ -3273,7 +3615,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://variantebunker.com/wp-content/uploads/2026/09/Screenshot-2026-09-16-alle-20.20.41-400x400.png",
-   "fetched_at": "2026-10-10T10:52:56",
+   "fetched_at": "2026-10-10T16:01:21",
    "id": "a5183869ea5e3a35"
   },
   {
@@ -3292,7 +3634,7 @@
    "date_confidence": "high",
    "price": "Entrata libera",
    "image": "https://www.magazzinosulpo.com/wp-content/uploads/2026/09/14Ottobre_post1-800x999.jpg",
-   "fetched_at": "2026-10-10T10:53:09",
+   "fetched_at": "2026-10-10T16:01:32",
    "id": "7f304a75c91b1b9d"
   },
   {
@@ -3311,7 +3653,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/04/les-farfadais-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "4fcdaff29c38f073"
   },
   {
@@ -3330,7 +3672,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://variantebunker.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-08-at-15.20.01-400x400.jpeg",
-   "fetched_at": "2026-10-10T10:52:56",
+   "fetched_at": "2026-10-10T16:01:21",
    "id": "cadbc21c81dd6ddb"
   },
   {
@@ -3349,7 +3691,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2025/11/brunori-sas-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "59f57e0752173fef"
   },
   {
@@ -3368,7 +3710,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/03/sayf-torino-2026-concerto-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "83869aec5a0d8207"
   },
   {
@@ -3387,8 +3729,84 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://variantebunker.com/wp-content/uploads/2026/03/Danza-Dabka-400x400.jpg",
-   "fetched_at": "2026-10-10T10:52:56",
+   "fetched_at": "2026-10-10T16:01:21",
    "id": "31d558326fdabc93"
+  },
+  {
+   "title": "MACARENA",
+   "source_id": "turinhub",
+   "url": "",
+   "description": "One · LATIN ∙ REGGAETON · Dj set",
+   "category": "club",
+   "venue": "One",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-10-14T22:30:00",
+   "end": null,
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Free",
+   "image": "",
+   "fetched_at": "2026-10-10T16:01:27",
+   "id": "11df548e76057868"
+  },
+  {
+   "title": "Mercoledì Universitario",
+   "source_id": "turinhub",
+   "url": "",
+   "description": "Gate Club · HITS ∙ REGGAETON ∙ POP ∙ STUDENT · Live/Dj set",
+   "category": "concerti",
+   "venue": "Gate Club",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-10-14T23:00:00",
+   "end": null,
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Free entro 00:00",
+   "image": "",
+   "fetched_at": "2026-10-10T16:01:27",
+   "id": "ef0b99014455e938"
+  },
+  {
+   "title": "TURIN INTERNATIONAL",
+   "source_id": "turinhub",
+   "url": "",
+   "description": "Milk · HITS ∙ REGGAETON ∙ DANCE · Dj set",
+   "category": "club",
+   "venue": "Milk",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-10-14T23:45:00",
+   "end": null,
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Reg €15 - Erasmus €10",
+   "image": "",
+   "fetched_at": "2026-10-10T16:01:27",
+   "id": "f102eae13448a3c0"
+  },
+  {
+   "title": "Fabbriche aperte, tour gratuito negli stabilimenti dove 'si crea valore': nel Torinese 77 aziende aperte al pubblico",
+   "source_id": "torinotoday_eventi",
+   "url": "https://www.torinotoday.it/eventi/fabbriche-aperte-2026-tour-gratis-stabilimenti.html",
+   "description": "",
+   "category": "concerti",
+   "venue": "",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-10-15T00:00:00",
+   "end": "2026-10-17T00:00:00",
+   "all_day": true,
+   "date_confidence": "high",
+   "price": "",
+   "image": "",
+   "fetched_at": "2026-10-10T16:01:18",
+   "id": "e24fd0b56344500b"
   },
   {
    "title": "Fuoristagione: documentari d’autrice da incontrare sul fiume",
@@ -3406,7 +3824,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://static1.squarespace.com/static/5e7e264530df6e33f115bd43/6818b0163d2e710d25581795/6aa51a272be1b2711ba81e93/1789205103844/",
-   "fetched_at": "2026-10-10T10:53:02",
+   "fetched_at": "2026-10-10T16:01:28",
    "id": "a450a68af498f31d"
   },
   {
@@ -3425,7 +3843,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://variantebunker.com/wp-content/uploads/2026/03/Screenshot-2026-09-09-alle-16.42.52-400x400.png",
-   "fetched_at": "2026-10-10T10:52:56",
+   "fetched_at": "2026-10-10T16:01:21",
    "id": "849d4b0ad47ca522"
   },
   {
@@ -3444,7 +3862,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://variantebunker.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-28-at-17.20.05-400x400.jpeg",
-   "fetched_at": "2026-10-10T10:52:56",
+   "fetched_at": "2026-10-10T16:01:21",
    "id": "1b539f68f60e31bb"
   },
   {
@@ -3463,7 +3881,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/09/fred-dal-whiskey-facile-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "d17de04be548b0a3"
   },
   {
@@ -3482,14 +3900,14 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://variantebunker.com/wp-content/uploads/2026/09/DF_-28-1-400x400.jpg",
-   "fetched_at": "2026-10-10T10:52:56",
+   "fetched_at": "2026-10-10T16:01:21",
    "id": "43fcc39deeeb1254"
   },
   {
-   "title": "International Social Hub",
+   "title": "WGM JUSTIN BIEBER",
    "source_id": "turinhub",
-   "url": "https://isotcommunity.com/calendar",
-   "description": "Capodoglio · REGGAETON ∙ LATIN ∙ POP · Dj set",
+   "url": "",
+   "description": "Capodoglio · POP ∙ THEME PARTY · Dj set",
    "category": "club",
    "venue": "Capodoglio",
    "address": "",
@@ -3499,10 +3917,48 @@
    "end": null,
    "all_day": false,
    "date_confidence": "high",
-   "price": "Free entro 00:00",
+   "price": "Free",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
-   "id": "99f126999b2e6688"
+   "fetched_at": "2026-10-10T16:01:27",
+   "id": "db6cadf63f38165b"
+  },
+  {
+   "title": "TO*GETHER",
+   "source_id": "turinhub",
+   "url": "",
+   "description": "Centralino · DANCE ∙ REGGAETON ∙ TECHNO · Dj set",
+   "category": "club",
+   "venue": "Centralino",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-10-15T23:00:00",
+   "end": null,
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Free",
+   "image": "",
+   "fetched_at": "2026-10-10T16:01:27",
+   "id": "7af44703e55f4851"
+  },
+  {
+   "title": "BLAASH!",
+   "source_id": "turinhub",
+   "url": "",
+   "description": "One · DANCE ∙ REGGAETON ∙ ITALO DISCO ∙ INTERNATIONAL · Dj set",
+   "category": "club",
+   "venue": "One",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-10-15T23:30:00",
+   "end": null,
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Free",
+   "image": "",
+   "fetched_at": "2026-10-10T16:01:27",
+   "id": "1dfbcabc987c8dd4"
   },
   {
    "title": "OPENING PARTY PULP!",
@@ -3520,8 +3976,46 @@
    "date_confidence": "high",
    "price": "Free (€10 dopo 00:30)",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "9ccb6856aba0e731"
+  },
+  {
+   "title": "OF10",
+   "source_id": "turinhub",
+   "url": "",
+   "description": "Vogue · TRAP ∙ HIP-HOP · Dj set",
+   "category": "club",
+   "venue": "Vogue",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-10-15T23:59:00",
+   "end": null,
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Reg €10 (W Free - M €15 entro l'01:00)",
+   "image": "",
+   "fetched_at": "2026-10-10T16:01:27",
+   "id": "bf174b28a2bc6986"
+  },
+  {
+   "title": "BANG! Biblio, Art n’ Games: Pinerolo diventa la città di fumetti, libri e giochi",
+   "source_id": "torinotoday_eventi",
+   "url": "https://www.torinotoday.it/eventi/bang-pinerolo-2026-fumetti-libri-giochi.html",
+   "description": "",
+   "category": "eventi",
+   "venue": "",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-10-16T00:00:00",
+   "end": "2026-10-18T00:00:00",
+   "all_day": true,
+   "date_confidence": "high",
+   "price": "",
+   "image": "",
+   "fetched_at": "2026-10-10T16:01:18",
+   "id": "b64f1e36572d58f0"
   },
   {
    "title": "GRAVITY The Show torna a Torino con Connection, show tra acrobazie, musica e grandi effetti",
@@ -3539,7 +4033,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/08/gravity-the-show-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "d1fea83ed4bc2dc7"
   },
   {
@@ -3558,7 +4052,7 @@
    "date_confidence": "high",
    "price": "Entrata libera",
    "image": "https://www.magazzinosulpo.com/wp-content/uploads/2026/10/post-800x999.png",
-   "fetched_at": "2026-10-10T10:53:09",
+   "fetched_at": "2026-10-10T16:01:32",
    "id": "3722a98bbded1511"
   },
   {
@@ -3577,7 +4071,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://static1.squarespace.com/static/5e7e264530df6e33f115bd43/6818b0163d2e710d25581795/6aa51a782935963420e899c5/1789207002322/",
-   "fetched_at": "2026-10-10T10:53:02",
+   "fetched_at": "2026-10-10T16:01:28",
    "id": "3a5f1aa49677bc63"
   },
   {
@@ -3596,7 +4090,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://variantebunker.com/wp-content/uploads/2026/03/teatro-400x400.jpg",
-   "fetched_at": "2026-10-10T10:52:56",
+   "fetched_at": "2026-10-10T16:01:21",
    "id": "6f652fb5b93cbb4d"
   },
   {
@@ -3615,8 +4109,27 @@
    "date_confidence": "high",
    "price": "Up to you",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "7a8fb034cfc18901"
+  },
+  {
+   "title": "irossa Live",
+   "source_id": "turinhub",
+   "url": "",
+   "description": "Off Topic · INDIE - ROCK ∙ INDIE POP ∙ CONCERT · Live music",
+   "category": "concerti",
+   "venue": "Off Topic",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-10-16T21:00:00",
+   "end": "2026-10-16T23:00:00",
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Reg €12",
+   "image": "",
+   "fetched_at": "2026-10-10T16:01:27",
+   "id": "900d9879acb8dab9"
   },
   {
    "title": "ĠENN",
@@ -3634,8 +4147,103 @@
    "date_confidence": "high",
    "price": "8,00 €",
    "image": "https://www.magazzinosulpo.com/wp-content/uploads/2025/10/16Ottobre_post-800x999.jpg",
-   "fetched_at": "2026-10-10T10:53:09",
+   "fetched_at": "2026-10-10T16:01:32",
    "id": "d38f629c6bd8d2e5"
+  },
+  {
+   "title": "Demodè Duo",
+   "source_id": "turinhub",
+   "url": "",
+   "description": "GrillMusic Moncalieri · ROCK ∙ BLUES ∙ FUNK ∙ R&B · Live/Dj set",
+   "category": "concerti",
+   "venue": "GrillMusic Moncalieri",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-10-16T22:00:00",
+   "end": null,
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Reg €10",
+   "image": "",
+   "fetched_at": "2026-10-10T16:01:27",
+   "id": "e05a4be97c7c27df"
+  },
+  {
+   "title": "Pazza Idea",
+   "source_id": "turinhub",
+   "url": "",
+   "description": "Capodoglio · 80'S ∙ 90S - 00S ∙ NU-DISCO / DISCO ∙ URBAN · Dj set",
+   "category": "club",
+   "venue": "Capodoglio",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-10-16T22:30:00",
+   "end": null,
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Free",
+   "image": "",
+   "fetched_at": "2026-10-10T16:01:27",
+   "id": "a5b0e6f71c575ad0"
+  },
+  {
+   "title": "Anythingoes Pon di Plaza",
+   "source_id": "turinhub",
+   "url": "",
+   "description": "Zenit Club · DANCEHALL ∙ AFROBEATS ∙ INTERNATIONAL ∙ URBAN · Dj set",
+   "category": "club",
+   "venue": "Zenit Club",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-10-16T23:00:00",
+   "end": null,
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Free",
+   "image": "",
+   "fetched_at": "2026-10-10T16:01:27",
+   "id": "7b645b222dba3f76"
+  },
+  {
+   "title": "FLASHBACK",
+   "source_id": "turinhub",
+   "url": "",
+   "description": "Gate Club · TRAP ∙ REGGAETON · Dj set",
+   "category": "club",
+   "venue": "Gate Club",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-10-16T23:00:00",
+   "end": null,
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Early €10 - Reg €12",
+   "image": "",
+   "fetched_at": "2026-10-10T16:01:27",
+   "id": "3398c0b64597e7aa"
+  },
+  {
+   "title": "GIANCA & Friends",
+   "source_id": "turinhub",
+   "url": "",
+   "description": "Gianca · TECH HOUSE ∙ TECHNO · Dj set",
+   "category": "club",
+   "venue": "Gianca",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-10-16T23:00:00",
+   "end": null,
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Reg €10 (Free)",
+   "image": "",
+   "fetched_at": "2026-10-10T16:01:27",
+   "id": "88bc033cade421e9"
   },
   {
    "title": "Lobster",
@@ -3653,8 +4261,46 @@
    "date_confidence": "high",
    "price": "Early €5 - Reg €10 (€15 dopo l'01:00)",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "14a7841ba2869cbe"
+  },
+  {
+   "title": "Outcast Core",
+   "source_id": "turinhub",
+   "url": "",
+   "description": "Bunker · HOUSE ∙ TECHNO · Dj set",
+   "category": "club",
+   "venue": "Bunker",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-10-16T23:00:00",
+   "end": null,
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Reg €15",
+   "image": "",
+   "fetched_at": "2026-10-10T16:01:27",
+   "id": "6d89dd53e17f86c0"
+  },
+  {
+   "title": "SHOUT! w/ DI CHIARA BROTHERS",
+   "source_id": "turinhub",
+   "url": "https://xceed.me/en/torino/event/shout-w-di-chiara-brothers/245944/channel/torino-hub-1",
+   "description": "The Range · TECH HOUSE · Dj set",
+   "category": "club",
+   "venue": "The Range",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-10-16T23:00:00",
+   "end": null,
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Reg €10",
+   "image": "",
+   "fetched_at": "2026-10-10T16:01:27",
+   "id": "a838f9f9398e0c43"
   },
   {
    "title": "Bad Habits",
@@ -3672,14 +4318,52 @@
    "date_confidence": "high",
    "price": "5,00 €",
    "image": "https://www.magazzinosulpo.com/wp-content/uploads/2026/10/16-09-post-800x999.jpg",
-   "fetched_at": "2026-10-10T10:53:09",
+   "fetched_at": "2026-10-10T16:01:32",
    "id": "0200ed21fa93cbae"
+  },
+  {
+   "title": "VIRAL",
+   "source_id": "turinhub",
+   "url": "",
+   "description": "TUXEDO TORINO · REGGAETON ∙ ITALO DISCO · Dj set",
+   "category": "club",
+   "venue": "TUXEDO TORINO",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-10-16T23:30:00",
+   "end": null,
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Reg €10 (Free in lista entro 00:30)",
+   "image": "",
+   "fetched_at": "2026-10-10T16:01:27",
+   "id": "24522729c83bf14a"
+  },
+  {
+   "title": "COLLEGE",
+   "source_id": "turinhub",
+   "url": "",
+   "description": "Milk · HITS ∙ REGGAETON ∙ DANCE · Dj set",
+   "category": "club",
+   "venue": "Milk",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-10-16T23:45:00",
+   "end": null,
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Reg €20 - Erasmus €10",
+   "image": "",
+   "fetched_at": "2026-10-10T16:01:27",
+   "id": "35e5f64c9760496b"
   },
   {
    "title": "LUCA AGNELLI for OVER PARTY",
    "source_id": "xceed",
    "url": "https://xceed.me/it/torino/event/luca-agnelli-for-over-party/246923",
-   "description": "",
+   "description": "Audiodrome · HARD TECHNO ∙ TECHNO · Dj set",
    "category": "club",
    "venue": "Audiodrome Alive Club",
    "address": "Str. Mongina, 9 Torino",
@@ -3691,8 +4375,46 @@
    "date_confidence": "high",
    "price": "Gratuito",
    "image": "https://images.xceed.me/events/banners/luca-agnelli-for-over-party-torino-xceed-square-18b2.png?w=1920&h=1080&ar=16:9&fm=auto",
-   "fetched_at": "2026-10-10T10:52:58",
+   "fetched_at": "2026-10-10T16:01:22",
    "id": "41cb19dd71aaf098"
+  },
+  {
+   "title": "Paulaner Oktoberfest, sedici giorni di festa al Parco della Pellerina con la storica birra della Baviera",
+   "source_id": "torinotoday_eventi",
+   "url": "https://www.torinotoday.it/eventi/paulaner-oktoberfest-2026-parco-pellerina.html",
+   "description": "Parco della Pellerina",
+   "category": "eventi",
+   "venue": "Parco della Pellerina",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-10-17T00:00:00",
+   "end": "2026-11-01T00:00:00",
+   "all_day": true,
+   "date_confidence": "high",
+   "price": "",
+   "image": "",
+   "fetched_at": "2026-10-10T16:01:18",
+   "id": "e30de55d1c3e80b1"
+  },
+  {
+   "title": "Settimana per la rianimazione cardiopolmonare, a Le Gru laboratori gratuiti sulle manovre salvavita",
+   "source_id": "torinotoday_eventi",
+   "url": "https://www.torinotoday.it/eventi/laboratori-gratuiti-manovre-salvavita-2026-rianimazione.html",
+   "description": "Le Gru",
+   "category": "eventi",
+   "venue": "Le Gru",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-10-17T00:00:00",
+   "end": "2026-10-18T00:00:00",
+   "all_day": true,
+   "date_confidence": "high",
+   "price": "",
+   "image": "",
+   "fetched_at": "2026-10-10T16:01:18",
+   "id": "b97485097be5199e"
   },
   {
    "title": "Letizia Battaglia in mostra a Torino: 200 fotografie raccontano cinquant’anni di storia italiana",
@@ -3710,7 +4432,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/09/letizia-battaglia-mostra-torino-2026-2027-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "ce3099ee93a62ca5"
   },
   {
@@ -3729,7 +4451,7 @@
    "date_confidence": "high",
    "price": "Up to you",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "f067df95d1a73cd1"
   },
   {
@@ -3748,7 +4470,7 @@
    "date_confidence": "high",
    "price": "Entrata libera",
    "image": "https://www.magazzinosulpo.com/wp-content/uploads/2026/10/AFRO-JAM-800x999.jpg",
-   "fetched_at": "2026-10-10T10:53:09",
+   "fetched_at": "2026-10-10T16:01:32",
    "id": "4722cdbc10dd3e58"
   },
   {
@@ -3767,8 +4489,27 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2025/09/laura-pausini-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "dec0b74c72e1e26a"
+  },
+  {
+   "title": "WE GOT VIBE",
+   "source_id": "turinhub",
+   "url": "",
+   "description": "NOTORIUS · DANCEHALL ∙ REGGAE / DANCEHALL ∙ URBAN ∙ CONCERT · Live/Dj set",
+   "category": "concerti",
+   "venue": "NOTORIUS",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-10-17T21:00:00",
+   "end": null,
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Reg €15",
+   "image": "",
+   "fetched_at": "2026-10-10T16:01:27",
+   "id": "2fbaed0171bcb84b"
   },
   {
    "title": "Pre-Party",
@@ -3786,7 +4527,7 @@
    "date_confidence": "high",
    "price": "Free",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "6d72ffd1bb848a3d"
   },
   {
@@ -3805,8 +4546,46 @@
    "date_confidence": "high",
    "price": "Reg €10",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "3c89226e47e44e7b"
+  },
+  {
+   "title": "Le Notti Magiche",
+   "source_id": "turinhub",
+   "url": "",
+   "description": "Mitho · n.d. · Live/Dj set",
+   "category": "concerti",
+   "venue": "Mitho",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-10-17T22:30:00",
+   "end": null,
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Early €15 - Reg €20",
+   "image": "",
+   "fetched_at": "2026-10-10T16:01:27",
+   "id": "dedc689ec9778fff"
+  },
+  {
+   "title": "Da BOUNCEMENT x TEKHOLE",
+   "source_id": "turinhub",
+   "url": "https://xceed.me/en/torino/event/da-bouncement-x-tekhole-dj-robbs-nabba-hellson5-riccardo-imperiale-at-astoria/247616/channel/torino-hub-1",
+   "description": "Astoria Basement · BOUNCE ∙ TRANCE ∙ HARDGROOVE · Dj set",
+   "category": "club",
+   "venue": "Astoria Basement",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-10-17T23:00:00",
+   "end": null,
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Reg €5 (€10 dopo l'01:00)",
+   "image": "",
+   "fetched_at": "2026-10-10T16:01:27",
+   "id": "4b6620b65cb0cce9"
   },
   {
    "title": "Héctor Oaks",
@@ -3824,14 +4603,33 @@
    "date_confidence": "high",
    "price": "Reg €15 (2nd rel €20)",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "d0d6a44e8d88a82b"
+  },
+  {
+   "title": "MIRAGE",
+   "source_id": "turinhub",
+   "url": "",
+   "description": "Centralino · COMMERCIALE · Live/Dj set",
+   "category": "concerti",
+   "venue": "Centralino",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-10-17T23:00:00",
+   "end": null,
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Early €15 - Reg €18",
+   "image": "",
+   "fetched_at": "2026-10-10T16:01:27",
+   "id": "b694760e1d51fca6"
   },
   {
    "title": "Narciss hosted by Ear\\Wax",
    "source_id": "turinhub",
    "url": "https://xceed.me/en/torino/event/narciss-hosted-by-earwax/241425/channel/torino-hub-1",
-   "description": "Azimut · HOUSE ∙ EURODANCE ∙ NU DISCO · Dj set",
+   "description": "Azimut · HOUSE ∙ NU DISCO · Dj set",
    "category": "club",
    "venue": "Azimut",
    "address": "",
@@ -3843,8 +4641,46 @@
    "date_confidence": "high",
    "price": "Early €5 - Reg €10 (€15 dopo l'01:00)",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "97db5cf8bfd88612"
+  },
+  {
+   "title": "PART TIME KILLER for OVER PARTY",
+   "source_id": "turinhub",
+   "url": "https://xceed.me/en/torino/event/part-time-killer-for-over-party/246924/channel/torino-hub-1",
+   "description": "Audiodrome · HARD TECHNO ∙ TECHNO · Dj set",
+   "category": "club",
+   "venue": "Audiodrome",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-10-17T23:00:00",
+   "end": null,
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Early €10 - Reg €20 (W Free entro l'01:00)",
+   "image": "",
+   "fetched_at": "2026-10-10T16:01:27",
+   "id": "4db70adc6891180e"
+  },
+  {
+   "title": "SIAH x Abandoned Factory w/ Danny Wabbit",
+   "source_id": "turinhub",
+   "url": "",
+   "description": "Bunker · TECHNO ∙ UNDERGROUND · Dj set",
+   "category": "club",
+   "venue": "Bunker",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-10-17T23:00:00",
+   "end": null,
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Early €10",
+   "image": "",
+   "fetched_at": "2026-10-10T16:01:27",
+   "id": "b1224eeb1319b173"
   },
   {
    "title": "SpicyTum party – MOU’s birthday",
@@ -3862,8 +4698,122 @@
    "date_confidence": "high",
    "price": "10,00 €",
    "image": "https://www.magazzinosulpo.com/wp-content/uploads/2026/09/INSTAGRAM-final-2.jpg-800x840.jpeg",
-   "fetched_at": "2026-10-10T10:53:09",
+   "fetched_at": "2026-10-10T16:01:32",
    "id": "4850f643450bfc34"
+  },
+  {
+   "title": "DESTINATION OFTHE YEAR",
+   "source_id": "turinhub",
+   "url": "https://xceed.me/en/torino/event/sabato-17-october-destination-ofthe-year-2026-party-nasty-club/247594/channel/torino-hub-1",
+   "description": "Nasty · HITS ∙ REGGAETON ∙ FUNK · Dj set",
+   "category": "club",
+   "venue": "Nasty",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-10-17T23:30:00",
+   "end": null,
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Reg €15 - Erasmus €10 (Free in lista)",
+   "image": "",
+   "fetched_at": "2026-10-10T16:01:27",
+   "id": "5236dd4174197265"
+  },
+  {
+   "title": "Fiesta Posta (festa Latina)",
+   "source_id": "turinhub",
+   "url": "",
+   "description": "Zenit Club · REGGEATON ∙ BACHATA ∙ CUMBIA ∙ LATIN MUSIC · Dj set",
+   "category": "club",
+   "venue": "Zenit Club",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-10-17T23:30:00",
+   "end": null,
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Reg €12",
+   "image": "",
+   "fetched_at": "2026-10-10T16:01:27",
+   "id": "0a5ba3cbc3334450"
+  },
+  {
+   "title": "MATE",
+   "source_id": "turinhub",
+   "url": "",
+   "description": "Gate Club · CUMBIA ∙ LATIN ∙ REGGAETON ∙ INTERNATIONAL · Dj set",
+   "category": "club",
+   "venue": "Gate Club",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-10-17T23:30:00",
+   "end": null,
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Free",
+   "image": "",
+   "fetched_at": "2026-10-10T16:01:27",
+   "id": "f1d541055316fc47"
+  },
+  {
+   "title": "SOCIAL CLUB",
+   "source_id": "turinhub",
+   "url": "",
+   "description": "Bamboo · HIP-HOP ∙ REGGAETON · Dj set",
+   "category": "club",
+   "venue": "Bamboo",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-10-17T23:30:00",
+   "end": null,
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Early €10 - Reg €15 (W Free entro l'01:00)",
+   "image": "",
+   "fetched_at": "2026-10-10T16:01:27",
+   "id": "b427d72558359e8a"
+  },
+  {
+   "title": "INTERNATIONAL CRUSH",
+   "source_id": "turinhub",
+   "url": "",
+   "description": "Milk · HITS ∙ REGGAETON ∙ HIP-HOP ∙ INTERNATIONAL · Dj set",
+   "category": "club",
+   "venue": "Milk",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-10-17T23:45:00",
+   "end": null,
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Early €10 - Reg €25",
+   "image": "",
+   "fetched_at": "2026-10-10T16:01:27",
+   "id": "8fde6e96f6523337"
+  },
+  {
+   "title": "Sextacy pres. ANGELO FERRERI",
+   "source_id": "turinhub",
+   "url": "",
+   "description": "Gianca · Live/Dj set",
+   "category": "concerti",
+   "venue": "Gianca",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-10-17T23:59:00",
+   "end": null,
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Early €10 (W Free)",
+   "image": "",
+   "fetched_at": "2026-10-10T16:01:27",
+   "id": "6fb0a103af576bf1"
   },
   {
    "title": "BUNKER VINYL MARKET – FIERA DEL DISCO E DEL CD – 3a EDIZIONE",
@@ -3881,7 +4831,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://variantebunker.com/wp-content/uploads/2026/09/BUNKER-VINYL-MARKET-Post-Instagram-400x400.png",
-   "fetched_at": "2026-10-10T10:52:56",
+   "fetched_at": "2026-10-10T16:01:21",
    "id": "2ca14ddd8d6499b9"
   },
   {
@@ -3900,7 +4850,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://variantebunker.com/wp-content/uploads/2026/09/COSMIC-BUNKER-DONT-BELIEVE-THE-HYPE-Post-Instagram-Fronte-400x400.png",
-   "fetched_at": "2026-10-10T10:52:56",
+   "fetched_at": "2026-10-10T16:01:21",
    "id": "0293596cb52ad746"
   },
   {
@@ -3919,7 +4869,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://static1.squarespace.com/static/5e7e264530df6e33f115bd43/6818b0163d2e710d25581795/6aa51b26e65c433c116c2ed1/1789205415309/",
-   "fetched_at": "2026-10-10T10:53:02",
+   "fetched_at": "2026-10-10T16:01:28",
    "id": "a66a18f8f43bca0e"
   },
   {
@@ -3938,8 +4888,27 @@
    "date_confidence": "high",
    "price": "Entrata libera",
    "image": "https://www.magazzinosulpo.com/wp-content/uploads/2025/10/18Ottobre_post-800x999.jpg",
-   "fetched_at": "2026-10-10T10:53:09",
+   "fetched_at": "2026-10-10T16:01:32",
    "id": "c3a44619502bf985"
+  },
+  {
+   "title": "SABROSA LATIN PARTY",
+   "source_id": "turinhub",
+   "url": "",
+   "description": "TUXEDO TORINO · LATIN ∙ REGGAETON ∙ ELEGANT ∙ LATINO · Dj set",
+   "category": "club",
+   "venue": "TUXEDO TORINO",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-10-18T19:30:00",
+   "end": null,
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Reg €10",
+   "image": "",
+   "fetched_at": "2026-10-10T16:01:27",
+   "id": "ddb75dcc648f3a04"
   },
   {
    "title": "Radio City DiscoLive",
@@ -3957,7 +4926,7 @@
    "date_confidence": "high",
    "price": "Reg €10",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "d2169da07525c624"
   },
   {
@@ -3976,7 +4945,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://static1.squarespace.com/static/5e7e264530df6e33f115bd43/6818b0163d2e710d25581795/6aa51bac3f879725ec79b161/1789205487687/",
-   "fetched_at": "2026-10-10T10:53:02",
+   "fetched_at": "2026-10-10T16:01:28",
    "id": "c6c48942ad3fe892"
   },
   {
@@ -3995,7 +4964,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/02/mr-rain-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "8b6e7408181d8136"
   },
   {
@@ -4014,7 +4983,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/08/leon-faun-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "4777ddf0b0d8adf5"
   },
   {
@@ -4033,7 +5002,7 @@
    "date_confidence": "high",
    "price": "Tes. Arci",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "ddb40a5197555b0a"
   },
   {
@@ -4052,8 +5021,46 @@
    "date_confidence": "high",
    "price": "Entrata libera",
    "image": "https://www.magazzinosulpo.com/wp-content/uploads/2026/10/20Ottobre_post-800x999.jpg",
-   "fetched_at": "2026-10-10T10:53:09",
+   "fetched_at": "2026-10-10T16:01:32",
    "id": "0db8d32be4ae3315"
+  },
+  {
+   "title": "What’s Jazz",
+   "source_id": "turinhub",
+   "url": "",
+   "description": "One · JAZZ / BLUES · Live music",
+   "category": "concerti",
+   "venue": "One",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-10-20T20:30:00",
+   "end": "2026-10-20T23:59:00",
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Reg €15",
+   "image": "",
+   "fetched_at": "2026-10-10T16:01:27",
+   "id": "0753ae0b98f2e9fe"
+  },
+  {
+   "title": "LOW COST :) - OPENING PARTY",
+   "source_id": "turinhub",
+   "url": "",
+   "description": "Pick Up · DANCE ∙ REGGAETON · Dj set",
+   "category": "club",
+   "venue": "Pick Up",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-10-20T22:30:00",
+   "end": null,
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Free",
+   "image": "",
+   "fetched_at": "2026-10-10T16:01:27",
+   "id": "989e7c020ffdcc17"
   },
   {
    "title": "JAM ON! IL MERCOLEDI'",
@@ -4071,7 +5078,7 @@
    "date_confidence": "high",
    "price": "Free",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "b76c1aebbf6ad8fd"
   },
   {
@@ -4090,7 +5097,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://variantebunker.com/wp-content/uploads/2026/09/coverlg-400x400.jpg",
-   "fetched_at": "2026-10-10T10:52:56",
+   "fetched_at": "2026-10-10T16:01:21",
    "id": "a8d72f4bdf335ec7"
   },
   {
@@ -4109,7 +5116,7 @@
    "date_confidence": "high",
    "price": "Free (€10 dopo 00:30)",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "7658696afa10bb2e"
   },
   {
@@ -4128,7 +5135,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/08/song-dong-mostra-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "8bc0efe4390e4fe4"
   },
   {
@@ -4147,7 +5154,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://static1.squarespace.com/static/5e7e264530df6e33f115bd43/6818b0163d2e710d25581795/6aa51c42a43ba72fc619ca4e/1789205659688/",
-   "fetched_at": "2026-10-10T10:53:02",
+   "fetched_at": "2026-10-10T16:01:28",
    "id": "4093353852d4f0d2"
   },
   {
@@ -4166,8 +5173,27 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/04/rota-dirige-rota-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "aa2b4533aa06fab0"
+  },
+  {
+   "title": "\"The Nerve Gran Cabaret'' at Q35 Warehouse",
+   "source_id": "turinhub",
+   "url": "https://xceed.me/en/torino/event/the-nerve-gran-cabaret-at-q35-warehouse-1/245205/channel/torino-hub-1",
+   "description": "Q35 · POP ∙ NEW WAVE ∙ INTERNATIONAL ∙ LGBTQ+ · Altro",
+   "category": "concerti",
+   "venue": "Q35",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-10-23T21:00:00",
+   "end": null,
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Reg €20",
+   "image": "",
+   "fetched_at": "2026-10-10T16:01:27",
+   "id": "1ea1f78bb2c8e57d"
   },
   {
    "title": "Kappa-O & Virux – open act: Cowboysquad + Fiorello Mannaia",
@@ -4185,7 +5211,7 @@
    "date_confidence": "high",
    "price": "12,00 €",
    "image": "https://www.magazzinosulpo.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-30-at-00.34.59-800x800.jpeg",
-   "fetched_at": "2026-10-10T10:53:09",
+   "fetched_at": "2026-10-10T16:01:32",
    "id": "02adc4ffb55d03c1"
   },
   {
@@ -4204,7 +5230,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "c822576ed1a8859a"
   },
   {
@@ -4223,16 +5249,35 @@
    "date_confidence": "high",
    "price": "Reg €10",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "926ee2aaf60555c4"
   },
   {
-   "title": "\"The Nerve Gran Cabaret''",
+   "title": "Il Salone dell'Aperitivo",
    "source_id": "turinhub",
-   "url": "https://xceed.me/en/torino/event/the-nerve-gran-cabaret-at-q35-warehouse-1/245205/channel/torino-hub-1",
-   "description": "Q35 · POP ∙ NEW WAVE ∙ LGBTQ+ · Dj set",
+   "url": "",
+   "description": "COMBO · NU-DISCO / DISCO ∙ ITALO DISCO ∙ 80S · Altro",
+   "category": "concerti",
+   "venue": "COMBO",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-10-23T22:30:00",
+   "end": null,
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Early €15 - Reg €18",
+   "image": "",
+   "fetched_at": "2026-10-10T16:01:27",
+   "id": "8df167b0fe07827a"
+  },
+  {
+   "title": "GENAU",
+   "source_id": "turinhub",
+   "url": "",
+   "description": "Gianca · TECHNO ∙ UNDERGROUND · Dj set",
    "category": "club",
-   "venue": "Q35",
+   "venue": "Gianca",
    "address": "",
    "lat": null,
    "lon": null,
@@ -4240,10 +5285,48 @@
    "end": null,
    "all_day": false,
    "date_confidence": "high",
-   "price": "Early €10 - Reg €15",
+   "price": "Early €10 - Reg €15 - Uni €10",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
-   "id": "aff87ce406722383"
+   "fetched_at": "2026-10-10T16:01:27",
+   "id": "553136fc949536df"
+  },
+  {
+   "title": "TEKNO MOBIL SQUAD - GHETTO TEK",
+   "source_id": "turinhub",
+   "url": "",
+   "description": "Bunker · TEKNO · Live music",
+   "category": "concerti",
+   "venue": "Bunker",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-10-23T23:00:00",
+   "end": null,
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Reg €10",
+   "image": "",
+   "fetched_at": "2026-10-10T16:01:27",
+   "id": "cee610a6a8c19ca8"
+  },
+  {
+   "title": "Shades",
+   "source_id": "magazzinosulpo",
+   "url": "https://www.magazzinosulpo.com/eventi/shades/",
+   "description": "23 Ottobre ore 23.30",
+   "category": "concerti",
+   "venue": "Magazzino sul Po",
+   "address": "Murazzi del Po Armando Rossi 18/A, Torino",
+   "lat": null,
+   "lon": null,
+   "start": "2026-10-23T23:30:00",
+   "end": null,
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Entrata libera",
+   "image": "https://www.magazzinosulpo.com/wp-content/uploads/2026/10/23Ottobre_post-800x999.jpg",
+   "fetched_at": "2026-10-10T16:01:32",
+   "id": "016437df7b2597db"
   },
   {
    "title": "Spermiagrumi - release party",
@@ -4261,7 +5344,7 @@
    "date_confidence": "high",
    "price": "Up to you",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "9a61b39c854cd9a4"
   },
   {
@@ -4280,7 +5363,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://static1.squarespace.com/static/5e7e264530df6e33f115bd43/6818b0163d2e710d25581795/6aa51ca5db06fe7172222147/1790933961567/",
-   "fetched_at": "2026-10-10T10:53:02",
+   "fetched_at": "2026-10-10T16:01:28",
    "id": "6a76ae05208e476d"
   },
   {
@@ -4299,7 +5382,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/01/hans-zimmer-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "a86a03c017d5dc60"
   },
   {
@@ -4318,7 +5401,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/09/sergio-rubini-teatro-venaria-2026-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "f34ba9ffb4acbb61"
   },
   {
@@ -4337,8 +5420,65 @@
    "date_confidence": "high",
    "price": "Reg €10",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "9a38eea2e695c92d"
+  },
+  {
+   "title": "˗ˏˋ★ IDOLS HALLOWEEN ★ˎˊ˗",
+   "source_id": "turinhub",
+   "url": "",
+   "description": "Cap10100 · THEME PARTY ∙ LIVE SHOW · Live/Dj set",
+   "category": "concerti",
+   "venue": "Cap10100",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-10-24T22:00:00",
+   "end": null,
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Early €11",
+   "image": "",
+   "fetched_at": "2026-10-10T16:01:27",
+   "id": "4ea78b59b4ad11eb"
+  },
+  {
+   "title": "Il Salone dell'Aperitivo",
+   "source_id": "turinhub",
+   "url": "",
+   "description": "COMBO · NU-DISCO / DISCO ∙ ITALO DISCO ∙ 80S · Altro",
+   "category": "concerti",
+   "venue": "COMBO",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-10-24T22:30:00",
+   "end": null,
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Early €15 - Reg €18",
+   "image": "",
+   "fetched_at": "2026-10-10T16:01:27",
+   "id": "8a6208bd85165298"
+  },
+  {
+   "title": "DYKEFLOOR - HALLOWEEN PARTY",
+   "source_id": "turinhub",
+   "url": "",
+   "description": "Zenit Club · POP ∙ HITS ∙ REGGAETON · Dj set",
+   "category": "club",
+   "venue": "Zenit Club",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-10-24T23:00:00",
+   "end": null,
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Reg €12",
+   "image": "",
+   "fetched_at": "2026-10-10T16:01:27",
+   "id": "9270d3a15be09fef"
   },
   {
    "title": "Daniel Avery hosted by Ear\\Wax",
@@ -4356,11 +5496,30 @@
    "date_confidence": "high",
    "price": "Early €10 - Reg €15",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "007f23a3c7355a5f"
   },
   {
-   "title": "JOVYNN for OVER PARTY",
+   "title": "GIANCA & Friends",
+   "source_id": "turinhub",
+   "url": "",
+   "description": "Gianca · TECH HOUSE ∙ TECHNO · Dj set",
+   "category": "club",
+   "venue": "Gianca",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-10-24T23:00:00",
+   "end": null,
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Reg €10 (Free)",
+   "image": "",
+   "fetched_at": "2026-10-10T16:01:27",
+   "id": "3f9c026805a32cfd"
+  },
+  {
+   "title": "JOVYNN for OVER  PARTY",
    "source_id": "turinhub",
    "url": "https://xceed.me/en/torino/event/jovynn-for-over-party/244367/channel/torino-hub-1",
    "description": "Audiodrome · HARD TECHNO ∙ TECHNO · Dj set",
@@ -4373,9 +5532,9 @@
    "end": null,
    "all_day": false,
    "date_confidence": "high",
-   "price": "Reg €10 (W Free entro l'01:00)",
+   "price": "Early €10 (W Free entro l'01:00)",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "aadab122e350c2fd"
   },
   {
@@ -4394,8 +5553,84 @@
    "date_confidence": "high",
    "price": "Reg €10 (€15 dopo l'01:00)",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "7a053e708ba489d4"
+  },
+  {
+   "title": "RUMBLE",
+   "source_id": "turinhub",
+   "url": "https://xceed.me/en/torino/event/rumble-azhar-breez-de-niro-dropfellas-mighty-m-at-astoria/247611/channel/torino-hub-1",
+   "description": "Astoria Basement · DUBSTEP ∙ UNDERGROUND · Dj set",
+   "category": "club",
+   "venue": "Astoria Basement",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-10-24T23:00:00",
+   "end": null,
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Reg €5 (€10 dopo l'01:00)",
+   "image": "",
+   "fetched_at": "2026-10-10T16:01:27",
+   "id": "51056eb422eb861d"
+  },
+  {
+   "title": "VYBZ",
+   "source_id": "turinhub",
+   "url": "",
+   "description": "Centralino · AFROBEATS ∙ AMAPIANO ∙ DANCEHALL ∙ UNDERGROUND · Dj set",
+   "category": "club",
+   "venue": "Centralino",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-10-24T23:00:00",
+   "end": null,
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Reg €15",
+   "image": "",
+   "fetched_at": "2026-10-10T16:01:27",
+   "id": "97d9557d72acd9bc"
+  },
+  {
+   "title": "90 WONDERLAND - SATURDAY",
+   "source_id": "turinhub",
+   "url": "",
+   "description": "One · 90S - 00S · Live/Dj set",
+   "category": "concerti",
+   "venue": "One",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-10-24T23:30:00",
+   "end": null,
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Reg €10",
+   "image": "",
+   "fetched_at": "2026-10-10T16:01:27",
+   "id": "13d9b3ed92a0da60"
+  },
+  {
+   "title": "La Vita a 30 anni | Padel Morning Club",
+   "source_id": "turinhub",
+   "url": "",
+   "description": "PalaVela Torino · 90S - 00S ∙ HITS ∙ CHILL & RELAX · Dj set",
+   "category": "club",
+   "venue": "PalaVela Torino",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-10-25T10:00:00",
+   "end": "2026-10-25T16:00:00",
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Free",
+   "image": "",
+   "fetched_at": "2026-10-10T16:01:27",
+   "id": "468f0a9364a260e0"
   },
   {
    "title": "Sessione d'Urto: Chiaroscuro",
@@ -4413,7 +5648,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://static1.squarespace.com/static/5e7e264530df6e33f115bd43/6818b0163d2e710d25581795/6aa51d04016d40699e8923d0/1790934019031/",
-   "fetched_at": "2026-10-10T10:53:02",
+   "fetched_at": "2026-10-10T16:01:28",
    "id": "9291b83e1d1c2953"
   },
   {
@@ -4432,8 +5667,27 @@
    "date_confidence": "high",
    "price": "Up to you",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "31e9ce5698dd4525"
+  },
+  {
+   "title": "Il Salone dell'Aperitivo",
+   "source_id": "turinhub",
+   "url": "",
+   "description": "COMBO · NU-DISCO / DISCO ∙ ITALO DISCO ∙ 80S · Altro",
+   "category": "concerti",
+   "venue": "COMBO",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-10-25T22:30:00",
+   "end": null,
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Early €15 - Reg €18",
+   "image": "",
+   "fetched_at": "2026-10-10T16:01:27",
+   "id": "71ac48cf1f508fa6"
   },
   {
    "title": "Tintarellanite",
@@ -4451,8 +5705,27 @@
    "date_confidence": "high",
    "price": "Free",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "1f55b9cf7c7747ff"
+  },
+  {
+   "title": "What’s Jazz",
+   "source_id": "turinhub",
+   "url": "",
+   "description": "One · JAZZ / BLUES · Live music",
+   "category": "concerti",
+   "venue": "One",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-10-27T20:30:00",
+   "end": "2026-10-27T23:59:00",
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Reg €15",
+   "image": "",
+   "fetched_at": "2026-10-10T16:01:27",
+   "id": "c1aa50d4c92df1fa"
   },
   {
    "title": "Fiorella Mannoia a Torino con “Fiorella canta Fabrizio e Ivano”: data e biglietti del concerto",
@@ -4470,7 +5743,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/08/fiorella-mannoia-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "fea1cfb9ea75193f"
   },
   {
@@ -4489,7 +5762,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/09/c2c-festival-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "63cff2d9a3a5fde1"
   },
   {
@@ -4508,7 +5781,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/09/flashback-art-fair-2026-torino-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "669497b40542086b"
   },
   {
@@ -4527,7 +5800,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/10/la-vedova-torino-teatro-2026-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "d039b276e9bf9aa6"
   },
   {
@@ -4546,7 +5819,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/10/beppe-braida-piano-b-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "ac2d90a36b0914d7"
   },
   {
@@ -4565,7 +5838,7 @@
    "date_confidence": "high",
    "price": "Free (€10 dopo 00:30)",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "8db36b612bd3cf28"
   },
   {
@@ -4584,7 +5857,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2025/12/artissima-2026-torino-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "abae3077754c6f9a"
   },
   {
@@ -4603,7 +5876,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/08/alberto-savinio-mostra-torino-2026-2027-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "88e7fdd8febc72f3"
   },
   {
@@ -4622,8 +5895,27 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/09/paratissima-2026-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "0955ebe1b8a130f3"
+  },
+  {
+   "title": "IRINA RIMES",
+   "source_id": "turinhub",
+   "url": "",
+   "description": "Q35 · POP ∙ DANCE ∙ INTERNATIONAL ∙ CONCERT · Live music",
+   "category": "concerti",
+   "venue": "Q35",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-10-30T19:00:00",
+   "end": null,
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Reg €50",
+   "image": "",
+   "fetched_at": "2026-10-10T16:01:27",
+   "id": "841e0e92667e7555"
   },
   {
    "title": "Ambra Angiolini a Venaria Reale con “La misteriosa scomparsa di W” di Stefano Benni",
@@ -4641,7 +5933,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/09/ambra-angiolini-venaria-2026-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "7d277544277521ef"
   },
   {
@@ -4660,7 +5952,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2025/05/nino-frassica-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "3f659770e4663f6b"
   },
   {
@@ -4679,8 +5971,27 @@
    "date_confidence": "high",
    "price": "Up to you",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "3a393ca7de76b47c"
+  },
+  {
+   "title": "BRIT supernova",
+   "source_id": "turinhub",
+   "url": "",
+   "description": "Off Topic · INDIE - ROCK ∙ INDIE POP ∙ CONCERT · Live/Dj set",
+   "category": "concerti",
+   "venue": "Off Topic",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-10-30T21:30:00",
+   "end": null,
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Reg €12",
+   "image": "",
+   "fetched_at": "2026-10-10T16:01:27",
+   "id": "4fd80e8f20a07882"
   },
   {
    "title": "Heiser Schrei - Rammstein Tribute Band",
@@ -4698,7 +6009,7 @@
    "date_confidence": "high",
    "price": "Reg €10",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "cdadb0b7029774ac"
   },
   {
@@ -4717,7 +6028,7 @@
    "date_confidence": "high",
    "price": "Early €5 - Reg €10 (€15 dopo l'01:00)",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "ee81fe6a5b1d38fc"
   },
   {
@@ -4736,8 +6047,27 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "87aaf847be778eaf"
+  },
+  {
+   "title": "La Notte fino al Mattino",
+   "source_id": "turinhub",
+   "url": "",
+   "description": "Bunker · TECHNO · Live/Dj set",
+   "category": "concerti",
+   "venue": "Bunker",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-10-30T23:00:00",
+   "end": null,
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Early €10 - Reg €20",
+   "image": "",
+   "fetched_at": "2026-10-10T16:01:27",
+   "id": "dcacb290d61b6536"
   },
   {
    "title": "Afterhours",
@@ -4753,9 +6083,9 @@
    "end": null,
    "all_day": false,
    "date_confidence": "high",
-   "price": "Reg €10",
+   "price": "Early €10 - Reg €15",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "314ea3514eaf4f02"
   },
   {
@@ -4774,7 +6104,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/07/yayoi-kusama-torino-mostra-2026-2027-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "c171f1a121ed7ce2"
   },
   {
@@ -4793,7 +6123,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://static1.squarespace.com/static/5e7e264530df6e33f115bd43/6818b0163d2e710d25581795/6aa51d57f8867c2533241b5b/1789205918259/",
-   "fetched_at": "2026-10-10T10:53:02",
+   "fetched_at": "2026-10-10T16:01:28",
    "id": "93138b23214d9da7"
   },
   {
@@ -4812,7 +6142,7 @@
    "date_confidence": "high",
    "price": "Up to you",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "efc3e5c7d4fe51c8"
   },
   {
@@ -4831,8 +6161,46 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2025/10/fabrizio-moro-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "16bd6712369de668"
+  },
+  {
+   "title": "HELL_O_WEEN",
+   "source_id": "turinhub",
+   "url": "",
+   "description": "Cap10100 · CONCERT ∙ LIVE MUSIC · Live/Dj set",
+   "category": "concerti",
+   "venue": "Cap10100",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-10-31T21:30:00",
+   "end": null,
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Reg €10",
+   "image": "",
+   "fetched_at": "2026-10-10T16:01:27",
+   "id": "b003f0e4295eb887"
+  },
+  {
+   "title": "Halloween Supermarket Crew",
+   "source_id": "turinhub",
+   "url": "",
+   "description": "LE ROI · 90S - 00S ∙ DISCO ∙ ELECTRO · Dj set",
+   "category": "club",
+   "venue": "LE ROI",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-10-31T21:30:00",
+   "end": null,
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Reg €12 (€15 dopo 00:00)",
+   "image": "",
+   "fetched_at": "2026-10-10T16:01:27",
+   "id": "be8a10ca7fd33bb0"
   },
   {
    "title": "Incubo al Castello - Halloween Party in OpenBar",
@@ -4850,7 +6218,7 @@
    "date_confidence": "high",
    "price": "da €30",
    "image": "https://images.xceed.me/events/banners/incubo-al-castello-halloween-party-in-openbar-1-torino-xceed-square-461d.png?w=1920&h=1080&ar=16:9&fm=auto",
-   "fetched_at": "2026-10-10T10:52:58",
+   "fetched_at": "2026-10-10T16:01:22",
    "id": "edb6b9c2cae995e8"
   },
   {
@@ -4869,7 +6237,7 @@
    "date_confidence": "high",
    "price": "Reg €10",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "505c4ba6321da1f5"
   },
   {
@@ -4888,7 +6256,7 @@
    "date_confidence": "high",
    "price": "Reg €20 (€23 dopo 00:30)",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "f656cfc1897be36f"
   },
   {
@@ -4907,7 +6275,7 @@
    "date_confidence": "high",
    "price": "Reg €10 (€15 dopo 00:00)",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "4571c2dfb50339a5"
   },
   {
@@ -4926,8 +6294,27 @@
    "date_confidence": "high",
    "price": "Early €5 - Reg €10 (€15 dopo l'01:00)",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "4798440781d90bfb"
+  },
+  {
+   "title": "LOS DÍAS DE LOS MUERTOS",
+   "source_id": "turinhub",
+   "url": "",
+   "description": "One · HITS ∙ DANCE ∙ REGGAETON ∙ THEME PARTY · Dj set",
+   "category": "club",
+   "venue": "One",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-10-31T23:00:00",
+   "end": null,
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Reg €30",
+   "image": "",
+   "fetched_at": "2026-10-10T16:01:27",
+   "id": "f20f51a6e3f8f39b"
   },
   {
    "title": "R.I.T.E.",
@@ -4945,7 +6332,7 @@
    "date_confidence": "high",
    "price": "Reg €5 (€10 dopo l'01:00)",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "aea1373b3a4b55a3"
   },
   {
@@ -4964,8 +6351,27 @@
    "date_confidence": "high",
    "price": "Early €10 - Reg €15",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "41bd45ab0fb2e74b"
+  },
+  {
+   "title": "Halloween - Brat Party",
+   "source_id": "turinhub",
+   "url": "",
+   "description": "Off Topic · POP ∙ DISCO ∙ ELECTRO · Dj set",
+   "category": "club",
+   "venue": "Off Topic",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-10-31T23:30:00",
+   "end": null,
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Early €12",
+   "image": "",
+   "fetched_at": "2026-10-10T16:01:27",
+   "id": "c33f90b4a5a64879"
   },
   {
    "title": "Mondojuve Horror Village",
@@ -4983,8 +6389,27 @@
    "date_confidence": "high",
    "price": "da €23",
    "image": "https://images.xceed.me/events/banners/mondojuve-horror-village-1-torino-xceed-square-b7b6.png?w=1920&h=1080&ar=16:9&fm=auto",
-   "fetched_at": "2026-10-10T10:52:58",
+   "fetched_at": "2026-10-10T16:01:22",
    "id": "66f3ea7c72926084"
+  },
+  {
+   "title": "Afterhours: Ear\\Wax at Q35 Warehouse",
+   "source_id": "turinhub",
+   "url": "https://xceed.me/en/torino/event/afterhours-earwax-at-q35-warehouse-1/239748/channel/torino-hub-1",
+   "description": "Q35 · EDM ∙ ELECTRO ∙ HOUSE ∙ UNDERGROUND · Dj set",
+   "category": "club",
+   "venue": "Q35",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-11-01T05:00:00",
+   "end": null,
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Reg €10",
+   "image": "",
+   "fetched_at": "2026-10-10T16:01:27",
+   "id": "93cbf4e1451236a3"
   },
   {
    "title": "A Novembre il Treno Storico parte da Torino: viaggio d’altri tempi tra le colline con degustazioni a bordo",
@@ -5002,7 +6427,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/09/treno-storico-torino-canelli-2026-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "38d97515b68b8da8"
   },
   {
@@ -5021,7 +6446,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/02/eleazaro-rossi-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "1ebe45d0a8199b19"
   },
   {
@@ -5040,7 +6465,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/03/willie-peyote-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "4a57326d9f3c2b9a"
   },
   {
@@ -5059,7 +6484,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/06/jimmy-carr-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "eb0d9fe6df391f2c"
   },
   {
@@ -5078,7 +6503,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/03/gloria-musical-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "390615a352f16fd1"
   },
   {
@@ -5097,7 +6522,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/08/anna-castiglia-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "4d64a0fa265ce10e"
   },
   {
@@ -5116,7 +6541,7 @@
    "date_confidence": "high",
    "price": "Free (€10 dopo 00:30)",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "ee4e70cd2e2edb2e"
   },
   {
@@ -5135,7 +6560,7 @@
    "date_confidence": "high",
    "price": "Reg €10",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "6335ce0ed21932e0"
   },
   {
@@ -5154,8 +6579,27 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/02/aiello-venaria-reale-2026-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "7a030b141a886909"
+  },
+  {
+   "title": "Materazi Future",
+   "source_id": "turinhub",
+   "url": "",
+   "description": "Off Topic · INDIE - ROCK ∙ PUNK ∙ ALTERNATIVE · Live music",
+   "category": "concerti",
+   "venue": "Off Topic",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-11-06T21:00:00",
+   "end": null,
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Reg €12",
+   "image": "",
+   "fetched_at": "2026-10-10T16:01:27",
+   "id": "8853bd83ef9d000b"
   },
   {
    "title": "Paolo Vaccaro",
@@ -5173,7 +6617,7 @@
    "date_confidence": "high",
    "price": "Up to you",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "f94b7c8a8c8a8a8c"
   },
   {
@@ -5192,7 +6636,7 @@
    "date_confidence": "high",
    "price": "Early €5 - Reg €10 (€15 dopo l'01:00)",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "4b6f19b8124210b2"
   },
   {
@@ -5211,7 +6655,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "1c7e346a79bf2059"
   },
   {
@@ -5230,8 +6674,27 @@
    "date_confidence": "high",
    "price": "Reg €10",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "63f747ff29a89671"
+  },
+  {
+   "title": "AUDIODROME CLUB w/ ENRICO SANGIULIANO",
+   "source_id": "turinhub",
+   "url": "https://xceed.me/en/torino/event/audiodrome-club-w-enrico-sangiuliano/246069/channel/torino-hub-1",
+   "description": "Audiodrome · INDUSTRIAL ∙ TECHNO ∙ UNDERGROUND · Dj set",
+   "category": "club",
+   "venue": "Audiodrome",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-11-06T23:00:00",
+   "end": null,
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Early €15 - Reg €20",
+   "image": "",
+   "fetched_at": "2026-10-10T16:01:27",
+   "id": "3bde9b2eeb73863e"
   },
   {
    "title": "ENRICO SANGIULIANO",
@@ -5249,8 +6712,27 @@
    "date_confidence": "high",
    "price": "Early €10 - Reg €15",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "12f6f579057b19ca"
+  },
+  {
+   "title": "GENAU",
+   "source_id": "turinhub",
+   "url": "",
+   "description": "Bunker · TECHNO ∙ UNDERGROUND · Dj set",
+   "category": "club",
+   "venue": "Bunker",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-11-06T23:00:00",
+   "end": null,
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Early €10 - Reg €15 - Uni €10",
+   "image": "",
+   "fetched_at": "2026-10-10T16:01:27",
+   "id": "ddbfb14005a58c2c"
   },
   {
    "title": "Il grande rugby torna a Torino con la sfida \"Italia–Sudafrica\" all'Allianz Stadium",
@@ -5268,7 +6750,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/06/italia-sudafrica-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "317001411cabc116"
   },
   {
@@ -5287,7 +6769,7 @@
    "date_confidence": "high",
    "price": "Up to you",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "2501564d8fc863d2"
   },
   {
@@ -5306,7 +6788,7 @@
    "date_confidence": "high",
    "price": "Free",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "d0c2f989e097e797"
   },
   {
@@ -5325,7 +6807,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/02/antonio-ornano-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "25ee0f0459616cde"
   },
   {
@@ -5344,7 +6826,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/05/coez-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "64d41254fff21f1f"
   },
   {
@@ -5363,7 +6845,7 @@
    "date_confidence": "high",
    "price": "Reg €10",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "56b479db74103052"
   },
   {
@@ -5382,7 +6864,7 @@
    "date_confidence": "high",
    "price": "Early €10 - Reg €15",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "9e2e32db0902c7ed"
   },
   {
@@ -5401,8 +6883,27 @@
    "date_confidence": "high",
    "price": "Up to you",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "a6bc8b4de70f7f83"
+  },
+  {
+   "title": "CONNIE DENTICE - NELL'OMBRA",
+   "source_id": "turinhub",
+   "url": "",
+   "description": "Cap10100 · THEATRE & COMEDY · Live/Dj set",
+   "category": "concerti",
+   "venue": "Cap10100",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-11-08T21:00:00",
+   "end": "2026-11-08T22:30:00",
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Early €15",
+   "image": "",
+   "fetched_at": "2026-10-10T16:01:27",
+   "id": "d00405dada890a93"
   },
   {
    "title": "Il Comico - Cremonini Tribute Band",
@@ -5420,7 +6921,7 @@
    "date_confidence": "high",
    "price": "Reg €10",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "b6fdb82971169dde"
   },
   {
@@ -5439,8 +6940,27 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/08/michele-bravi-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "783436b864cca991"
+  },
+  {
+   "title": "VELVET MIDNIGHT",
+   "source_id": "turinhub",
+   "url": "",
+   "description": "One · 70S - 80S ∙ 80'S ∙ 90S - 00S ∙ AFTERWORK · Live/Dj set",
+   "category": "concerti",
+   "venue": "One",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-11-10T21:00:00",
+   "end": null,
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Reg €15",
+   "image": "",
+   "fetched_at": "2026-10-10T16:01:27",
+   "id": "4284cf28f694b2b4"
   },
   {
    "title": "Nitto ATP Finals 2026 a Torino: in vendita i biglietti per gli allenamenti dei campioni",
@@ -5458,8 +6978,27 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/07/nitto-atp-finals-torino-allenamenti-2026-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "f90557a7f9583721"
+  },
+  {
+   "title": "MEYHEM LAUREN live",
+   "source_id": "turinhub",
+   "url": "",
+   "description": "NOTORIUS · HIP-HOP ∙ RAP ∙ FUNK ∙ CONCERT · Live music",
+   "category": "concerti",
+   "venue": "NOTORIUS",
+   "address": "",
+   "lat": null,
+   "lon": null,
+   "start": "2026-11-11T20:00:00",
+   "end": null,
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "Early €10 - Reg €15",
+   "image": "",
+   "fetched_at": "2026-10-10T16:01:27",
+   "id": "68e9d189e83ba1a5"
   },
   {
    "title": "Malika Ayane in concerto a Torino nel 2026 con il nuovo brano “animali notturni”",
@@ -5477,7 +7016,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/02/malika-ayane-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "ab852fb7ac27acd0"
   },
   {
@@ -5496,7 +7035,7 @@
    "date_confidence": "high",
    "price": "Free",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "632b5523b48e90d0"
   },
   {
@@ -5515,7 +7054,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/10/dove-liana-torino-concerto-2026-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "096587493475f68f"
   },
   {
@@ -5534,7 +7073,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/02/steve-hackett-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "889970920899b8ec"
   },
   {
@@ -5553,7 +7092,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/07/grand-opening-atp-finals-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "a4b9e10c860997b2"
   },
   {
@@ -5572,7 +7111,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/01/umberto-galimberti-venaria-reale-2026-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "8583ebf8a2e061d8"
   },
   {
@@ -5591,7 +7130,7 @@
    "date_confidence": "high",
    "price": "Free (€10 dopo 00:30)",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "f0276fe0b8a8c53b"
   },
   {
@@ -5610,7 +7149,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2025/10/francesca-michielin-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "01732d7cffb6299c"
   },
   {
@@ -5629,7 +7168,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "b084f2ff3773be27"
   },
   {
@@ -5648,7 +7187,7 @@
    "date_confidence": "high",
    "price": "Early €5 - Reg €10 (€15 dopo l'01:00)",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "13796bf04d379e06"
   },
   {
@@ -5667,7 +7206,7 @@
    "date_confidence": "high",
    "price": "Free",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "f92ae0ff8469ff71"
   },
   {
@@ -5686,7 +7225,7 @@
    "date_confidence": "high",
    "price": "Up to you",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "7f1921a80767f459"
   },
   {
@@ -5705,7 +7244,7 @@
    "date_confidence": "high",
    "price": "Early €5 - Reg €10 (€15 dopo l'01:00)",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "7cbd2ccbda4756e1"
   },
   {
@@ -5724,7 +7263,7 @@
    "date_confidence": "high",
    "price": "Reg €15 (2nd rel €20)",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "b57535ab3f926db7"
   },
   {
@@ -5743,7 +7282,7 @@
    "date_confidence": "high",
    "price": "Reg €12",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "75603e1d788967c2"
   },
   {
@@ -5762,7 +7301,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2025/11/atp-finals-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "510ba915d0b821e8"
   },
   {
@@ -5781,7 +7320,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/07/fan-village-atp-finals-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "c74de93c3c10e433"
   },
   {
@@ -5800,7 +7339,7 @@
    "date_confidence": "high",
    "price": "Up to you",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "d6dec27b83faf067"
   },
   {
@@ -5819,7 +7358,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/08/michele-zarrillo-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "1ef180db67636c65"
   },
   {
@@ -5838,7 +7377,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/06/pablo-trincia-torino-novembre-2026-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "688f33443c57b21a"
   },
   {
@@ -5857,7 +7396,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/08/mara-sattei-a-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "617e8f020012de29"
   },
   {
@@ -5876,7 +7415,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/09/t-rex-mostra-torino-2026-2027-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "9557deda04532563"
   },
   {
@@ -5895,7 +7434,7 @@
    "date_confidence": "high",
    "price": "Free (€10 dopo 00:30)",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "24804dcb517ae66a"
   },
   {
@@ -5914,7 +7453,7 @@
    "date_confidence": "high",
    "price": "Reg €10",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "cda376067fe110c4"
   },
   {
@@ -5933,7 +7472,7 @@
    "date_confidence": "high",
    "price": "Early €5 - Reg €10 (€15 dopo l'01:00)",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "624e836963ee4ffb"
   },
   {
@@ -5952,7 +7491,7 @@
    "date_confidence": "high",
    "price": "Reg €10",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "2a126243dcdf5f3c"
   },
   {
@@ -5971,7 +7510,7 @@
    "date_confidence": "high",
    "price": "Reg €10",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "a1750c41124c6500"
   },
   {
@@ -5990,7 +7529,7 @@
    "date_confidence": "high",
    "price": "Early €10 - Reg €15",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "3d3927cab13ee138"
   },
   {
@@ -6009,7 +7548,7 @@
    "date_confidence": "high",
    "price": "Early €5 - Reg €10 (€15 dopo l'01:00)",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "a268eb4cf6127eaf"
   },
   {
@@ -6028,7 +7567,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/08/vinicio-capossela-torino-2026-2-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "062866994a58cbc5"
   },
   {
@@ -6047,7 +7586,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/01/torino-film-festival-2026-date-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "5cb9bbf52cad5d51"
   },
   {
@@ -6066,7 +7605,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2025/12/ghemon-nichelino-2026-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "b92e1233fcf52dac"
   },
   {
@@ -6085,7 +7624,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/03/arisa-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "f23799d337537e4a"
   },
   {
@@ -6104,7 +7643,7 @@
    "date_confidence": "high",
    "price": "Free",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "6b49a50ac4340dbf"
   },
   {
@@ -6123,7 +7662,7 @@
    "date_confidence": "high",
    "price": "Free (€10 dopo 00:30)",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "01ba2dd552568f35"
   },
   {
@@ -6142,7 +7681,7 @@
    "date_confidence": "high",
    "price": "Early €5 - Reg €10 (€15 dopo l'01:00)",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "65ae43529ee677e7"
   },
   {
@@ -6161,7 +7700,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "0f828510826d8296"
   },
   {
@@ -6180,7 +7719,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/08/jodokcello-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "3085c355c3c11907"
   },
   {
@@ -6199,7 +7738,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/10/boosta-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "a5674e984b453ecc"
   },
   {
@@ -6218,7 +7757,7 @@
    "date_confidence": "high",
    "price": "Reg €10",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "9c5261282ed01cb1"
   },
   {
@@ -6237,7 +7776,7 @@
    "date_confidence": "high",
    "price": "Reg €10 (€15 dopo 00:00)",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "270b31b1cc85a000"
   },
   {
@@ -6256,7 +7795,7 @@
    "date_confidence": "high",
    "price": "Reg €15 (2nd rel €20)",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "c3631ca67cd7e621"
   },
   {
@@ -6275,7 +7814,7 @@
    "date_confidence": "high",
    "price": "Early €5 - Reg €10 (€15 dopo l'01:00)",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "d512a875eb4746b8"
   },
   {
@@ -6294,7 +7833,7 @@
    "date_confidence": "high",
    "price": "Reg €12",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "9e0387a095034093"
   },
   {
@@ -6313,7 +7852,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/08/alessandro-cattelan-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "4553fbff04cd007f"
   },
   {
@@ -6332,7 +7871,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/06/roberto-bolle-friends-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "737abfea2b1c87de"
   },
   {
@@ -6351,7 +7890,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/04/max-gazze-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "79768ed52155fd49"
   },
   {
@@ -6370,7 +7909,7 @@
    "date_confidence": "high",
    "price": "Free",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "94e50dbcc01bdaf5"
   },
   {
@@ -6389,7 +7928,7 @@
    "date_confidence": "high",
    "price": "Free (€10 dopo 00:30)",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "f6cdd75f8afc3bbf"
   },
   {
@@ -6408,7 +7947,7 @@
    "date_confidence": "high",
    "price": "Reg €10",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "0cf5fe717c9ff2c7"
   },
   {
@@ -6427,7 +7966,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2025/03/notre-dame-paris-torino-2026-2-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "a4523ae754d7487a"
   },
   {
@@ -6446,7 +7985,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "5591da449faffa8b"
   },
   {
@@ -6465,7 +8004,7 @@
    "date_confidence": "high",
    "price": "Early €5 - Reg €10 (€15 dopo l'01:00)",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "0d5c776d6991a72f"
   },
   {
@@ -6484,7 +8023,7 @@
    "date_confidence": "high",
    "price": "Early €5 - Reg €10 (€15 dopo l'01:00)",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "d8c2b9cfc1404fa5"
   },
   {
@@ -6503,7 +8042,7 @@
    "date_confidence": "high",
    "price": "Reg €10",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "db5f6abb49393ef2"
   },
   {
@@ -6522,7 +8061,7 @@
    "date_confidence": "high",
    "price": "Up to you",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "e44fceeb4c50fcbe"
   },
   {
@@ -6541,7 +8080,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/04/maccio-capatonda-torino-2026-spettacolo-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "66ea7347f07559cc"
   },
   {
@@ -6560,7 +8099,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/01/valentina-persia-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "620b4d659a890a7e"
   },
   {
@@ -6579,7 +8118,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/09/cesare-cremonini-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "7373743c19a11b97"
   },
   {
@@ -6598,7 +8137,7 @@
    "date_confidence": "high",
    "price": "Free (€10 dopo 00:30)",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "badbabcbd80a6936"
   },
   {
@@ -6617,7 +8156,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2025/03/katia-follesa-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "81289d736b720b77"
   },
   {
@@ -6636,7 +8175,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "1a9cf3b6f6c16797"
   },
   {
@@ -6655,7 +8194,7 @@
    "date_confidence": "high",
    "price": "Reg €11",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "583aef2327eb4369"
   },
   {
@@ -6674,7 +8213,7 @@
    "date_confidence": "high",
    "price": "Early €10 - Reg €15",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "74c137c525aa8151"
   },
   {
@@ -6693,7 +8232,7 @@
    "date_confidence": "high",
    "price": "Reg €12",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "e36a9aa5dec48cf6"
   },
   {
@@ -6712,7 +8251,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/06/anna-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "5e36a670530b386d"
   },
   {
@@ -6731,7 +8270,7 @@
    "date_confidence": "high",
    "price": "Free",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "9dbcde4e566630c0"
   },
   {
@@ -6750,7 +8289,7 @@
    "date_confidence": "high",
    "price": "Free (€10 dopo 00:30)",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "6c02132b440c240d"
   },
   {
@@ -6769,7 +8308,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/08/neri-marcore-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "3a0cc54a4effc4ef"
   },
   {
@@ -6788,7 +8327,7 @@
    "date_confidence": "high",
    "price": "Early €5 - Reg €10 (€15 dopo l'01:00)",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "ea89f7927c0600d0"
   },
   {
@@ -6807,7 +8346,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2025/09/il-volo-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "15ae05e88d74c942"
   },
   {
@@ -6826,7 +8365,7 @@
    "date_confidence": "high",
    "price": "Early €5 - Reg €10 (€15 dopo l'01:00)",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "2930e38dd05c7c4d"
   },
   {
@@ -6845,7 +8384,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/08/irama-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "be0d6f1f7fff6f14"
   },
   {
@@ -6864,7 +8403,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/08/pacifico-torino-2026-omaggio-vanoni-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "a1e1e909a46d68fb"
   },
   {
@@ -6883,7 +8422,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/07/arturo-brachetti-torino-2026-2027-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "d594cfe286175674"
   },
   {
@@ -6902,7 +8441,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/08/forbici-follia-torino-2026-2027-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "564f5a14c577c750"
   },
   {
@@ -6921,7 +8460,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2025/07/gigi-alessio-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "8775ac2ba0b1a70a"
   },
   {
@@ -6940,7 +8479,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/01/alla-scoperta-morricone-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "01139b11f8160332"
   },
   {
@@ -6959,7 +8498,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/08/shen-yun-torino-2027-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "e27592b0bf3e5b34"
   },
   {
@@ -6978,7 +8517,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/08/fabio-concato-torino-2027-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "b5f755fca50dce09"
   },
   {
@@ -6997,7 +8536,7 @@
    "date_confidence": "high",
    "price": "Reg €20",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "a8c9ba243b4fdb48"
   },
   {
@@ -7016,7 +8555,7 @@
    "date_confidence": "high",
    "price": "Reg €15 (2nd rel €20)",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "cfad313790889fe5"
   },
   {
@@ -7035,7 +8574,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/08/tosca-torino-2027-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "91468508dc11fde2"
   },
   {
@@ -7054,7 +8593,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/06/enrico-brignano-torino-2027-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "66828efcc8131969"
   },
   {
@@ -7073,7 +8612,7 @@
    "date_confidence": "high",
    "price": "Early €5 - Reg €10 (€15 dopo l'01:00)",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "42b7cc5993430b4b"
   },
   {
@@ -7092,7 +8631,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/02/massimo-ranieri-torino-2027-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "46784d9e4fe80f60"
   },
   {
@@ -7111,7 +8650,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/06/angelo-pintus-torino-2027-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "a8c13970a818e343"
   },
   {
@@ -7130,7 +8669,7 @@
    "date_confidence": "high",
    "price": "Reg €15 (2nd rel €20)",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "4478c4ef73ecdee1"
   },
   {
@@ -7149,7 +8688,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/08/eugenio-finardi-torino-2027-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "d816f03d936d77cc"
   },
   {
@@ -7168,7 +8707,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/06/tedua-torino-2027-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "9300da36ae83ef55"
   },
   {
@@ -7187,7 +8726,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/07/sfera-ebbasta-torino-2027-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "f85f7dc2e5101edb"
   },
   {
@@ -7206,7 +8745,7 @@
    "date_confidence": "high",
    "price": "Reg €10",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "ed41439af7d26e05"
   },
   {
@@ -7225,7 +8764,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/05/afterhours-torino-2027-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "1231488c5f916574"
   },
   {
@@ -7244,7 +8783,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/05/cioccolato-2027-torino-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "7c196ade86ad19d0"
   },
   {
@@ -7263,7 +8802,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/08/aldo-cazzullo-torino-2027-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "df475db0768dfbba"
   },
   {
@@ -7282,7 +8821,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/05/luca-ravenna-torino-2027-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "cf596cee1ba56b5f"
   },
   {
@@ -7301,7 +8840,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/08/virginia-raffaele-torino-2027-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "1235c41726d98040"
   },
   {
@@ -7320,7 +8859,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/06/gabry-ponte-torino-2027-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "9afd9c7610df59c2"
   },
   {
@@ -7339,7 +8878,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/06/max-pezzali-torino-2027-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "648b5fda3e2c5444"
   },
   {
@@ -7358,7 +8897,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/09/antonello-venditti-torino-2027-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "a13fd272dbe81ec4"
   },
   {
@@ -7377,7 +8916,7 @@
    "date_confidence": "high",
    "price": "Early €5 - Reg €10 (€15 dopo l'01:00)",
    "image": "",
-   "fetched_at": "2026-10-10T10:53:01",
+   "fetched_at": "2026-10-10T16:01:27",
    "id": "d4d99633fb5de967"
   },
   {
@@ -7396,7 +8935,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/08/gianna-nannini-torino-2027-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "44636aa16491fbe3"
   },
   {
@@ -7415,7 +8954,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/08/roberto-saviano-torino-2027-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "68d2f25fa12a8e60"
   },
   {
@@ -7434,7 +8973,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/02/francesco-renga-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "6660d38799ef26d7"
   },
   {
@@ -7453,7 +8992,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/07/masters-of-magic-torino-2027-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "2ffdbfd8e237ee15"
   },
   {
@@ -7472,7 +9011,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/06/eros-ramazzotti-torino-2027-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "45c39690813ea234"
   },
   {
@@ -7491,7 +9030,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/03/pinguini-tattici-nucleari-torino-2027-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "b5891910ef1b75c8"
   },
   {
@@ -7510,7 +9049,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/06/olly-torino-2027-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "3dee5bb54fa0a1fe"
   },
   {
@@ -7529,7 +9068,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/08/europride-2027-torino-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "ddd17bc55b34ad9c"
   },
   {
@@ -7548,7 +9087,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/03/achille-lauro-torino-2027-stadio-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "9b81f113fd1f6ec5"
   },
   {
@@ -7567,7 +9106,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/07/kappa-futurfestival-2027-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "de642e8247bfe7b4"
   },
   {
@@ -7586,7 +9125,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/07/ultimo-torino-2027-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "a7356810c0d3a711"
   },
   {
@@ -7605,7 +9144,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2025/12/claudio-baglioni-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "6232cec2d3bdb6ea"
   },
   {
@@ -7624,7 +9163,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/09/alfa-torino-2027-226x143.webp",
-   "fetched_at": "2026-10-10T10:52:55",
+   "fetched_at": "2026-10-10T16:01:20",
    "id": "4d161bbe8741245e"
   }
  ]
