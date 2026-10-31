@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T15:55:11",
+ "generated_at": "2026-10-31T20:21:47",
  "city": "Torino",
  "sources": [
   {
@@ -100,7 +100,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-10-31T15:54:53",
+   "fetched_at": "2026-10-31T20:21:31",
    "id": "d1a23ea66c2dc2c5"
   },
   {
@@ -119,7 +119,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-10-31T15:54:53",
+   "fetched_at": "2026-10-31T20:21:31",
    "id": "49347f61aed6d132"
   },
   {
@@ -138,7 +138,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-10-31T15:54:53",
+   "fetched_at": "2026-10-31T20:21:31",
    "id": "c8e6001cc93ec2b2"
   },
   {
@@ -157,7 +157,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-10-31T15:54:53",
+   "fetched_at": "2026-10-31T20:21:31",
    "id": "5ab64cae1f44fbaf"
   },
   {
@@ -176,7 +176,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/04/gusto-della-storia-mostra-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "b308ef58cf247ebe"
   },
   {
@@ -195,7 +195,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-10-31T15:54:53",
+   "fetched_at": "2026-10-31T20:21:31",
    "id": "d9e3ab7bb50ddeee"
   },
   {
@@ -214,7 +214,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-10-31T15:54:53",
+   "fetched_at": "2026-10-31T20:21:31",
    "id": "5b2dc06c34fc296f"
   },
   {
@@ -233,7 +233,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-10-31T15:54:53",
+   "fetched_at": "2026-10-31T20:21:31",
    "id": "945e9382efb537ab"
   },
   {
@@ -252,7 +252,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/05/altro-novecento-mostra-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "066aac68a5656943"
   },
   {
@@ -271,7 +271,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/06/estate-reale-2026-torino-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "b692fd918198c13b"
   },
   {
@@ -290,7 +290,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/06/hiroshige-mostra-torino-2026-2-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "64a30c506fb6b8b4"
   },
   {
@@ -309,7 +309,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/01/onde-2026-concerti-ingressi-gratuiti-museo-egizio-torino-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "59d8be0edf79f0b9"
   },
   {
@@ -328,7 +328,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/08/fan-ho-mostra-torino-2026-2027-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "abc5690a7bb9528c"
   },
   {
@@ -347,7 +347,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/09/star-trek-60-mostra-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "bc4a3da5bb530f70"
   },
   {
@@ -366,7 +366,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/08/gillo-pontecorvo-mostra-torino-2026-2027-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "f90f6338e785a1d9"
   },
   {
@@ -385,7 +385,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-10-31T15:54:53",
+   "fetched_at": "2026-10-31T20:21:31",
    "id": "b4bfe155c04a2628"
   },
   {
@@ -404,7 +404,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-10-31T15:54:53",
+   "fetched_at": "2026-10-31T20:21:31",
    "id": "1718210a2a107a01"
   },
   {
@@ -423,7 +423,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/09/world-press-photo-2026-torino-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "796512f75b755280"
   },
   {
@@ -442,7 +442,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/08/caveau-mostra-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "d8c99ee45e8d2086"
   },
   {
@@ -461,7 +461,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/09/campo-zucche-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "bcb196572a37c774"
   },
   {
@@ -480,7 +480,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-10-31T15:54:53",
+   "fetched_at": "2026-10-31T20:21:31",
    "id": "bc071301144fa6e0"
   },
   {
@@ -499,7 +499,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:07",
+   "fetched_at": "2026-10-31T20:21:44",
    "id": "e1eadffe8107e418"
   },
   {
@@ -518,7 +518,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/08/atelier-moderni-mostra-venaria-2026-2027-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "5a4c4ebae9e1a8f8"
   },
   {
@@ -537,27 +537,8 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/10/cento-anni-di-connessioni-mostra-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "a02d28be196fdd39"
-  },
-  {
-   "title": "A Ottobre la Palazzina di Caccia di Stupinigi riapre le porte dei suoi spazi segreti",
-   "source_id": "guidatorino_eventi_html",
-   "url": "https://www.guidatorino.com/eventi-torino/palazzina-caccia-stupinigi-spazi-segreti-ottobre-2026/",
-   "description": "Palazzina di Caccia di Stupinigi · Piazza Principe Amedeo 7 Stupinigi · Cultura, Mostre",
-   "category": "eventi",
-   "venue": "Palazzina di Caccia di Stupinigi",
-   "address": "Piazza Principe Amedeo 7 Stupinigi",
-   "lat": null,
-   "lon": null,
-   "start": "2026-10-03T10:30:00",
-   "end": "2026-10-31T00:00:00",
-   "all_day": false,
-   "date_confidence": "high",
-   "price": "",
-   "image": "https://www.guidatorino.com/wp-content/uploads/2026/09/palazzina-caccia-stupinigi-spazi-segreti-ottobre-2026-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
-   "id": "19ee328b012e8a05"
   },
   {
    "title": "Il Luna Park di Torino torna alla Pellerina tra giostre ed eventi speciali",
@@ -575,7 +556,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/10/luna-park-torino-autunno-2026-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "2862c48e3d7b862e"
   },
   {
@@ -594,7 +575,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/09/lu-santo-jullare-francesco-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "ab76d9cc1d162684"
   },
   {
@@ -613,7 +594,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:07",
+   "fetched_at": "2026-10-31T20:21:44",
    "id": "02f78d150a8df52d"
   },
   {
@@ -632,7 +613,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/10/jessica-lange-mostra-torino-2026-2027-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "aded42befe061bca"
   },
   {
@@ -651,7 +632,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/10/palavela-on-ice-torino-2026-2027-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "b667f4767bd53a5a"
   },
   {
@@ -670,7 +651,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-10-31T15:54:53",
+   "fetched_at": "2026-10-31T20:21:31",
    "id": "9e187754a7f3996f"
   },
   {
@@ -689,7 +670,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-10-31T15:54:53",
+   "fetched_at": "2026-10-31T20:21:31",
    "id": "bb2e5549d6bf3521"
   },
   {
@@ -708,7 +689,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/09/treno-foliage-2026-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "ae9622b72d156301"
   },
   {
@@ -727,7 +708,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/10/fiera-tartufo-bianco-alba-2026-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "f5a092f26433ed26"
   },
   {
@@ -746,7 +727,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/10/corpo-citta-mostra-torino-2026-2027-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "9594cbb8dc08db87"
   },
   {
@@ -765,7 +746,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:07",
+   "fetched_at": "2026-10-31T20:21:44",
    "id": "1dd18aa9430416d2"
   },
   {
@@ -784,7 +765,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/08/gravity-the-show-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "d1fea83ed4bc2dc7"
   },
   {
@@ -803,7 +784,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-10-31T15:54:53",
+   "fetched_at": "2026-10-31T20:21:31",
    "id": "9c3785a7a5f9577b"
   },
   {
@@ -822,7 +803,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-10-31T15:54:53",
+   "fetched_at": "2026-10-31T20:21:31",
    "id": "449c83f97ff2b3b4"
   },
   {
@@ -841,7 +822,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:07",
+   "fetched_at": "2026-10-31T20:21:44",
    "id": "94a86fbb995c137a"
   },
   {
@@ -860,7 +841,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-10-31T15:54:53",
+   "fetched_at": "2026-10-31T20:21:31",
    "id": "e30de55d1c3e80b1"
   },
   {
@@ -879,7 +860,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-10-31T15:54:53",
+   "fetched_at": "2026-10-31T20:21:31",
    "id": "859dfe68ec5571ee"
   },
   {
@@ -898,7 +879,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/09/letizia-battaglia-mostra-torino-2026-2027-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "ce3099ee93a62ca5"
   },
   {
@@ -917,7 +898,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/10/oktoberfest-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "7ff36d31ee123fbb"
   },
   {
@@ -936,7 +917,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-10-31T15:54:53",
+   "fetched_at": "2026-10-31T20:21:31",
    "id": "3b716de594593a0d"
   },
   {
@@ -955,7 +936,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-10-31T15:54:53",
+   "fetched_at": "2026-10-31T20:21:31",
    "id": "de199051997739f7"
   },
   {
@@ -974,7 +955,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-10-31T15:54:53",
+   "fetched_at": "2026-10-31T20:21:31",
    "id": "dde1b4e15521b23b"
   },
   {
@@ -993,7 +974,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:07",
+   "fetched_at": "2026-10-31T20:21:44",
    "id": "7c9ffb743725bd7d"
   },
   {
@@ -1012,7 +993,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/10/verdi-mostra-torino-2026-2027-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "7a221fb185e0dbb9"
   },
   {
@@ -1031,7 +1012,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/10/scena-aperta-teatro-carignano-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "f009f291a7c3a5ac"
   },
   {
@@ -1050,7 +1031,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/08/song-dong-mostra-torino-2026-1-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "9058f2c30c4a92f5"
   },
   {
@@ -1069,7 +1050,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/10/luci-artista-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "7e76c5923a9546df"
   },
   {
@@ -1088,27 +1069,8 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-10-31T15:54:53",
+   "fetched_at": "2026-10-31T20:21:31",
    "id": "3329f73229a9e1a9"
-  },
-  {
-   "title": "Apertura eccezionale dell'Archivio di Stato di Torino: a ottobre tornano le visite guidate gratuite",
-   "source_id": "guidatorino_eventi_html",
-   "url": "https://www.guidatorino.com/eventi-torino/archivio-stato-torino-visite-gratuite-ottobre-2026/",
-   "description": "Sezioni Riunite · via Carlo Ignazio Giulio 25/a Torino · Cultura, Eventi Gratis",
-   "category": "eventi",
-   "venue": "Sezioni Riunite",
-   "address": "via Carlo Ignazio Giulio 25/a Torino",
-   "lat": null,
-   "lon": null,
-   "start": "2026-10-24T17:00:00",
-   "end": "2026-10-31T00:00:00",
-   "all_day": false,
-   "date_confidence": "high",
-   "price": "",
-   "image": "https://www.guidatorino.com/wp-content/uploads/2026/10/archivio-stato-torino-visite-gratuite-ottobre-2026-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
-   "id": "7d8c8c3e90f9429e"
   },
   {
    "title": "In scena a Torino \"Le ultime lune\"",
@@ -1126,7 +1088,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:07",
+   "fetched_at": "2026-10-31T20:21:44",
    "id": "c8ecc422744d0ad3"
   },
   {
@@ -1145,7 +1107,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-10-31T15:54:53",
+   "fetched_at": "2026-10-31T20:21:31",
    "id": "fc62da09f4d38a0d"
   },
   {
@@ -1164,7 +1126,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/10/giorgio-de-chirico-mostra-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "3d6ccf217f72e0b8"
   },
   {
@@ -1183,7 +1145,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/10/apart-fair-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "a786e256ce766517"
   },
   {
@@ -1202,7 +1164,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/10/prima-del-sipario-mostra-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "b0a04041937b4e01"
   },
   {
@@ -1221,7 +1183,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/09/c2c-festival-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "63cff2d9a3a5fde1"
   },
   {
@@ -1240,7 +1202,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:07",
+   "fetched_at": "2026-10-31T20:21:44",
    "id": "c2b9a37b40950fbe"
   },
   {
@@ -1259,7 +1221,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:07",
+   "fetched_at": "2026-10-31T20:21:44",
    "id": "b4438567d9553773"
   },
   {
@@ -1278,7 +1240,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/09/flashback-art-fair-2026-torino-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "669497b40542086b"
   },
   {
@@ -1297,7 +1259,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:07",
+   "fetched_at": "2026-10-31T20:21:44",
    "id": "a019ae96daa834cd"
   },
   {
@@ -1316,7 +1278,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/10/campionati-europei-majorette-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "27a09d02aab1f95a"
   },
   {
@@ -1335,7 +1297,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/10/artissima-progetti-speciali-citta-2026-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "ea81945d5594750a"
   },
   {
@@ -1354,7 +1316,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/10/marisa-merz-mostra-torino-2026-2027-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "7184497988c9de4c"
   },
   {
@@ -1373,7 +1335,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/10/the-others-art-fair-2026-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "f1242bc6e6a7c216"
   },
   {
@@ -1392,7 +1354,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/10/la-vedova-torino-teatro-2026-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "d039b276e9bf9aa6"
   },
   {
@@ -1411,7 +1373,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:07",
+   "fetched_at": "2026-10-31T20:21:44",
    "id": "f8a92278c43e454e"
   },
   {
@@ -1430,7 +1392,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-10-31T15:54:53",
+   "fetched_at": "2026-10-31T20:21:31",
    "id": "edbc22702f467485"
   },
   {
@@ -1449,7 +1411,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:07",
+   "fetched_at": "2026-10-31T20:21:44",
    "id": "5b37ecf8b831a6fb"
   },
   {
@@ -1468,7 +1430,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-10-31T15:54:53",
+   "fetched_at": "2026-10-31T20:21:31",
    "id": "956ecbd2b9a22082"
   },
   {
@@ -1487,7 +1449,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2025/12/artissima-2026-torino-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "abae3077754c6f9a"
   },
   {
@@ -1506,7 +1468,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "/images/logo_bobobo_16x16.png",
-   "fetched_at": "2026-10-31T15:55:07",
+   "fetched_at": "2026-10-31T20:21:44",
    "id": "5a975f44222a26bc"
   },
   {
@@ -1525,7 +1487,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-10-31T15:54:53",
+   "fetched_at": "2026-10-31T20:21:31",
    "id": "218302c3ca3c16d6"
   },
   {
@@ -1544,7 +1506,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-10-31T15:54:53",
+   "fetched_at": "2026-10-31T20:21:31",
    "id": "0788450cc54923a8"
   },
   {
@@ -1563,7 +1525,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/08/alberto-savinio-mostra-torino-2026-2027-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "88e7fdd8febc72f3"
   },
   {
@@ -1582,7 +1544,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/10/altissime-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "13bfc84bb4591a26"
   },
   {
@@ -1601,7 +1563,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/09/paratissima-2026-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "0955ebe1b8a130f3"
   },
   {
@@ -1620,7 +1582,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/10/umbertissima-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "ca1b19a571d172f8"
   },
   {
@@ -1639,7 +1601,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/10/peccati-gola-mondovi-2026-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "30d30482ebce43a0"
   },
   {
@@ -1658,7 +1620,7 @@
    "date_confidence": "high",
    "price": "12,00 €",
    "image": "https://www.magazzinosulpo.com/wp-content/uploads/2026/10/30Ottobre_post-800x999.jpg",
-   "fetched_at": "2026-10-31T15:55:11",
+   "fetched_at": "2026-10-31T20:21:47",
    "id": "4548c72b8b04f012"
   },
   {
@@ -1677,7 +1639,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/10/suoni-futuro-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "c5aba2efa0445431"
   },
   {
@@ -1694,9 +1656,9 @@
    "end": null,
    "all_day": false,
    "date_confidence": "high",
-   "price": "15,00 €",
+   "price": "20,00 €",
    "image": "https://www.magazzinosulpo.com/wp-content/uploads/2025/10/SnapInsta.to_841844883_17996282946042150_7245797740469790710_n-798x999.jpg",
-   "fetched_at": "2026-10-31T15:55:11",
+   "fetched_at": "2026-10-31T20:21:47",
    "id": "3cb529b81d4eb131"
   },
   {
@@ -1715,7 +1677,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://citynews-torinotoday.stgy.ovh/~media/horizontal-mid/45761685463468/halloween-to-dream.jpg",
-   "fetched_at": "2026-10-31T15:54:53",
+   "fetched_at": "2026-10-31T20:21:31",
    "id": "39719b8af40170ff"
   },
   {
@@ -1734,7 +1696,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:07",
+   "fetched_at": "2026-10-31T20:21:44",
    "id": "50d0a0483bc3664d"
   },
   {
@@ -1753,7 +1715,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:07",
+   "fetched_at": "2026-10-31T20:21:44",
    "id": "f3bd25b0486d6a85"
   },
   {
@@ -1772,7 +1734,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:07",
+   "fetched_at": "2026-10-31T20:21:44",
    "id": "a42dc03a8d9af672"
   },
   {
@@ -1791,7 +1753,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://citynews-torinotoday.stgy.ovh/~media/horizontal-mid/42157336158177/halloween-le-gru.jpg",
-   "fetched_at": "2026-10-31T15:54:53",
+   "fetched_at": "2026-10-31T20:21:31",
    "id": "b4528a093cc3a8d1"
   },
   {
@@ -1810,7 +1772,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:07",
+   "fetched_at": "2026-10-31T20:21:44",
    "id": "1f658944a72b7ecd"
   },
   {
@@ -1829,7 +1791,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/10/mind-your-brain-mostra-ogr-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "85d09db32fe21323"
   },
   {
@@ -1848,7 +1810,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-10-31T15:54:53",
+   "fetched_at": "2026-10-31T20:21:31",
    "id": "dba16b1437b8fad0"
   },
   {
@@ -1867,7 +1829,7 @@
    "date_confidence": "high",
    "price": "Free",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "dd3e0e3e17c3b73d"
   },
   {
@@ -1886,7 +1848,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2022/10/sagre-torino-piemonte-weekend-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "ff3fc6c9cdb7c545"
   },
   {
@@ -1905,7 +1867,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/07/yayoi-kusama-torino-mostra-2026-2027-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "3180c858c26e4748"
   },
   {
@@ -1924,7 +1886,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2023/03/eventi-gratis-weekend-torino-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "84ebeaf1a061bf18"
   },
   {
@@ -1943,7 +1905,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/10/sagra-melemiele-baveno-2026-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "7dcecf897bc28d95"
   },
   {
@@ -1962,7 +1924,7 @@
    "date_confidence": "high",
    "price": "Reg €26,50",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "4f3d94a7aaee03bd"
   },
   {
@@ -1981,27 +1943,8 @@
    "date_confidence": "high",
    "price": "Free",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "993cb1ae986b5f6a"
-  },
-  {
-   "title": "Halloween Spooky Lab a Torino: laboratori in inglese per bambini da The Place",
-   "source_id": "guidatorino_eventi_html",
-   "url": "https://www.guidatorino.com/eventi-torino/halloween-spooky-torino-2026/",
-   "description": "The Place · Via Ermanno Fenoglietti, 20 Torino · Bambini",
-   "category": "workshop",
-   "venue": "The Place",
-   "address": "Via Ermanno Fenoglietti, 20 Torino",
-   "lat": null,
-   "lon": null,
-   "start": "2026-10-31T15:00:00",
-   "end": null,
-   "all_day": false,
-   "date_confidence": "high",
-   "price": "",
-   "image": "https://www.guidatorino.com/wp-content/uploads/2026/10/halloween-spooky-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
-   "id": "619996278bd1304c"
   },
   {
    "title": "Apertura Porfido",
@@ -2019,27 +1962,8 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://gancio.cisti.org/media/bf333fae9307656daadfdf8783d06c65.jpg",
-   "fetched_at": "2026-10-31T15:54:59",
+   "fetched_at": "2026-10-31T20:21:37",
    "id": "c036a95cd2a02808"
-  },
-  {
-   "title": "Concerto Gratuito alla Chiesa di San Giovanni Evangelista di Torino con il Coro Musicaviva",
-   "source_id": "guidatorino_eventi_html",
-   "url": "https://www.guidatorino.com/eventi-torino/concerto-gratuito-alla-chiesa-di-san-giovanni-evangelista-di-torino-con-il-coro-musicaviva/",
-   "description": "Chiesa di San Giovanni Evangelista · C.so Vittorio Emanuele II, 15 10125 · Concerti, Eventi Gratis",
-   "category": "concerti",
-   "venue": "Chiesa di San Giovanni Evangelista",
-   "address": "C.so Vittorio Emanuele II, 15 10125",
-   "lat": null,
-   "lon": null,
-   "start": "2026-10-31T16:00:00",
-   "end": null,
-   "all_day": false,
-   "date_confidence": "high",
-   "price": "",
-   "image": "https://www.guidatorino.com/wp-content/uploads/2026/10/concerto-gratuito-chiesa-torino-ottobre-2026-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
-   "id": "9838b7d299a732d8"
   },
   {
    "title": "The Cloud Archive: Makoto Sakamoto + Acrartep",
@@ -2057,7 +1981,7 @@
    "date_confidence": "high",
    "price": "Free",
    "image": "https://static1.squarespace.com/static/5e7e264530df6e33f115bd43/6818b0163d2e710d25581795/6aa51d57f8867c2533241b5b/1789205918259/",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "93138b23214d9da7"
   },
   {
@@ -2076,7 +2000,7 @@
    "date_confidence": "high",
    "price": "Reg €72",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "957a9ac7b89a4bca"
   },
   {
@@ -2095,7 +2019,7 @@
    "date_confidence": "high",
    "price": "Up to you",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "efc3e5c7d4fe51c8"
   },
   {
@@ -2114,7 +2038,7 @@
    "date_confidence": "high",
    "price": "Tes. Arci + Up to you",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "2d1cab59bcf56080"
   },
   {
@@ -2133,7 +2057,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://gancio.cisti.org/media/1385a864e930c6184f8a609351efab88.jpg",
-   "fetched_at": "2026-10-31T15:54:59",
+   "fetched_at": "2026-10-31T20:21:37",
    "id": "91e25bef5901aab4"
   },
   {
@@ -2152,7 +2076,7 @@
    "date_confidence": "high",
    "price": "Reg €20",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "14a53d2432b79359"
   },
   {
@@ -2171,7 +2095,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/10/notte-arti-contemporanee-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "2e709b5882335580"
   },
   {
@@ -2190,7 +2114,7 @@
    "date_confidence": "high",
    "price": "Reg €40",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "efb121e4f1ab0327"
   },
   {
@@ -2209,7 +2133,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "b15bd7f60f0d6d98"
   },
   {
@@ -2228,27 +2152,8 @@
    "date_confidence": "high",
    "price": "Free entro 00:00",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "ce32c62dca4529ab"
-  },
-  {
-   "title": "Halloween Gala alla Reggia di Venaria: torna la grande festa in costume nella residenza reale",
-   "source_id": "guidatorino_eventi_html",
-   "url": "https://www.guidatorino.com/eventi-torino/halloween-gala-reggia-venaria-2026/",
-   "description": "Reggia di Venaria Reale · Piazza della Repubblica, 4 Venaria Reale · Divertimento",
-   "category": "musei",
-   "venue": "Reggia di Venaria Reale",
-   "address": "Piazza della Repubblica, 4 Venaria Reale",
-   "lat": null,
-   "lon": null,
-   "start": "2026-10-31T20:00:00",
-   "end": null,
-   "all_day": false,
-   "date_confidence": "high",
-   "price": "",
-   "image": "https://www.guidatorino.com/wp-content/uploads/2026/10/halloween-gala-reggia-venaria-2026-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
-   "id": "93ced02c3e6025e6"
   },
   {
    "title": "BLUE GROOVE - HALLOWEEN PARTY",
@@ -2266,7 +2171,7 @@
    "date_confidence": "high",
    "price": "da €30",
    "image": "https://images.xceed.me/events/banners/halloween-party-blue-groove-torino-xceed-square-6178.png?w=1920&h=1080&ar=16:9&fm=auto",
-   "fetched_at": "2026-10-31T15:54:57",
+   "fetched_at": "2026-10-31T20:21:35",
    "id": "23f4f80e1d182a6d"
   },
   {
@@ -2285,7 +2190,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2025/10/fabrizio-moro-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "16bd6712369de668"
   },
   {
@@ -2304,7 +2209,7 @@
    "date_confidence": "high",
    "price": "W €13 - M €15 entro 00:00",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "02f2b3f697641989"
   },
   {
@@ -2323,7 +2228,7 @@
    "date_confidence": "high",
    "price": "Reg €10",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "3185bb24869ee9ee"
   },
   {
@@ -2342,7 +2247,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://gancio.cisti.org/media/85136ca1e2f0ac58d124154520b5fa8e.jpg",
-   "fetched_at": "2026-10-31T15:54:59",
+   "fetched_at": "2026-10-31T20:21:37",
    "id": "290155696aa57522"
   },
   {
@@ -2361,7 +2266,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "a389709d2e2cac63"
   },
   {
@@ -2380,7 +2285,7 @@
    "date_confidence": "high",
    "price": "Early €13",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "6697d00999b98928"
   },
   {
@@ -2399,7 +2304,7 @@
    "date_confidence": "high",
    "price": "Reg €12",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "2cab6991ee16d574"
   },
   {
@@ -2418,7 +2323,7 @@
    "date_confidence": "high",
    "price": "Reg €15",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "be8a10ca7fd33bb0"
   },
   {
@@ -2437,7 +2342,7 @@
    "date_confidence": "high",
    "price": "Tes. Arci + €12",
    "image": "https://www.magazzinosulpo.com/wp-content/uploads/2025/10/SnapInsta.to_861754535_18178041229449370_1932418365726702134_n-800x999.jpg",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "bfca67a18a8947a4"
   },
   {
@@ -2456,7 +2361,7 @@
    "date_confidence": "high",
    "price": "Reg €15",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "49c37d58c9aa91f0"
   },
   {
@@ -2475,7 +2380,7 @@
    "date_confidence": "high",
    "price": "Early €5",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "e3157f22379b3eb1"
   },
   {
@@ -2494,7 +2399,7 @@
    "date_confidence": "high",
    "price": "Reg €10",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "505c4ba6321da1f5"
   },
   {
@@ -2513,7 +2418,7 @@
    "date_confidence": "high",
    "price": "Reg €5",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "2b5c4915da1c0155"
   },
   {
@@ -2532,7 +2437,7 @@
    "date_confidence": "high",
    "price": "Reg €20",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "b082f29e63cbe9fd"
   },
   {
@@ -2551,7 +2456,7 @@
    "date_confidence": "high",
    "price": "Reg €15 (Free in lista)",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "fc440da4281997e5"
   },
   {
@@ -2570,7 +2475,7 @@
    "date_confidence": "high",
    "price": "Reg €20 (€23 dopo 00:30)",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "f656cfc1897be36f"
   },
   {
@@ -2589,7 +2494,7 @@
    "date_confidence": "high",
    "price": "Early €10 - Reg €15",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "755ccd24f02cf4ff"
   },
   {
@@ -2608,7 +2513,7 @@
    "date_confidence": "high",
    "price": "da €45",
    "image": "https://images.xceed.me/events/banners/el-dia-de-los-muertos-halloween-night-torino-xceed-square-7611.jpg?w=1920&h=1080&ar=16:9&fm=auto",
-   "fetched_at": "2026-10-31T15:54:57",
+   "fetched_at": "2026-10-31T20:21:35",
    "id": "f69bd231d3539918"
   },
   {
@@ -2627,7 +2532,7 @@
    "date_confidence": "high",
    "price": "Free",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "a5a14bd128b12e7d"
   },
   {
@@ -2646,7 +2551,7 @@
    "date_confidence": "high",
    "price": "Reg €30",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "3958c06e6c25df07"
   },
   {
@@ -2665,7 +2570,7 @@
    "date_confidence": "high",
    "price": "Reg €30",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "4d87e797c6643540"
   },
   {
@@ -2684,7 +2589,7 @@
    "date_confidence": "high",
    "price": "Reg €5 (€10 dopo l'01:00)",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "9f3d9339dffaadc5"
   },
   {
@@ -2703,7 +2608,7 @@
    "date_confidence": "high",
    "price": "Early €15 - Reg €20",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "5e4a40a684c3e176"
   },
   {
@@ -2722,7 +2627,7 @@
    "date_confidence": "high",
    "price": "Early €10 - Reg €20",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "78a9cb091f7af2b5"
   },
   {
@@ -2741,7 +2646,7 @@
    "date_confidence": "high",
    "price": "Reg €20",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "a3f619e0c51af1ed"
   },
   {
@@ -2760,7 +2665,7 @@
    "date_confidence": "high",
    "price": "Reg €20",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "7f2bacff956fdeb2"
   },
   {
@@ -2779,7 +2684,7 @@
    "date_confidence": "high",
    "price": "Reg €10",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "35ba10eed145f1d4"
   },
   {
@@ -2798,7 +2703,7 @@
    "date_confidence": "high",
    "price": "Reg €12",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "869a254b617d7022"
   },
   {
@@ -2817,7 +2722,7 @@
    "date_confidence": "high",
    "price": "W €20 - M €30",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "b40242d530ecc731"
   },
   {
@@ -2836,7 +2741,7 @@
    "date_confidence": "high",
    "price": "Reg €15",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "c33f90b4a5a64879"
   },
   {
@@ -2855,7 +2760,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "0c769eb45ac15d3f"
   },
   {
@@ -2874,7 +2779,7 @@
    "date_confidence": "high",
    "price": "Sold out",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "7996ff91ebbb3b9f"
   },
   {
@@ -2893,7 +2798,7 @@
    "date_confidence": "high",
    "price": "da €23",
    "image": "https://images.xceed.me/events/banners/mondojuve-horror-village-1-torino-xceed-square-b7b6.png?w=1920&h=1080&ar=16:9&fm=auto",
-   "fetched_at": "2026-10-31T15:54:57",
+   "fetched_at": "2026-10-31T20:21:35",
    "id": "66f3ea7c72926084"
   },
   {
@@ -2912,7 +2817,7 @@
    "date_confidence": "high",
    "price": "Reg €10",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "231f897d4b13256b"
   },
   {
@@ -2931,7 +2836,7 @@
    "date_confidence": "high",
    "price": "W €20 - M €30",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "6920aee25909c2ec"
   },
   {
@@ -2950,7 +2855,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-10-31T15:54:53",
+   "fetched_at": "2026-10-31T20:21:31",
    "id": "b7af3cafd8dc1c97"
   },
   {
@@ -2969,7 +2874,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-10-31T15:54:53",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "d82ddb9b448e1b88"
   },
   {
@@ -2988,7 +2893,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-10-31T15:54:53",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "5742fe45600317e1"
   },
   {
@@ -3007,7 +2912,7 @@
    "date_confidence": "high",
    "price": "€10 dopo le 05:00",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "5c68131436e19b49"
   },
   {
@@ -3026,7 +2931,7 @@
    "date_confidence": "high",
    "price": "Reg €7",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "04139dd48a5da4e4"
   },
   {
@@ -3045,7 +2950,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/09/treno-storico-torino-canelli-2026-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "38d97515b68b8da8"
   },
   {
@@ -3064,7 +2969,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/10/musei-gratis-torino-domenica-1-novembre-2026-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "324e1c8f9a873b5d"
   },
   {
@@ -3083,7 +2988,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/10/san-salvario-emporium-torino-novembre-2026-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "51784ce7fca96405"
   },
   {
@@ -3102,7 +3007,7 @@
    "date_confidence": "high",
    "price": "Tes. Arci + €5",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "ee5119004a850dcc"
   },
   {
@@ -3121,7 +3026,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://gancio.cisti.org/media/b5caa75ad0d7cc96656922ac99d7ab55.jpg",
-   "fetched_at": "2026-10-31T15:54:59",
+   "fetched_at": "2026-10-31T20:21:37",
    "id": "b6fa8dbbb8c30e93"
   },
   {
@@ -3140,7 +3045,7 @@
    "date_confidence": "high",
    "price": "Tes. Arci + Up to you",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "244db12e98f914c3"
   },
   {
@@ -3159,7 +3064,7 @@
    "date_confidence": "high",
    "price": "Tes. Arci + €5",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "526c0856d936fae2"
   },
   {
@@ -3178,7 +3083,7 @@
    "date_confidence": "high",
    "price": "Free",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "39e950d524528cd1"
   },
   {
@@ -3197,7 +3102,7 @@
    "date_confidence": "high",
    "price": "Tes. Arci",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "cf9d5343179fd02d"
   },
   {
@@ -3216,7 +3121,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://gancio.cisti.org/media/a2b00e1542f45eea13e8304401c268aa.jpg",
-   "fetched_at": "2026-10-31T15:54:59",
+   "fetched_at": "2026-10-31T20:21:37",
    "id": "7aba7cf4080682e7"
   },
   {
@@ -3235,7 +3140,7 @@
    "date_confidence": "high",
    "price": "Free",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "e322c5aff04eae1c"
   },
   {
@@ -3254,7 +3159,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/02/eleazaro-rossi-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "1ebe45d0a8199b19"
   },
   {
@@ -3273,7 +3178,7 @@
    "date_confidence": "high",
    "price": "Free",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "c9c34c94520c75fc"
   },
   {
@@ -3292,7 +3197,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://gancio.cisti.org/media/8986a6c9eba492add219feb00d977a9d.jpg",
-   "fetched_at": "2026-10-31T15:54:59",
+   "fetched_at": "2026-10-31T20:21:37",
    "id": "b5144addc7e6eb90"
   },
   {
@@ -3311,7 +3216,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://variantebunker.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-09-09-at-12.26.53-400x400.jpeg",
-   "fetched_at": "2026-10-31T15:54:56",
+   "fetched_at": "2026-10-31T20:21:34",
    "id": "4d393906e63afaea"
   },
   {
@@ -3330,7 +3235,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://static1.squarespace.com/static/5e7e264530df6e33f115bd43/6818b0163d2e710d25581795/6ace135936463f7cc73aab1e/1791896349009/",
-   "fetched_at": "2026-10-31T15:55:03",
+   "fetched_at": "2026-10-31T20:21:42",
    "id": "389b69f43154cda4"
   },
   {
@@ -3349,7 +3254,7 @@
    "date_confidence": "high",
    "price": "Tes. Arci",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "93a737be08c4a08a"
   },
   {
@@ -3368,7 +3273,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://gancio.cisti.org/media/97845f5c331100f128026d32ea42d979.jpg",
-   "fetched_at": "2026-10-31T15:54:59",
+   "fetched_at": "2026-10-31T20:21:37",
    "id": "ff9dcdaebcbc3b34"
   },
   {
@@ -3387,7 +3292,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://variantebunker.com/wp-content/uploads/2026/05/IMG_20260505_143315_298-1-400x400.jpg",
-   "fetched_at": "2026-10-31T15:54:56",
+   "fetched_at": "2026-10-31T20:21:34",
    "id": "223349b3fad00980"
   },
   {
@@ -3406,7 +3311,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://variantebunker.com/wp-content/uploads/2026/03/DF_-142-400x400.jpg",
-   "fetched_at": "2026-10-31T15:54:56",
+   "fetched_at": "2026-10-31T20:21:34",
    "id": "ac4243c02f679c57"
   },
   {
@@ -3425,7 +3330,7 @@
    "date_confidence": "high",
    "price": "10,00 €",
    "image": "https://www.magazzinosulpo.com/wp-content/uploads/2026/10/Post-800x999.jpg",
-   "fetched_at": "2026-10-31T15:55:11",
+   "fetched_at": "2026-10-31T20:21:47",
    "id": "5aa961337e243408"
   },
   {
@@ -3444,7 +3349,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/03/willie-peyote-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "4a57326d9f3c2b9a"
   },
   {
@@ -3463,7 +3368,7 @@
    "date_confidence": "high",
    "price": "Free",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "da00e8edd8b413f3"
   },
   {
@@ -3482,7 +3387,7 @@
    "date_confidence": "high",
    "price": "10,00 €",
    "image": "https://www.magazzinosulpo.com/wp-content/uploads/2026/10/UTOPIKA-NUOVE-DATE-706x999.png",
-   "fetched_at": "2026-10-31T15:55:11",
+   "fetched_at": "2026-10-31T20:21:47",
    "id": "12bde6aa7fe60a59"
   },
   {
@@ -3501,7 +3406,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://gancio.cisti.org/media/732e64c2d7cc6a5e2112cc115c85590f.jpg",
-   "fetched_at": "2026-10-31T15:54:59",
+   "fetched_at": "2026-10-31T20:21:37",
    "id": "b44e23824d8e4d0b"
   },
   {
@@ -3520,7 +3425,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://gancio.cisti.org/media/36d3523d76e0eb766f4aa9ee62428239.jpg",
-   "fetched_at": "2026-10-31T15:54:59",
+   "fetched_at": "2026-10-31T20:21:37",
    "id": "999a931e8e0f7ef0"
   },
   {
@@ -3539,7 +3444,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://gancio.cisti.org/media/21aa5be3a0882f276bbba20c09df41d2.jpg",
-   "fetched_at": "2026-10-31T15:54:59",
+   "fetched_at": "2026-10-31T20:21:37",
    "id": "44b451cc30cf88a3"
   },
   {
@@ -3558,7 +3463,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://gancio.cisti.org/media/7f2b8b01e3ac92e9ed205e3be2df81b9.jpg",
-   "fetched_at": "2026-10-31T15:54:59",
+   "fetched_at": "2026-10-31T20:21:37",
    "id": "6af51ef4be05037f"
   },
   {
@@ -3577,7 +3482,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://variantebunker.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-09-09-at-18.09.24-400x400.jpeg",
-   "fetched_at": "2026-10-31T15:54:56",
+   "fetched_at": "2026-10-31T20:21:34",
    "id": "0f6904044fa3635b"
   },
   {
@@ -3596,7 +3501,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://variantebunker.com/wp-content/uploads/2026/09/Screenshot-2026-09-16-alle-20.20.41-400x400.png",
-   "fetched_at": "2026-10-31T15:54:56",
+   "fetched_at": "2026-10-31T20:21:34",
    "id": "a69fc880cd3a83b5"
   },
   {
@@ -3615,7 +3520,7 @@
    "date_confidence": "high",
    "price": "Cons. Obb.",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "e8be1e7a2d722d1e"
   },
   {
@@ -3634,27 +3539,8 @@
    "date_confidence": "high",
    "price": "Entrata libera",
    "image": "https://www.magazzinosulpo.com/wp-content/uploads/2026/10/4Novembre_post-800x999.jpg",
-   "fetched_at": "2026-10-31T15:55:11",
+   "fetched_at": "2026-10-31T20:21:47",
    "id": "7e09a51c582edde1"
-  },
-  {
-   "title": "L'INVASIONE DEI DATA CENTER: INFORMIAMOCI!",
-   "source_id": "gancio_cisti",
-   "url": "https://gancio.cisti.org/event/linvasione-dei-data-center-informiamoci",
-   "description": "L'INVASIONE DEI DATA CENTER: INFORMIAMOCI! Sala \"I Care\" via Mazzè 41 Chivasso (To) - Via Mazzè 41 Chivasso (To) (mercoledì, 4 novembre 20:45) 5 NOVEMBRE 2026 alle ore 20.45 Il KliC (Kollettivo Libero del Canavese) organizza un importante incontro informativo sul tema dei data center. Ci troveremo presso la sala I Care in via Mazzè 41 (presso l'ex convento dei Capuccini a Chivasso) e con l'aiuto di esperti del settore e di cittadini informati verranno presentati i vari aspetti dei data center che si stanno progettando nella nostra provincia, visto che risulta che anche a Chivasso siano stati r",
-   "category": "centri_sociali",
-   "venue": "Sala \"I Care\" via Mazzè 41 Chivasso (To)",
-   "address": "Via Mazzè 41 Chivasso (To)",
-   "lat": null,
-   "lon": null,
-   "start": "2026-11-04T20:45:00",
-   "end": null,
-   "all_day": false,
-   "date_confidence": "high",
-   "price": "",
-   "image": "https://gancio.cisti.org/media/a83fcb93ebe500e586e2ee48e686916d.jpg",
-   "fetched_at": "2026-10-31T15:54:59",
-   "id": "349016149db394ed"
   },
   {
    "title": "Mercoledì – Corso di Produzione Musicale su Ableton Live",
@@ -3672,7 +3558,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://variantebunker.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-08-at-15.20.01-400x400.jpeg",
-   "fetched_at": "2026-10-31T15:54:56",
+   "fetched_at": "2026-10-31T20:21:34",
    "id": "1632cab84b6c83cd"
   },
   {
@@ -3691,7 +3577,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://variantebunker.com/wp-content/uploads/2026/03/Danza-Dabka-400x400.jpg",
-   "fetched_at": "2026-10-31T15:54:56",
+   "fetched_at": "2026-10-31T20:21:34",
    "id": "1c68034d994ccc35"
   },
   {
@@ -3710,7 +3596,7 @@
    "date_confidence": "high",
    "price": "Free",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "e23345acd856f123"
   },
   {
@@ -3729,7 +3615,7 @@
    "date_confidence": "high",
    "price": "W Free - M €10",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "36b5d8d72d8abf23"
   },
   {
@@ -3748,7 +3634,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-10-31T15:54:53",
+   "fetched_at": "2026-10-31T20:21:31",
    "id": "2e47e76339779f35"
   },
   {
@@ -3767,7 +3653,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://gancio.cisti.org/media/2ec5add61c7e373dfa0a83b15b574d88.jpg",
-   "fetched_at": "2026-10-31T15:54:59",
+   "fetched_at": "2026-10-31T20:21:37",
    "id": "358ece217f185c7e"
   },
   {
@@ -3786,7 +3672,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://gancio.cisti.org/media/f9deb786c85e5c5a5836719cf6bb8dc4.jpg",
-   "fetched_at": "2026-10-31T15:54:59",
+   "fetched_at": "2026-10-31T20:21:37",
    "id": "812c128940c07077"
   },
   {
@@ -3805,7 +3691,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://variantebunker.com/wp-content/uploads/2026/03/Screenshot-2026-09-09-alle-16.42.52-400x400.png",
-   "fetched_at": "2026-10-31T15:54:56",
+   "fetched_at": "2026-10-31T20:21:34",
    "id": "80116d50328e3d28"
   },
   {
@@ -3824,7 +3710,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://variantebunker.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-08-at-15.20.22-400x400.jpeg",
-   "fetched_at": "2026-10-31T15:54:56",
+   "fetched_at": "2026-10-31T20:21:34",
    "id": "cb338b485dd6a783"
   },
   {
@@ -3843,7 +3729,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://variantebunker.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-28-at-17.20.05-400x400.jpeg",
-   "fetched_at": "2026-10-31T15:54:56",
+   "fetched_at": "2026-10-31T20:21:34",
    "id": "45987233ce595be5"
   },
   {
@@ -3862,7 +3748,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://gancio.cisti.org/media/cb07a850c46bc2eea40b3aac1f24ea34.jpg",
-   "fetched_at": "2026-10-31T15:54:59",
+   "fetched_at": "2026-10-31T20:21:37",
    "id": "2f4bb96243c2ec58"
   },
   {
@@ -3881,7 +3767,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://gancio.cisti.org/media/ffb5088f8f373eaea664c84af3562f20.jpg",
-   "fetched_at": "2026-10-31T15:54:59",
+   "fetched_at": "2026-10-31T20:21:37",
    "id": "fe8464f4dedf74eb"
   },
   {
@@ -3900,7 +3786,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://gancio.cisti.org/media/2503d43a0dd2269b122626e5c6bae491.jpg",
-   "fetched_at": "2026-10-31T15:54:59",
+   "fetched_at": "2026-10-31T20:21:37",
    "id": "a82b38bfbe2bdc70"
   },
   {
@@ -3919,7 +3805,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://gancio.cisti.org/media/d810f0a572c23f2479ebc7bc97cecb72.jpg",
-   "fetched_at": "2026-10-31T15:54:59",
+   "fetched_at": "2026-10-31T20:21:37",
    "id": "ab1eb6b79e0e483a"
   },
   {
@@ -3938,7 +3824,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://variantebunker.com/wp-content/uploads/2026/09/coverlg-400x400.jpg",
-   "fetched_at": "2026-10-31T15:54:56",
+   "fetched_at": "2026-10-31T20:21:34",
    "id": "110a61f92529d237"
   },
   {
@@ -3957,7 +3843,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/06/jimmy-carr-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "eb0d9fe6df391f2c"
   },
   {
@@ -3976,8 +3862,27 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/03/gloria-musical-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "390615a352f16fd1"
+  },
+  {
+   "title": "L'INVASIONE DEI DATA CENTER: INFORMIAMOCI!",
+   "source_id": "gancio_cisti",
+   "url": "https://gancio.cisti.org/event/linvasione-dei-data-center-informiamoci",
+   "description": "L'INVASIONE DEI DATA CENTER: INFORMIAMOCI! Sala \"I Care\" via Mazzè 41 Chivasso (To) - Via Mazzè 41 Chivasso (To) (giovedì, 5 novembre 20:45) 5 NOVEMBRE 2026 alle ore 20.45 Il KliC (Kollettivo Libero del Canavese) organizza un importante incontro informativo sul tema dei data center. Ci troveremo presso la sala I Care in via Mazzè 41 (presso l'ex convento dei Capuccini a Chivasso) e con l'aiuto di esperti del settore e di cittadini informati verranno presentati i vari aspetti dei data center che si stanno progettando nella nostra provincia, visto che risulta che anche a Chivasso siano stati ric",
+   "category": "centri_sociali",
+   "venue": "Sala \"I Care\" via Mazzè 41 Chivasso (To)",
+   "address": "Via Mazzè 41 Chivasso (To)",
+   "lat": null,
+   "lon": null,
+   "start": "2026-11-05T20:45:00",
+   "end": null,
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "",
+   "image": "https://gancio.cisti.org/media/a83fcb93ebe500e586e2ee48e686916d.jpg",
+   "fetched_at": "2026-10-31T20:21:37",
+   "id": "76aa46d51ca56085"
   },
   {
    "title": "All You Need Is Love Night",
@@ -3995,7 +3900,7 @@
    "date_confidence": "high",
    "price": "Entrata libera",
    "image": "https://www.magazzinosulpo.com/wp-content/uploads/2026/10/POST1-800x999.png",
-   "fetched_at": "2026-10-31T15:55:11",
+   "fetched_at": "2026-10-31T20:21:47",
    "id": "26fbbb3c483573bc"
   },
   {
@@ -4014,7 +3919,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/08/anna-castiglia-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "4d64a0fa265ce10e"
   },
   {
@@ -4033,7 +3938,7 @@
    "date_confidence": "high",
    "price": "Free (€10 dopo le 23:00)",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "255583d37aa4b4a4"
   },
   {
@@ -4052,7 +3957,7 @@
    "date_confidence": "high",
    "price": "Free (€10 dopo 00:30)",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "ee4e70cd2e2edb2e"
   },
   {
@@ -4071,7 +3976,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-10-31T15:54:53",
+   "fetched_at": "2026-10-31T20:21:31",
    "id": "3d3915c247d1ef4c"
   },
   {
@@ -4090,7 +3995,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-10-31T15:54:53",
+   "fetched_at": "2026-10-31T20:21:31",
    "id": "e2a23e198aa7b5ab"
   },
   {
@@ -4109,7 +4014,7 @@
    "date_confidence": "high",
    "price": "21,00 €",
    "image": "https://www.magazzinosulpo.com/wp-content/uploads/2026/10/copertina-800x999.png",
-   "fetched_at": "2026-10-31T15:55:11",
+   "fetched_at": "2026-10-31T20:21:47",
    "id": "34eef9fb1305a320"
   },
   {
@@ -4128,7 +4033,7 @@
    "date_confidence": "high",
    "price": "Reg €10",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "84598569c4430332"
   },
   {
@@ -4147,7 +4052,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://citynews-torinotoday.stgy.ovh/~media/horizontal-mid/55202107300446/mohammad-sabaaneh.jpg",
-   "fetched_at": "2026-10-31T15:54:53",
+   "fetched_at": "2026-10-31T20:21:31",
    "id": "75ec8d6423a028a3"
   },
   {
@@ -4166,7 +4071,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/10/dora-nera-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "ba9e97c2efd8258c"
   },
   {
@@ -4185,8 +4090,27 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://gancio.cisti.org/media/7467c8f665a175ebc553d76eeba7d0dd.jpg",
-   "fetched_at": "2026-10-31T15:54:59",
+   "fetched_at": "2026-10-31T20:21:37",
    "id": "1e1280621478a44a"
+  },
+  {
+   "title": "CENA BELLAVITA VEGAN",
+   "source_id": "gancio_cisti",
+   "url": "https://gancio.cisti.org/event/cena-bellavita-vegan-10",
+   "description": "CENA BELLAVITA VEGAN Barocchio Squat - Strada del Barocchio 27 - Grugliasco (TO) (venerdì, 6 novembre 19:00) Barocchio squat presenta una semplice proposta per ribadire l'importanza della responsabilità individuale e collettiva sul tema dell'alimentazione, in specifico quella a base vegetale, come mezzo per portare avanti la liberazione animale in un contesto atroce che vede la mercificazione degli esseri animali per vari scopi beceri, come il divertimento, l'intrattenimento, secondo la logica di sfruttamento generale di questi ultimi. Ribadiamo l'importanza dei luoghi che portano avanti la pr",
+   "category": "centri_sociali",
+   "venue": "Barocchio Squat",
+   "address": "Strada del Barocchio 27 - Grugliasco (TO)",
+   "lat": null,
+   "lon": null,
+   "start": "2026-11-06T19:00:00",
+   "end": null,
+   "all_day": false,
+   "date_confidence": "high",
+   "price": "",
+   "image": "https://gancio.cisti.org/media/047320c9ade4b164aa6cfc37160f11a1.jpg",
+   "fetched_at": "2026-10-31T20:21:37",
+   "id": "b99369971a9c1a5d"
   },
   {
    "title": "Ogni venerdì – Corso di Teatro",
@@ -4204,7 +4128,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://variantebunker.com/wp-content/uploads/2026/03/teatro-400x400.jpg",
-   "fetched_at": "2026-10-31T15:54:56",
+   "fetched_at": "2026-10-31T20:21:34",
    "id": "acac0d49a7d02196"
   },
   {
@@ -4223,7 +4147,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://static1.squarespace.com/static/5e7e264530df6e33f115bd43/6818b0163d2e710d25581795/6ace13b6a2e9203bcda8f719/1791890632684/",
-   "fetched_at": "2026-10-31T15:55:03",
+   "fetched_at": "2026-10-31T20:21:42",
    "id": "f4bb346bcb4e9ea0"
   },
   {
@@ -4242,7 +4166,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/02/aiello-venaria-reale-2026-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "7a030b141a886909"
   },
   {
@@ -4261,7 +4185,7 @@
    "date_confidence": "high",
    "price": "Reg €12",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "5a3b84846a103c88"
   },
   {
@@ -4280,7 +4204,7 @@
    "date_confidence": "high",
    "price": "Up to you",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "f94b7c8a8c8a8a8c"
   },
   {
@@ -4299,7 +4223,7 @@
    "date_confidence": "high",
    "price": "13,00 €",
    "image": "https://www.magazzinosulpo.com/wp-content/uploads/2026/10/2-800x999.png",
-   "fetched_at": "2026-10-31T15:55:11",
+   "fetched_at": "2026-10-31T20:21:47",
    "id": "af28905b1a0ffeef"
   },
   {
@@ -4318,7 +4242,7 @@
    "date_confidence": "high",
    "price": "Free",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "39cbef22ba11b38a"
   },
   {
@@ -4337,7 +4261,7 @@
    "date_confidence": "high",
    "price": "Early €5 - Reg €15",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "85dd16712087cfce"
   },
   {
@@ -4356,7 +4280,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "1c7e346a79bf2059"
   },
   {
@@ -4375,7 +4299,7 @@
    "date_confidence": "high",
    "price": "Reg €10",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "63f747ff29a89671"
   },
   {
@@ -4394,7 +4318,7 @@
    "date_confidence": "high",
    "price": "Reg €5",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "4d5a44d9696c1bb8"
   },
   {
@@ -4413,7 +4337,7 @@
    "date_confidence": "high",
    "price": "Reg €20",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "3bde9b2eeb73863e"
   },
   {
@@ -4432,7 +4356,7 @@
    "date_confidence": "high",
    "price": "Early €10 - Reg €15 - Uni €10",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "6cb73d9c48f8549f"
   },
   {
@@ -4451,7 +4375,7 @@
    "date_confidence": "high",
    "price": "Reg €16",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "0daf468e5754aca7"
   },
   {
@@ -4470,7 +4394,7 @@
    "date_confidence": "high",
    "price": "Reg €10",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "fcf1c0f9c9f3738b"
   },
   {
@@ -4489,7 +4413,7 @@
    "date_confidence": "high",
    "price": "5,00 €",
    "image": "https://www.magazzinosulpo.com/wp-content/uploads/2025/10/POST-PERREOXMULTIPLA-800x999.png",
-   "fetched_at": "2026-10-31T15:55:11",
+   "fetched_at": "2026-10-31T20:21:47",
    "id": "8866637586a54d8d"
   },
   {
@@ -4508,7 +4432,7 @@
    "date_confidence": "high",
    "price": "Reg €10 - Uni €10",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "83655ca142329e70"
   },
   {
@@ -4527,7 +4451,7 @@
    "date_confidence": "high",
    "price": "Early €10 - Reg €15 (W Free)",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "2247195560b294ea"
   },
   {
@@ -4546,7 +4470,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://citynews-torinotoday.stgy.ovh/~media/horizontal-mid/14231511892486/vino-3-2.jpg",
-   "fetched_at": "2026-10-31T15:54:53",
+   "fetched_at": "2026-10-31T20:21:31",
    "id": "4d2978278660afca"
   },
   {
@@ -4565,7 +4489,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/10/palazzina-caccia-stupinigi-spazi-segreti-novembre-2026-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "35f6d93e0776e9fa"
   },
   {
@@ -4584,7 +4508,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/06/italia-sudafrica-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "317001411cabc116"
   },
   {
@@ -4603,7 +4527,7 @@
    "date_confidence": "high",
    "price": "Up to you",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "2501564d8fc863d2"
   },
   {
@@ -4622,7 +4546,7 @@
    "date_confidence": "high",
    "price": "Free",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "d0c2f989e097e797"
   },
   {
@@ -4641,7 +4565,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/02/antonio-ornano-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "25ee0f0459616cde"
   },
   {
@@ -4660,7 +4584,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://static1.squarespace.com/static/5e7e264530df6e33f115bd43/6818b0163d2e710d25581795/6ace14d849976d79f4fda92e/1791993487021/",
-   "fetched_at": "2026-10-31T15:55:03",
+   "fetched_at": "2026-10-31T20:21:42",
    "id": "2f4fd1b1b0f6187b"
   },
   {
@@ -4679,7 +4603,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/05/coez-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "64d41254fff21f1f"
   },
   {
@@ -4698,7 +4622,7 @@
    "date_confidence": "high",
    "price": "W €13 - M €15 entro 00:00",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "3a5bb7f4d0db1ece"
   },
   {
@@ -4717,7 +4641,7 @@
    "date_confidence": "high",
    "price": "13,00 €",
    "image": "https://www.magazzinosulpo.com/wp-content/uploads/2026/10/3-800x999.png",
-   "fetched_at": "2026-10-31T15:55:11",
+   "fetched_at": "2026-10-31T20:21:47",
    "id": "5f64ffc11d65e839"
   },
   {
@@ -4736,7 +4660,7 @@
    "date_confidence": "high",
    "price": "Free",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "ab60be53886969a7"
   },
   {
@@ -4755,7 +4679,7 @@
    "date_confidence": "high",
    "price": "Reg €10",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "56b479db74103052"
   },
   {
@@ -4774,7 +4698,7 @@
    "date_confidence": "high",
    "price": "Reg €5",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "7535313fc5e44025"
   },
   {
@@ -4793,7 +4717,7 @@
    "date_confidence": "high",
    "price": "Reg €10",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "99a3a0054dad9ef9"
   },
   {
@@ -4812,7 +4736,7 @@
    "date_confidence": "high",
    "price": "Early €10 (W Free entro l'01:00)",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "12f48822997be9e2"
   },
   {
@@ -4831,7 +4755,7 @@
    "date_confidence": "high",
    "price": "Early €10 - Reg €20",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "9e2e32db0902c7ed"
   },
   {
@@ -4850,7 +4774,7 @@
    "date_confidence": "high",
    "price": "Reg €15",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "23936f1dc5f1e047"
   },
   {
@@ -4869,7 +4793,7 @@
    "date_confidence": "high",
    "price": "7,00 €",
    "image": "https://www.magazzinosulpo.com/wp-content/uploads/2026/10/KLUB-GAGA-749x999.png",
-   "fetched_at": "2026-10-31T15:55:11",
+   "fetched_at": "2026-10-31T20:21:47",
    "id": "7636693aa83420cb"
   },
   {
@@ -4888,7 +4812,7 @@
    "date_confidence": "high",
    "price": "Reg €15 - Erasmus €10",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "415d78c49c32c5d9"
   },
   {
@@ -4907,7 +4831,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/10/treno-storico-torino-tartufo-novembre-2026-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "eb287a45bbb53d7e"
   },
   {
@@ -4926,7 +4850,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://static1.squarespace.com/static/5e7e264530df6e33f115bd43/6818b0163d2e710d25581795/6ace1542a2e9203bcda93994/1791992989434/",
-   "fetched_at": "2026-10-31T15:55:03",
+   "fetched_at": "2026-10-31T20:21:42",
    "id": "28721f1361197306"
   },
   {
@@ -4945,7 +4869,7 @@
    "date_confidence": "high",
    "price": "Entrata libera",
    "image": "https://www.magazzinosulpo.com/wp-content/uploads/2026/10/BLOCKPARTY-SAVE-THE-DATE-749x999.jpg",
-   "fetched_at": "2026-10-31T15:55:11",
+   "fetched_at": "2026-10-31T20:21:47",
    "id": "b0831d97078586ab"
   },
   {
@@ -4964,7 +4888,7 @@
    "date_confidence": "high",
    "price": "Up to you",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "a6bc8b4de70f7f83"
   },
   {
@@ -4983,7 +4907,7 @@
    "date_confidence": "high",
    "price": "Reg €10",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "ee53b9867653edab"
   },
   {
@@ -5002,7 +4926,7 @@
    "date_confidence": "high",
    "price": "Reg €18",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "84428a9fb2d48911"
   },
   {
@@ -5021,7 +4945,7 @@
    "date_confidence": "high",
    "price": "Reg €10",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "b6fdb82971169dde"
   },
   {
@@ -5040,7 +4964,7 @@
    "date_confidence": "high",
    "price": "Free",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "d5211afd7f7754ab"
   },
   {
@@ -5059,7 +4983,7 @@
    "date_confidence": "high",
    "price": "Free",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "ccc8e002aefd9099"
   },
   {
@@ -5078,7 +5002,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/08/michele-bravi-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "783436b864cca991"
   },
   {
@@ -5097,7 +5021,7 @@
    "date_confidence": "high",
    "price": "Tes. Arci",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "164a818716a95589"
   },
   {
@@ -5116,7 +5040,7 @@
    "date_confidence": "high",
    "price": "Entrata libera",
    "image": "https://www.magazzinosulpo.com/wp-content/uploads/2026/10/10Novembre_post-800x999.jpg",
-   "fetched_at": "2026-10-31T15:55:11",
+   "fetched_at": "2026-10-31T20:21:47",
    "id": "0d09a4b56372ec83"
   },
   {
@@ -5135,7 +5059,7 @@
    "date_confidence": "high",
    "price": "Sold out",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "4284cf28f694b2b4"
   },
   {
@@ -5154,7 +5078,7 @@
    "date_confidence": "high",
    "price": "Free",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "b52bd86fce6ceb20"
   },
   {
@@ -5173,7 +5097,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/07/nitto-atp-finals-torino-allenamenti-2026-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "f90557a7f9583721"
   },
   {
@@ -5192,7 +5116,7 @@
    "date_confidence": "high",
    "price": "Entrata libera",
    "image": "https://www.magazzinosulpo.com/wp-content/uploads/2026/10/11Novembre_post1-749x999.jpg",
-   "fetched_at": "2026-10-31T15:55:11",
+   "fetched_at": "2026-10-31T20:21:47",
    "id": "af5e3be14fea7c33"
   },
   {
@@ -5211,7 +5135,7 @@
    "date_confidence": "high",
    "price": "Early €10 - Reg €15",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "4afeb4f1c1238a34"
   },
   {
@@ -5230,7 +5154,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/02/malika-ayane-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "ab852fb7ac27acd0"
   },
   {
@@ -5249,7 +5173,7 @@
    "date_confidence": "high",
    "price": "Free",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "632b5523b48e90d0"
   },
   {
@@ -5268,7 +5192,7 @@
    "date_confidence": "high",
    "price": "Free",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "5faec8d9629fc2f2"
   },
   {
@@ -5287,7 +5211,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/10/dove-liana-torino-concerto-2026-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "096587493475f68f"
   },
   {
@@ -5306,7 +5230,7 @@
    "date_confidence": "high",
    "price": "W Free - M €10",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "95075d661e8dceb7"
   },
   {
@@ -5325,7 +5249,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/10/dolcissimarte-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "596ebe01d616f512"
   },
   {
@@ -5344,7 +5268,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://static1.squarespace.com/static/5e7e264530df6e33f115bd43/6818b0163d2e710d25581795/6ace161fef52fd1348edc7cc/1791891061514/",
-   "fetched_at": "2026-10-31T15:55:03",
+   "fetched_at": "2026-10-31T20:21:42",
    "id": "dffdb9f21bc300ee"
   },
   {
@@ -5363,7 +5287,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/02/steve-hackett-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "889970920899b8ec"
   },
   {
@@ -5382,7 +5306,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/07/grand-opening-atp-finals-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "a4b9e10c860997b2"
   },
   {
@@ -5401,7 +5325,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/01/umberto-galimberti-venaria-reale-2026-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "8583ebf8a2e061d8"
   },
   {
@@ -5420,7 +5344,7 @@
    "date_confidence": "high",
    "price": "Free (€10 dopo 00:30)",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "f0276fe0b8a8c53b"
   },
   {
@@ -5439,7 +5363,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://static1.squarespace.com/static/5e7e264530df6e33f115bd43/6818b0163d2e710d25581795/6ace168bde57af70f6845ce4/1791891200783/",
-   "fetched_at": "2026-10-31T15:55:03",
+   "fetched_at": "2026-10-31T20:21:42",
    "id": "5fd78f460ade6912"
   },
   {
@@ -5458,7 +5382,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2025/10/francesca-michielin-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "01732d7cffb6299c"
   },
   {
@@ -5477,7 +5401,7 @@
    "date_confidence": "high",
    "price": "Reg €10",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "6e7f1be9856135b2"
   },
   {
@@ -5496,7 +5420,7 @@
    "date_confidence": "high",
    "price": "Reg €5",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "27ba7c682b530590"
   },
   {
@@ -5515,7 +5439,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "b084f2ff3773be27"
   },
   {
@@ -5534,7 +5458,7 @@
    "date_confidence": "high",
    "price": "Early €5 - Reg €10 (€15 dopo l'01:00)",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "13796bf04d379e06"
   },
   {
@@ -5553,7 +5477,7 @@
    "date_confidence": "high",
    "price": "Free",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "1f31bc8c3e65a1c0"
   },
   {
@@ -5572,7 +5496,7 @@
    "date_confidence": "high",
    "price": "Early €9 - Erasmus €9",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "6fc89b9ab5963ac3"
   },
   {
@@ -5591,7 +5515,7 @@
    "date_confidence": "high",
    "price": "Early €10 - Reg €15",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "9a4fa41303065a19"
   },
   {
@@ -5610,7 +5534,7 @@
    "date_confidence": "high",
    "price": "Reg €10",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "205e6faa149f21d1"
   },
   {
@@ -5629,7 +5553,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/10/festival-coreano-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "61a311d590f06c47"
   },
   {
@@ -5648,7 +5572,7 @@
    "date_confidence": "high",
    "price": "Free",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "f92ae0ff8469ff71"
   },
   {
@@ -5667,7 +5591,7 @@
    "date_confidence": "high",
    "price": "Up to you",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "7f1921a80767f459"
   },
   {
@@ -5686,7 +5610,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://static1.squarespace.com/static/5e7e264530df6e33f115bd43/6818b0163d2e710d25581795/6ace1711c5ad6d777829671d/1791891384191/",
-   "fetched_at": "2026-10-31T15:55:03",
+   "fetched_at": "2026-10-31T20:21:42",
    "id": "cfb03e85c69537f7"
   },
   {
@@ -5705,7 +5629,7 @@
    "date_confidence": "high",
    "price": "W €13 - M €15 entro 00:00",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "8c510360d96a3348"
   },
   {
@@ -5724,7 +5648,7 @@
    "date_confidence": "high",
    "price": "Reg €10",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "77131d9f3ce3a473"
   },
   {
@@ -5743,7 +5667,7 @@
    "date_confidence": "high",
    "price": "Early €5 - Reg €15",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "7cbd2ccbda4756e1"
   },
   {
@@ -5762,7 +5686,7 @@
    "date_confidence": "high",
    "price": "Reg €20",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "b57535ab3f926db7"
   },
   {
@@ -5781,7 +5705,7 @@
    "date_confidence": "high",
    "price": "Reg €20",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "6d0de74e7885a5d2"
   },
   {
@@ -5800,7 +5724,7 @@
    "date_confidence": "high",
    "price": "Reg €12",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "75603e1d788967c2"
   },
   {
@@ -5819,7 +5743,7 @@
    "date_confidence": "high",
    "price": "Reg €15 - Under 23 €10",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "e5f9adbf28744885"
   },
   {
@@ -5838,7 +5762,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2025/11/atp-finals-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "510ba915d0b821e8"
   },
   {
@@ -5857,7 +5781,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/07/fan-village-atp-finals-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "c74de93c3c10e433"
   },
   {
@@ -5876,7 +5800,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://static1.squarespace.com/static/5e7e264530df6e33f115bd43/6818b0163d2e710d25581795/6ace17c7b7b96b35b1b2a1c3/1791891640193/",
-   "fetched_at": "2026-10-31T15:55:03",
+   "fetched_at": "2026-10-31T20:21:42",
    "id": "e95bc76a93b68239"
   },
   {
@@ -5895,7 +5819,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://static1.squarespace.com/static/5e7e264530df6e33f115bd43/6818b0163d2e710d25581795/6ace18c65bc037618c9da6c4/1791891724486/",
-   "fetched_at": "2026-10-31T15:55:03",
+   "fetched_at": "2026-10-31T20:21:42",
    "id": "8ec900d01b0a80ac"
   },
   {
@@ -5914,7 +5838,7 @@
    "date_confidence": "high",
    "price": "Up to you",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "d6dec27b83faf067"
   },
   {
@@ -5933,7 +5857,7 @@
    "date_confidence": "high",
    "price": "Reg €10",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "6465360d81b202f4"
   },
   {
@@ -5952,7 +5876,7 @@
    "date_confidence": "high",
    "price": "Reg €10",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "ec2771a491774c94"
   },
   {
@@ -5971,7 +5895,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://static1.squarespace.com/static/5e7e264530df6e33f115bd43/6818b0163d2e710d25581795/6ace1918cba6cd1752bb3a7b/1791891836867/",
-   "fetched_at": "2026-10-31T15:55:03",
+   "fetched_at": "2026-10-31T20:21:42",
    "id": "d49aea8be4f8b63c"
   },
   {
@@ -5990,7 +5914,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/08/michele-zarrillo-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "1ef180db67636c65"
   },
   {
@@ -6009,7 +5933,7 @@
    "date_confidence": "high",
    "price": "Tes. Arci",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "ee4286afdf4534a9"
   },
   {
@@ -6028,7 +5952,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/06/pablo-trincia-torino-novembre-2026-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "688f33443c57b21a"
   },
   {
@@ -6047,7 +5971,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/08/mara-sattei-a-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "617e8f020012de29"
   },
   {
@@ -6066,7 +5990,7 @@
    "date_confidence": "high",
    "price": "W Free - M €10",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "f7e4de60360af65c"
   },
   {
@@ -6085,7 +6009,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/09/t-rex-mostra-torino-2026-2027-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "9557deda04532563"
   },
   {
@@ -6104,7 +6028,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://static1.squarespace.com/static/5e7e264530df6e33f115bd43/6818b0163d2e710d25581795/6adf80c9fa63c50efd4967a6/1793176330242/",
-   "fetched_at": "2026-10-31T15:55:03",
+   "fetched_at": "2026-10-31T20:21:42",
    "id": "eb3428aa54eaf20c"
   },
   {
@@ -6123,7 +6047,7 @@
    "date_confidence": "high",
    "price": "Reg €10",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "cf03427edb8c4c46"
   },
   {
@@ -6142,7 +6066,7 @@
    "date_confidence": "high",
    "price": "Free (€10 dopo 00:30)",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "24804dcb517ae66a"
   },
   {
@@ -6161,7 +6085,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/10/bagna-cauda-day-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "977b402bade038b4"
   },
   {
@@ -6180,7 +6104,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://static1.squarespace.com/static/5e7e264530df6e33f115bd43/6818b0163d2e710d25581795/6ace19a1ac0f7b1e84b77938/1791893989020/",
-   "fetched_at": "2026-10-31T15:55:03",
+   "fetched_at": "2026-10-31T20:21:42",
    "id": "bd2bccd56dd5050d"
   },
   {
@@ -6199,7 +6123,7 @@
    "date_confidence": "high",
    "price": "Reg €8",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "09d37c6db7c1f3b5"
   },
   {
@@ -6218,7 +6142,7 @@
    "date_confidence": "high",
    "price": "Reg €10",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "2a126243dcdf5f3c"
   },
   {
@@ -6237,7 +6161,7 @@
    "date_confidence": "high",
    "price": "Reg €10",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "1bcbc19e9dbe93d2"
   },
   {
@@ -6256,7 +6180,7 @@
    "date_confidence": "high",
    "price": "Early €5 - Reg €15",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "5eff770b0f6d9522"
   },
   {
@@ -6275,7 +6199,7 @@
    "date_confidence": "high",
    "price": "Reg €5",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "84c939f2197e6136"
   },
   {
@@ -6294,7 +6218,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://static1.squarespace.com/static/5e7e264530df6e33f115bd43/6818b0163d2e710d25581795/6ace1a13a3372306e517a0fe/1791892082800/",
-   "fetched_at": "2026-10-31T15:55:03",
+   "fetched_at": "2026-10-31T20:21:42",
    "id": "1f320f32f9b8b516"
   },
   {
@@ -6313,7 +6237,7 @@
    "date_confidence": "high",
    "price": "Reg €10",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "a1750c41124c6500"
   },
   {
@@ -6332,7 +6256,7 @@
    "date_confidence": "high",
    "price": "Free (€10 dopo le 23:00)",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "e4edff821c48eec7"
   },
   {
@@ -6351,7 +6275,7 @@
    "date_confidence": "high",
    "price": "Reg €20 - Uni €10",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "366eab05cc24f4c1"
   },
   {
@@ -6370,7 +6294,7 @@
    "date_confidence": "high",
    "price": "Early €5 - Reg €20",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "3d3927cab13ee138"
   },
   {
@@ -6389,7 +6313,7 @@
    "date_confidence": "high",
    "price": "Early €5 - Reg €15",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "1cf54ec1783b532e"
   },
   {
@@ -6408,7 +6332,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://static1.squarespace.com/static/5e7e264530df6e33f115bd43/6818b0163d2e710d25581795/6ace1a84d22c534663cf70df/1791892162727/",
-   "fetched_at": "2026-10-31T15:55:03",
+   "fetched_at": "2026-10-31T20:21:42",
    "id": "25bdbea12ab0ce52"
   },
   {
@@ -6427,7 +6351,7 @@
    "date_confidence": "high",
    "price": "Reg €15",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "b8bfe9edf5dfcfa8"
   },
   {
@@ -6446,7 +6370,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/08/vinicio-capossela-torino-2026-2-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "062866994a58cbc5"
   },
   {
@@ -6465,7 +6389,7 @@
    "date_confidence": "high",
    "price": "Tes. Arci",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "feae6edac8d9de29"
   },
   {
@@ -6484,7 +6408,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/10/pinguini-tattici-nucleari-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "0ce9e73170e11593"
   },
   {
@@ -6503,7 +6427,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/01/torino-film-festival-2026-date-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "5cb9bbf52cad5d51"
   },
   {
@@ -6522,7 +6446,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2025/12/ghemon-nichelino-2026-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "b92e1233fcf52dac"
   },
   {
@@ -6541,7 +6465,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/03/arisa-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "f23799d337537e4a"
   },
   {
@@ -6560,7 +6484,7 @@
    "date_confidence": "high",
    "price": "Free",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "6b49a50ac4340dbf"
   },
   {
@@ -6579,7 +6503,7 @@
    "date_confidence": "high",
    "price": "W Free - M €10",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "7f106a6f550e2d5a"
   },
   {
@@ -6598,7 +6522,7 @@
    "date_confidence": "high",
    "price": "Reg €12",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "b0c879e176cf324b"
   },
   {
@@ -6617,7 +6541,7 @@
    "date_confidence": "high",
    "price": "Free (€10 dopo 00:30)",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "01ba2dd552568f35"
   },
   {
@@ -6636,7 +6560,7 @@
    "date_confidence": "high",
    "price": "Reg €8",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "f0883b050e103b93"
   },
   {
@@ -6655,7 +6579,7 @@
    "date_confidence": "high",
    "price": "Early €5 - Reg €15",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "d0246ddab585ca3b"
   },
   {
@@ -6674,7 +6598,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "0f828510826d8296"
   },
   {
@@ -6693,7 +6617,7 @@
    "date_confidence": "high",
    "price": "Reg €10",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "b66cffabc5065b1a"
   },
   {
@@ -6712,7 +6636,7 @@
    "date_confidence": "high",
    "price": "Early €10 (W Free entro l'01:00)",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "515be246d1b36b79"
   },
   {
@@ -6731,7 +6655,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/08/jodokcello-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "3085c355c3c11907"
   },
   {
@@ -6750,7 +6674,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://static1.squarespace.com/static/5e7e264530df6e33f115bd43/6818b0163d2e710d25581795/6ace1ba980f6cb6383009ff7/1791993339877/",
-   "fetched_at": "2026-10-31T15:55:03",
+   "fetched_at": "2026-10-31T20:21:42",
    "id": "b51c682f02c2d8a0"
   },
   {
@@ -6769,7 +6693,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/10/boosta-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "a5674e984b453ecc"
   },
   {
@@ -6788,7 +6712,7 @@
    "date_confidence": "high",
    "price": "Reg €8",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "02eca997a4a8cb71"
   },
   {
@@ -6807,7 +6731,7 @@
    "date_confidence": "high",
    "price": "Reg €10",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "b3e4567bc355ba37"
   },
   {
@@ -6826,7 +6750,7 @@
    "date_confidence": "high",
    "price": "Reg €10 (€15 dopo 00:00)",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "270b31b1cc85a000"
   },
   {
@@ -6845,7 +6769,7 @@
    "date_confidence": "high",
    "price": "Early €10",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "d260b511bd716dd6"
   },
   {
@@ -6864,7 +6788,7 @@
    "date_confidence": "high",
    "price": "Reg €10",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "81efebed18b10f77"
   },
   {
@@ -6883,7 +6807,7 @@
    "date_confidence": "high",
    "price": "Early €10 - Reg €20",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "5a7c84494ec525c0"
   },
   {
@@ -6902,7 +6826,7 @@
    "date_confidence": "high",
    "price": "Early €5 - Reg €15",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "d512a875eb4746b8"
   },
   {
@@ -6921,7 +6845,7 @@
    "date_confidence": "high",
    "price": "Reg €12",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "9e0387a095034093"
   },
   {
@@ -6940,7 +6864,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://static1.squarespace.com/static/5e7e264530df6e33f115bd43/6818b0163d2e710d25581795/6ace1c22a3372306e517f35b/1793032269974/",
-   "fetched_at": "2026-10-31T15:55:03",
+   "fetched_at": "2026-10-31T20:21:42",
    "id": "57a2def440df9609"
   },
   {
@@ -6959,7 +6883,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://static1.squarespace.com/static/5e7e264530df6e33f115bd43/6818b0163d2e710d25581795/6ace1ca649976d79f4ff51ff/1791892760990/",
-   "fetched_at": "2026-10-31T15:55:03",
+   "fetched_at": "2026-10-31T20:21:42",
    "id": "ed5f60c20086de8f"
   },
   {
@@ -6978,7 +6902,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/08/alessandro-cattelan-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "4553fbff04cd007f"
   },
   {
@@ -6997,7 +6921,7 @@
    "date_confidence": "high",
    "price": "Reg €8",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "413a91207962b766"
   },
   {
@@ -7016,7 +6940,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-10-31T15:54:53",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "b0f27cd5be9dd8a2"
   },
   {
@@ -7035,7 +6959,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://static1.squarespace.com/static/5e7e264530df6e33f115bd43/6818b0163d2e710d25581795/6ace1d2f36463f7cc73d065d/1791892912759/",
-   "fetched_at": "2026-10-31T15:55:03",
+   "fetched_at": "2026-10-31T20:21:42",
    "id": "b6de5228a1e7e730"
   },
   {
@@ -7054,7 +6978,7 @@
    "date_confidence": "high",
    "price": "Tes. Arci",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "1374608d52706b80"
   },
   {
@@ -7073,7 +6997,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/06/roberto-bolle-friends-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "737abfea2b1c87de"
   },
   {
@@ -7092,7 +7016,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/04/max-gazze-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "79768ed52155fd49"
   },
   {
@@ -7111,7 +7035,7 @@
    "date_confidence": "high",
    "price": "Free",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "94e50dbcc01bdaf5"
   },
   {
@@ -7130,7 +7054,7 @@
    "date_confidence": "high",
    "price": "W Free - M €10",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "3a485ac36a9066de"
   },
   {
@@ -7149,7 +7073,7 @@
    "date_confidence": "high",
    "price": "Free (€10 dopo 00:30)",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "f6cdd75f8afc3bbf"
   },
   {
@@ -7168,7 +7092,7 @@
    "date_confidence": "high",
    "price": "Reg €10",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "e81203ee9d675192"
   },
   {
@@ -7187,7 +7111,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2025/03/notre-dame-paris-torino-2026-2-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "a4523ae754d7487a"
   },
   {
@@ -7206,7 +7130,7 @@
    "date_confidence": "high",
    "price": "Reg €13 - Uni €10",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "29084469fafdd5a1"
   },
   {
@@ -7225,7 +7149,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "5591da449faffa8b"
   },
   {
@@ -7244,7 +7168,7 @@
    "date_confidence": "high",
    "price": "Early €5 - Reg €15",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "d0c73540e9fca23d"
   },
   {
@@ -7263,7 +7187,7 @@
    "date_confidence": "high",
    "price": "Sold out",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "ec836372f2e85e46"
   },
   {
@@ -7282,7 +7206,7 @@
    "date_confidence": "high",
    "price": "Reg €10",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "7f21aa2fa1585322"
   },
   {
@@ -7301,7 +7225,7 @@
    "date_confidence": "high",
    "price": "Early €5 - Reg €15",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "d8c2b9cfc1404fa5"
   },
   {
@@ -7320,7 +7244,7 @@
    "date_confidence": "high",
    "price": "Reg €10",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "db5f6abb49393ef2"
   },
   {
@@ -7339,7 +7263,7 @@
    "date_confidence": "high",
    "price": "Up to you",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "e44fceeb4c50fcbe"
   },
   {
@@ -7358,7 +7282,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/04/maccio-capatonda-torino-2026-spettacolo-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "66ea7347f07559cc"
   },
   {
@@ -7377,7 +7301,7 @@
    "date_confidence": "high",
    "price": "Tes. Arci",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "d651201a26859587"
   },
   {
@@ -7396,7 +7320,7 @@
    "date_confidence": "high",
    "price": "Reg €30",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "ac8c992378851e22"
   },
   {
@@ -7415,7 +7339,7 @@
    "date_confidence": "high",
    "price": "Early €5 - Reg €20",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "47346628dfe06301"
   },
   {
@@ -7434,7 +7358,7 @@
    "date_confidence": "high",
    "price": "Early €15 - Reg €20",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "a8f0a54d4e1fd9f7"
   },
   {
@@ -7453,7 +7377,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/01/valentina-persia-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "620b4d659a890a7e"
   },
   {
@@ -7472,7 +7396,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/09/cesare-cremonini-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "7373743c19a11b97"
   },
   {
@@ -7491,7 +7415,7 @@
    "date_confidence": "high",
    "price": "Free (€10 dopo 00:30)",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "badbabcbd80a6936"
   },
   {
@@ -7510,7 +7434,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/10/frankenstein-reborn-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "7e29953638949ded"
   },
   {
@@ -7529,7 +7453,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2025/03/katia-follesa-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "81289d736b720b77"
   },
   {
@@ -7548,7 +7472,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "1a9cf3b6f6c16797"
   },
   {
@@ -7567,7 +7491,7 @@
    "date_confidence": "high",
    "price": "Reg €20",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "ed84d57d4bb43635"
   },
   {
@@ -7586,7 +7510,7 @@
    "date_confidence": "high",
    "price": "Early €5 - Reg €15",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "ffeead9c84f13b35"
   },
   {
@@ -7605,7 +7529,7 @@
    "date_confidence": "high",
    "price": "Early €10 - Reg €15 - Uni €10",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "92a6dedcc7128041"
   },
   {
@@ -7624,7 +7548,7 @@
    "date_confidence": "high",
    "price": "Reg €12",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "e36a9aa5dec48cf6"
   },
   {
@@ -7643,7 +7567,7 @@
    "date_confidence": "high",
    "price": "Tes. Arci",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "c7a00f4dcfa5d0d2"
   },
   {
@@ -7662,7 +7586,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/06/anna-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "5e36a670530b386d"
   },
   {
@@ -7681,7 +7605,7 @@
    "date_confidence": "high",
    "price": "Free",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "9dbcde4e566630c0"
   },
   {
@@ -7700,7 +7624,7 @@
    "date_confidence": "high",
    "price": "Free (€10 dopo 00:30)",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "6c02132b440c240d"
   },
   {
@@ -7719,7 +7643,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/08/neri-marcore-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "3a0cc54a4effc4ef"
   },
   {
@@ -7738,7 +7662,7 @@
    "date_confidence": "high",
    "price": "Reg €12,50",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "711f1b4109ef4606"
   },
   {
@@ -7757,7 +7681,7 @@
    "date_confidence": "high",
    "price": "Early €10 - Reg €15 - Uni €10",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "2e5d0c8e8e9bf8f5"
   },
   {
@@ -7776,7 +7700,7 @@
    "date_confidence": "high",
    "price": "Early €5 - Reg €15",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "8f690b952ac23f21"
   },
   {
@@ -7795,7 +7719,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2025/09/il-volo-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "15ae05e88d74c942"
   },
   {
@@ -7814,7 +7738,7 @@
    "date_confidence": "high",
    "price": "Reg €25",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "c05c6bd0c9101437"
   },
   {
@@ -7833,7 +7757,7 @@
    "date_confidence": "high",
    "price": "Early €10 - Reg €15",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "ce55d9c4570fc780"
   },
   {
@@ -7852,7 +7776,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/08/irama-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "be0d6f1f7fff6f14"
   },
   {
@@ -7871,7 +7795,7 @@
    "date_confidence": "high",
    "price": "Tes. Arci",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "3b90b3ac1ef910ef"
   },
   {
@@ -7890,7 +7814,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/08/pacifico-torino-2026-omaggio-vanoni-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "a1e1e909a46d68fb"
   },
   {
@@ -7909,7 +7833,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/07/arturo-brachetti-torino-2026-2027-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "d594cfe286175674"
   },
   {
@@ -7928,7 +7852,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/08/forbici-follia-torino-2026-2027-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "564f5a14c577c750"
   },
   {
@@ -7947,7 +7871,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2025/07/gigi-alessio-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "8775ac2ba0b1a70a"
   },
   {
@@ -7966,7 +7890,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/01/alla-scoperta-morricone-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "01139b11f8160332"
   },
   {
@@ -7985,7 +7909,7 @@
    "date_confidence": "high",
    "price": "Tes. Arci",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "ca2182c08834f1f9"
   },
   {
@@ -8004,7 +7928,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/08/shen-yun-torino-2027-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "e27592b0bf3e5b34"
   },
   {
@@ -8023,7 +7947,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/08/fabio-concato-torino-2027-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "b5f755fca50dce09"
   },
   {
@@ -8042,7 +7966,7 @@
    "date_confidence": "high",
    "price": "Reg €20",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "a8c9ba243b4fdb48"
   },
   {
@@ -8061,7 +7985,7 @@
    "date_confidence": "high",
    "price": "Reg €20",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "cfad313790889fe5"
   },
   {
@@ -8080,7 +8004,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/08/tosca-torino-2027-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "91468508dc11fde2"
   },
   {
@@ -8099,7 +8023,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/06/enrico-brignano-torino-2027-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "66828efcc8131969"
   },
   {
@@ -8118,7 +8042,7 @@
    "date_confidence": "high",
    "price": "Early €10 - Reg €15",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "42b7cc5993430b4b"
   },
   {
@@ -8137,7 +8061,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/02/massimo-ranieri-torino-2027-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "46784d9e4fe80f60"
   },
   {
@@ -8156,7 +8080,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/06/angelo-pintus-torino-2027-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "a8c13970a818e343"
   },
   {
@@ -8175,7 +8099,7 @@
    "date_confidence": "high",
    "price": "Reg €20",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "7720d4e4258dcd9e"
   },
   {
@@ -8194,7 +8118,7 @@
    "date_confidence": "high",
    "price": "Early €5 - Reg €15",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "e0f6d82fc614a6af"
   },
   {
@@ -8213,7 +8137,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/08/eugenio-finardi-torino-2027-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "d816f03d936d77cc"
   },
   {
@@ -8232,7 +8156,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/06/tedua-torino-2027-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "9300da36ae83ef55"
   },
   {
@@ -8251,7 +8175,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/10/bryan-adams-torino-2027-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "b0ef055978103e62"
   },
   {
@@ -8270,7 +8194,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/07/sfera-ebbasta-torino-2027-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "f85f7dc2e5101edb"
   },
   {
@@ -8289,7 +8213,7 @@
    "date_confidence": "high",
    "price": "Early €10 - Reg €20",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "b317f490fe9ca895"
   },
   {
@@ -8308,7 +8232,7 @@
    "date_confidence": "high",
    "price": "Early €5 - Reg €10 (€15 dopo l'01:00)",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "265237ef500a94c6"
   },
   {
@@ -8327,7 +8251,7 @@
    "date_confidence": "high",
    "price": "Reg €10",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "f2ef2f56bbafe104"
   },
   {
@@ -8346,7 +8270,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/05/afterhours-torino-2027-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "1231488c5f916574"
   },
   {
@@ -8365,7 +8289,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/05/cioccolato-2027-torino-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "7c196ade86ad19d0"
   },
   {
@@ -8384,7 +8308,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/08/aldo-cazzullo-torino-2027-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "df475db0768dfbba"
   },
   {
@@ -8403,7 +8327,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/05/luca-ravenna-torino-2027-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "cf596cee1ba56b5f"
   },
   {
@@ -8422,7 +8346,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "",
-   "fetched_at": "2026-10-31T15:54:53",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "a6af97accf022b7b"
   },
   {
@@ -8441,7 +8365,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/10/marina-massironi-otello-torino-2027-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "0c24d4164e821932"
   },
   {
@@ -8460,7 +8384,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/08/virginia-raffaele-torino-2027-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "1235c41726d98040"
   },
   {
@@ -8479,7 +8403,7 @@
    "date_confidence": "high",
    "price": "Reg €10",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "4cfb72da91c68394"
   },
   {
@@ -8498,7 +8422,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/06/gabry-ponte-torino-2027-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "9afd9c7610df59c2"
   },
   {
@@ -8517,7 +8441,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/06/max-pezzali-torino-2027-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "648b5fda3e2c5444"
   },
   {
@@ -8536,7 +8460,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/06/angelo-pintus-torino-2027-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "143e7050a04453a1"
   },
   {
@@ -8555,7 +8479,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/10/daniele-silvestri-torino-2027-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "5157223c44e92bd0"
   },
   {
@@ -8574,7 +8498,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/10/gazzelle-torino-2027-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "ddad58ac22672ebb"
   },
   {
@@ -8593,7 +8517,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/09/antonello-venditti-torino-2027-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "a13fd272dbe81ec4"
   },
   {
@@ -8612,7 +8536,7 @@
    "date_confidence": "high",
    "price": "Early €10 - Reg €15",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "639368f05f7ddb62"
   },
   {
@@ -8631,7 +8555,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/08/gianna-nannini-torino-2027-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "44636aa16491fbe3"
   },
   {
@@ -8650,7 +8574,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/08/roberto-saviano-torino-2027-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "68d2f25fa12a8e60"
   },
   {
@@ -8669,7 +8593,7 @@
    "date_confidence": "high",
    "price": "Reg €10",
    "image": "",
-   "fetched_at": "2026-10-31T15:55:01",
+   "fetched_at": "2026-10-31T20:21:41",
    "id": "d0be4c928594758b"
   },
   {
@@ -8688,7 +8612,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/02/francesco-renga-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "6660d38799ef26d7"
   },
   {
@@ -8707,7 +8631,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/07/masters-of-magic-torino-2027-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "2ffdbfd8e237ee15"
   },
   {
@@ -8726,7 +8650,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/10/carl-brave-torino-concerto-2027-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "85f18cfd2ca5f467"
   },
   {
@@ -8745,7 +8669,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/06/eros-ramazzotti-torino-2027-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "45c39690813ea234"
   },
   {
@@ -8764,7 +8688,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/03/pinguini-tattici-nucleari-torino-2027-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "b5891910ef1b75c8"
   },
   {
@@ -8783,7 +8707,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/06/olly-torino-2027-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "3dee5bb54fa0a1fe"
   },
   {
@@ -8802,7 +8726,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/08/europride-2027-torino-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "ddd17bc55b34ad9c"
   },
   {
@@ -8821,7 +8745,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/03/achille-lauro-torino-2027-stadio-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "9b81f113fd1f6ec5"
   },
   {
@@ -8840,7 +8764,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/07/kappa-futurfestival-2027-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "de642e8247bfe7b4"
   },
   {
@@ -8859,7 +8783,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/10/sting-asti-2027-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "2b745221542978cf"
   },
   {
@@ -8878,7 +8802,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/07/ultimo-torino-2027-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "a7356810c0d3a711"
   },
   {
@@ -8897,7 +8821,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2025/12/claudio-baglioni-torino-2026-226x143.jpg",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "6232cec2d3bdb6ea"
   },
   {
@@ -8916,7 +8840,7 @@
    "date_confidence": "high",
    "price": "",
    "image": "https://www.guidatorino.com/wp-content/uploads/2026/09/alfa-torino-2027-226x143.webp",
-   "fetched_at": "2026-10-31T15:54:54",
+   "fetched_at": "2026-10-31T20:21:32",
    "id": "4d161bbe8741245e"
   }
  ]
